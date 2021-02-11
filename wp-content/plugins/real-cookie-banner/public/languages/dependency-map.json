@@ -1,0 +1,134 @@
+{
+ "chunk-config-tab-dashboard.lite.js": [
+  "506.lite.js",
+  "647.lite.js",
+  "848.lite.js",
+  "242.lite.js",
+  "379.lite.js"
+ ],
+ "chunk-config-tab-settings.lite.js": [
+  "506.lite.js",
+  "899.lite.js",
+  "482.lite.js",
+  "749.lite.js",
+  "768.lite.js"
+ ],
+ "chunk-config-tab-cookies.lite.js": [
+  "506.lite.js",
+  "899.lite.js",
+  "647.lite.js",
+  "482.lite.js",
+  "857.lite.js",
+  "700.lite.js",
+  "643.lite.js",
+  "759.lite.js",
+  "749.lite.js",
+  "184.lite.js",
+  "718.lite.js"
+ ],
+ "chunk-config-tab-consent.lite.js": [
+  "506.lite.js",
+  "899.lite.js",
+  "647.lite.js",
+  "482.lite.js",
+  "848.lite.js",
+  "857.lite.js",
+  "759.lite.js",
+  "331.lite.js",
+  "625.lite.js"
+ ],
+ "chunk-config-tab-blocker.lite.js": [
+  "506.lite.js",
+  "899.lite.js",
+  "647.lite.js",
+  "482.lite.js",
+  "857.lite.js",
+  "700.lite.js",
+  "643.lite.js",
+  "749.lite.js",
+  "184.lite.js",
+  "478.lite.js"
+ ],
+ "chunk-config-tab-import.lite.js": [
+  "506.lite.js",
+  "899.lite.js",
+  "647.lite.js",
+  "482.lite.js",
+  "848.lite.js",
+  "362.lite.js",
+  "357.lite.js"
+ ],
+ "chunk-config-tab-licensing.lite.js": [
+  "506.lite.js",
+  "899.lite.js",
+  "647.lite.js",
+  "700.lite.js",
+  "322.lite.js"
+ ],
+ "chunk-config-tab-dashboard.pro.js": [
+  "506.pro.js",
+  "647.pro.js",
+  "848.pro.js",
+  "242.pro.js",
+  "379.pro.js"
+ ],
+ "chunk-config-tab-settings.pro.js": [
+  "506.pro.js",
+  "899.pro.js",
+  "482.pro.js",
+  "739.pro.js",
+  "768.pro.js"
+ ],
+ "chunk-config-tab-cookies.pro.js": [
+  "506.pro.js",
+  "899.pro.js",
+  "647.pro.js",
+  "482.pro.js",
+  "526.pro.js",
+  "700.pro.js",
+  "759.pro.js",
+  "643.pro.js",
+  "739.pro.js",
+  "86.pro.js",
+  "718.pro.js"
+ ],
+ "chunk-config-tab-consent.pro.js": [
+  "506.pro.js",
+  "899.pro.js",
+  "647.pro.js",
+  "482.pro.js",
+  "848.pro.js",
+  "526.pro.js",
+  "759.pro.js",
+  "188.pro.js",
+  "625.pro.js"
+ ],
+ "chunk-config-tab-blocker.pro.js": [
+  "506.pro.js",
+  "899.pro.js",
+  "647.pro.js",
+  "482.pro.js",
+  "526.pro.js",
+  "700.pro.js",
+  "643.pro.js",
+  "739.pro.js",
+  "86.pro.js",
+  "478.pro.js"
+ ],
+ "chunk-config-tab-import.pro.js": [
+  "506.pro.js",
+  "899.pro.js",
+  "647.pro.js",
+  "482.pro.js",
+  "848.pro.js",
+  "362.pro.js",
+  "357.pro.js"
+ ],
+ "chunk-config-tab-licensing.pro.js": [
+  "506.pro.js",
+  "899.pro.js",
+  "647.pro.js",
+  "700.pro.js",
+  "322.pro.js"
+ ]
+}

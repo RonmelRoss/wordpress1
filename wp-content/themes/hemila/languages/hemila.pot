@@ -1,0 +1,361 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hemila\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-14 08:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.3.4"
+
+#: footer.php:45
+msgid "&copy; All Right Reserved "
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: includes/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#. Description of the theme
+msgid "A perfect wordpress Multipurpose Blog Theme"
+msgstr ""
+
+#: functions.php:161
+msgid "Add Ads code or add any widget in here."
+msgstr ""
+
+#: functions.php:171 functions.php:180 functions.php:189
+msgid "Add footer widget here."
+msgstr ""
+
+#: functions.php:150
+msgid "Add widgets here."
+msgstr ""
+
+#: archive.php:23
+msgid "Blog Archive"
+msgstr ""
+
+#: includes/hemila-customizer/customize-post-slider.php:7
+msgid "Blog Slider"
+msgstr ""
+
+#: includes/tgm/required-plugins.php:30
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: header.php:106
+msgid "Close Menu"
+msgstr ""
+
+#: index.php:70 template-parts/content-single.php:24
+msgid "comments"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: includes/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: includes/hemila-customizer/customize-post-slider.php:21
+msgid "Enable Blog Slider?"
+msgstr ""
+
+#: includes/hemila-customizer/customize-header.php:20
+msgid "Enable post top title"
+msgstr ""
+
+#: includes/hemila-customizer/customize-header.php:61
+msgid "Enable Social Widget"
+msgstr ""
+
+#: includes/hemila-customizer/customize-top-grid-post.php:20
+msgid "Enable Top Grid Post?"
+msgstr ""
+
+#: header.php:86
+msgid "Follow Us"
+msgstr ""
+
+#: functions.php:169
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:178
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:187
+msgid "Footer Widget 3"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Found"
+msgstr ""
+
+#: functions.php:159
+msgid "Header Right"
+msgstr ""
+
+#. Name of the theme
+msgid "Hemila"
+msgstr ""
+
+#: includes/customizer.php:71
+msgid "Hemila awesome theme options"
+msgstr ""
+
+#: includes/customizer.php:70
+msgid "Hemila: Theme Settings"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://profiles.wordpress.org/sitebland/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://sitebland.com/demo/hemila/"
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:47
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: index.php:149
+msgid "Latest Articles"
+msgstr ""
+
+#. %s: post title
+#: includes/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: includes/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: includes/tgm/required-plugins.php:36
+msgid "Mailchimp for WordPress"
+msgstr ""
+
+#: header.php:97
+msgid "Menu"
+msgstr ""
+
+#: single.php:42
+msgid "Next:"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Nothing"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops!"
+msgstr ""
+
+#: includes/hemila-customizer/customize-breadcrumb.php:6
+msgid "Page Breadcrumb"
+msgstr ""
+
+#: includes/hemila-customizer/customize-breadcrumb.php:7
+msgid "Page Breadcrumb Settings."
+msgstr ""
+
+#: template-parts/content-page.php:25
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: includes/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: includes/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: includes/hemila-customizer/customize-post-slider.php:8
+#: includes/hemila-customizer/customize-top-grid-post.php:7
+msgid "Post Slider Settings."
+msgstr ""
+
+#: includes/hemila-customizer/customize-header.php:33
+msgid "Post Top title"
+msgstr ""
+
+#: includes/hemila-customizer/customize-header.php:46
+msgid "Post Top title description"
+msgstr ""
+
+#. 1: list of categories.
+#: includes/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: single.php:41
+msgid "Previous:"
+msgstr ""
+
+#: functions.php:59
+msgid "Primary"
+msgstr ""
+
+#: index.php:75
+msgid "Read Article"
+msgstr ""
+
+#: index.php:155
+msgid "Read the latest release articles and learn without limits."
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:27
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results: %s"
+msgstr ""
+
+#: includes/hemila-customizer/customize-post-slider.php:50
+#: includes/hemila-customizer/customize-top-grid-post.php:49
+msgid "Select category for Blog"
+msgstr ""
+
+#: includes/hemila-customizer/customize-breadcrumb.php:35
+msgid "Show archive breadcrumb"
+msgstr ""
+
+#: includes/hemila-customizer/customize-breadcrumb.php:20
+msgid "Show page breadcrumb"
+msgstr ""
+
+#: includes/hemila-customizer/customize-breadcrumb.php:61
+msgid "Show search breadcrumb"
+msgstr ""
+
+#: functions.php:148
+msgid "Sidebar Main"
+msgstr ""
+
+#. Author of the theme
+msgid "sitebland"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#. %s: Description
+#: includes/hemila-customizer/customize-header.php:95
+#, php-format
+msgid "Social icon link %s"
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. 1: list of tags.
+#: includes/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: 404.php:18
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:50
+#, php-format
+msgid "Theme %2$s  By  %1$s"
+msgstr ""
+
+#: includes/hemila-customizer/customize-header.php:6
+msgid "Theme Default"
+msgstr ""
+
+#: includes/hemila-customizer/customize-header.php:7
+msgid "Theme default Settings"
+msgstr ""
+
+#: includes/hemila-customizer/customize-top-grid-post.php:6
+msgid "Top Grid Post"
+msgstr ""
+
+#: includes/hemila-customizer/customize-breadcrumb.php:46
+msgid "Type Archive Title"
+msgstr ""
+
+#: includes/hemila-customizer/customize-post-slider.php:35
+#: includes/hemila-customizer/customize-top-grid-post.php:34
+msgid "Type post count"
+msgstr ""
+
+#. %s: Label
+#: includes/hemila-customizer/customize-header.php:79
+#, php-format
+msgid "Type social icon %s"
+msgstr ""
+
+#. %s: Description
+#: includes/hemila-customizer/customize-header.php:81
+#, php-format
+msgid "Use icon: Eg: %1$s. %2$s See more here %3$s"
+msgstr ""
+
+#: footer.php:45
+msgid "Y"
+msgstr ""

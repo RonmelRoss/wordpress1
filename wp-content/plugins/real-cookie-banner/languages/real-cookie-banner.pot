@@ -1,0 +1,2592 @@
+# Copyright (C) 2021 devowl.io
+# This file is distributed under the same license as the Real Cookie Banner plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: n/a\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/src\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: n/a\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+
+#. Plugin Name of the plugin
+msgid "Real Cookie Banner"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://devowl.io/wordpress-real-cookie-banner/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Obtain GDPR (DSGVO) and ePrivacy (EU cookie law) compliant opt-in cookie consent. Find cookies and fill all legal information in your cookie banner. More than just a cookie notice!"
+msgstr ""
+
+#. Author of the plugin
+msgid "devowl.io"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://devowl.io"
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "Start configuration"
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "key-features/presets.gif"
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "Cookie & Consent Management"
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "You can store all technical and legal information about cookies and services to obtain qualified consent. 40+ cookie templates and 25+ content blocker templates will help you to quickly and securely add all information."
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "key-features/content-blocker.gif"
+msgstr ""
+
+#: inc/AdInitiator.php:1
+#: inc/import/ImportBlocker.php:1
+#: inc/import/ImportBlocker.php:1
+#: inc/presets/UpdateNotice.php:1
+#: inc/settings/Blocker.php:1
+msgid "Content Blocker"
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "Themes, plugins and co. usually load scripts, styles and content that transfer data and set cookies before you have the consent of your visitors. Content Blockers make sure that these functions are only executed after the consent."
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "key-features/customize-presets.gif"
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "Customize design"
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "You can design the cookie banner according to your wishes. 10+ design presets and over 170 options give you the flexibility to customize the design to perfectly match with your corporate design. All changes are shown in a live preview."
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "key-features/guided-configuration.gif"
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "Guided configuration"
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "After installation, the checklist will guide you through all steps to set up Real Cookie Banner in a legally compliant manner. In addition, we explain the legal basis of features and legal consequences if you want to change settings."
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "key-features/list-of-consents.gif"
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "Documentation of consents"
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "The GDPR provides for a reversal of the burden of proof, which is why you must prove that a visitor has consented to cookies if he or she doubts it. We document consents completely and enable you to trace the origin of consent afterwards."
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "key-features/native-menu.gif"
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "Native solution in WordPress"
+msgstr ""
+
+#: inc/AdInitiator.php:1
+msgid "The content management is completely installed in your WordPress. You have no obligation to use a cloud service, which can raise further legal questions. So all data is in your hands, without dependence to a third server."
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "We have recognized that you are a crawler/bot. Only natural persons must consent to cookies. Therefore, the link has no function for you."
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "Technical cookie definition"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "Host"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "Duration"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "second(s)"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "minute(s)"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "hour(s)"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "day(s)"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "month(s)"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "year(s)"
+msgstr ""
+
+#: inc/Assets.php:1
+#: inc/view/customize/banner/BasicLayout.php:1
+#: inc/view/customize/banner/BasicLayout.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Type"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "Purpose"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "History of your privacy settings"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "Show cookie consent from"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "Not yet consented to"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "Close"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "Provider"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "Privacy Policy"
+msgstr ""
+
+#. translators:
+#: inc/Assets.php:1
+msgid "%1$s blocked due to privacy settings"
+msgstr ""
+
+#. translators:
+#: inc/Assets.php:1
+msgid "Accept required cookies and load content"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "Show all cookies that you still have to agree to"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "Loading the blocked content will adjust your privacy settings and content from this service will not be blocked in the future. You have the right to revoke or change your decision at any time."
+msgstr ""
+
+#. translators:
+#: inc/Assets.php:1
+msgid "and %d more"
+msgstr ""
+
+#. translators:
+#: inc/Assets.php:1
+#: inc/view/customize/banner/Texts.php:1
+msgid "US data processing"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "Yes"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "No"
+msgstr ""
+
+#: inc/Assets.php:1
+#: inc/overrides/pro/Stats.php:1
+#: inc/view/customize/banner/BasicLayout.php:1
+#: inc/view/customize/banner/BasicLayout.php:1
+#: inc/view/customize/banner/Design.php:1
+msgid "None"
+msgstr ""
+
+#: inc/Assets.php:1
+msgid "Product license not for production use!"
+msgstr ""
+
+#: inc/comp/language/Hooks.php:1
+msgid "If you delete a cookie group, it will not be deleted in other languages."
+msgstr ""
+
+#: inc/comp/language/Hooks.php:1
+msgid "If you delete a cookie, it will not be deleted in other languages."
+msgstr ""
+
+#: inc/comp/language/Hooks.php:1
+msgid "The export contains only data from the current language."
+msgstr ""
+
+#: inc/comp/language/Hooks.php:1
+msgid "Language"
+msgstr ""
+
+#: inc/Core.php:1
+msgid "https://devowl.io/go/real-cookie-banner?source=rcb-lite"
+msgstr ""
+
+#: inc/import/ExportConsent.php:1
+msgid "Please provide a UUID or a date range."
+msgstr ""
+
+#: inc/import/ExportConsent.php:1
+msgid "No consents found. Please navigate back and check your input."
+msgstr ""
+
+#: inc/import/ImportCookies.php:1
+#: inc/import/ImportCookies.php:1
+#: inc/presets/UpdateNotice.php:1
+#: inc/settings/Cookie.php:1
+msgid "Cookie"
+msgstr ""
+
+#: inc/import/ImportCustomizeBanner.php:1
+#: inc/import/ImportSettings.php:1
+msgid "Privacy policy page"
+msgstr ""
+
+#: inc/import/ImportCustomizeBanner.php:1
+#: inc/import/ImportSettings.php:1
+msgid "Imprint page"
+msgstr ""
+
+#: inc/import/ImportCustomizeBanner.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Logo"
+msgstr ""
+
+#: inc/import/ImportCustomizeBanner.php:1
+msgid "Logo (Retina)"
+msgstr ""
+
+#: inc/import/ImportGroups.php:1
+#: inc/import/ImportGroups.php:1
+#: inc/settings/CookieGroup.php:1
+msgid "Cookie Group"
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "Please provide a valid <code>%s</code> key."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "The %1$s with index <code>%2$d</code> is missing. Required properties: <code>%3$s</code>. Skipped."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "%1$s <strong>%2$s</strong> could not be created due to the following error: <code>%3$s</code>. Skipped."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "The new created content blocker <code>%s</code> could not correctly resolve the associated cookies."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "The cookie <code>%s</code> already exists. Skipped."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "The content blocker <code>%s</code> already exists. Skipped."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "The content blocker <code>%s</code> already exists. A new content blocker has been created anyway."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "The cookie <code>%s</code> already exists. A new cookie has been created anyway."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "The new created cookie <code>%s</code> has been added to the fallback cookie group because the original cookie group could not be found."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "The cookie <strong>%s</strong> could not be created because it exceeded the limit of free cookies. Skipped. Please upgrade to Real Cookie Banner PRO!"
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "The blocker <strong>%s</strong> could not be created because it exceeded the limit of free blockers. Skipped. Please upgrade to Real Cookie Banner PRO!"
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "The cookie <strong>%1$s</strong> could not be assigned to the given group due to the following error: <code>%2$s</code>. Skipped."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "The cookie group <strong>%1$s</strong> could not be updated due to the following error: <code>%2$s</code>. Skipped."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "The cookie group <strong>%s</strong> was not created. Instead, the existing one has been updated."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "Setting/Option <code>%s</code> can only be imported in the PRO version. Skipped."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "Setting/Option <code>%s</code> could not be updated. Skipped."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "Settings/Option <code>%s</code> not found or obsolete. Skipped."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "Setting/Option <strong>%1$s</strong> (key <code>%2$s</code>) cannot be imported because it refers to a page (ID). Skipped."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "Setting/Option <strong>%1$s</strong> (key <code>%2$s</code>) cannot be imported because it refers to a media URL/ID. Skipped."
+msgstr ""
+
+#. translators:
+#: inc/import/ImportMessages.php:1
+msgid "Setting/Option <strong>%1$s</strong> (key <code>%2$s</code>) cannot be imported. Skipped."
+msgstr ""
+
+#: inc/import/ImportSettings.php:1
+msgid "Hide on additional pages"
+msgstr ""
+
+#: inc/import/ImportSettings.php:1
+msgid "Forward to"
+msgstr ""
+
+#: inc/import/ImportSettings.php:1
+msgid "External 'Forward To' endpoints"
+msgstr ""
+
+#: inc/overrides/lite/Stats.php:1
+#: inc/overrides/lite/Stats.php:1
+#: inc/overrides/lite/Stats.php:1
+msgid "You are not allowed to do this in the free version of Real Cookie Banner. Please upgrade to Real Cookie Banner PRO!"
+msgstr ""
+
+#. translators:
+#: inc/overrides/pro/comp/language/Hooks.php:1
+msgid "Multilingual %1$s: %2$s"
+msgstr ""
+
+#: inc/overrides/pro/Forwarding.php:1
+msgid "Not found"
+msgstr ""
+
+#: inc/overrides/pro/presets/ActiveCampaignSiteTrackingPreset.php:1
+#: inc/overrides/pro/presets/AddThisPreset.php:1
+#: inc/overrides/pro/presets/AddToAnyPreset.php:1
+#: inc/overrides/pro/presets/AmazonAssociatesWidgetPreset.php:1
+#: inc/overrides/pro/presets/FacebookLikePreset.php:1
+#: inc/overrides/pro/presets/FacebookPagePluginPreset.php:1
+#: inc/overrides/pro/presets/FacebookPixelPreset.php:1
+#: inc/overrides/pro/presets/FacebookSharePreset.php:1
+#: inc/overrides/pro/presets/FreshchatPreset.php:1
+#: inc/overrides/pro/presets/GoogleAds.php:1
+#: inc/overrides/pro/presets/GoogleAdSensePreset.php:1
+#: inc/overrides/pro/presets/HelpCrunchChatPreset.php:1
+#: inc/overrides/pro/presets/HelpScoutChatPreset.php:1
+#: inc/overrides/pro/presets/HotjarPreset.php:1
+#: inc/overrides/pro/presets/IntercomChatPreset.php:1
+#: inc/overrides/pro/presets/LuckyOrangePreset.php:1
+#: inc/overrides/pro/presets/MailchimpForWooCommercePreset.php:1
+#: inc/overrides/pro/presets/MailerLitePreset.php:1
+#: inc/overrides/pro/presets/MicrosoftClarityPreset.php:1
+#: inc/overrides/pro/presets/MouseflowPreset.php:1
+#: inc/overrides/pro/presets/ReamazeChatPreset.php:1
+#: inc/overrides/pro/presets/TawkToChatPreset.php:1
+#: inc/overrides/pro/presets/TidioChatPreset.php:1
+#: inc/overrides/pro/presets/ZendeskChatPreset.php:1
+#: inc/settings/CookieGroup.php:1
+msgid "Marketing"
+msgstr ""
+
+#: inc/overrides/pro/presets/ActiveCampaignSiteTrackingPreset.php:1
+msgid "ActiveCampaign is a marketing platform that analyzes the interaction of potential customers and customers and their communication. The collected data can be used to individualize marketing for each user. The ActiveCampaign Site Tracking combines marketing and sales process with an analysis of the behavior of users on the website, where the behavior of each individual user can be tracked in real time. In addition, Site Tracking connects the collected data with the conversion tracking of ActiveCampaign. Cookies are used to uniquely identify the user and track them across multiple subpages."
+msgstr ""
+
+#: inc/overrides/pro/presets/ActiveCampaignSiteTrackingPreset.php:1
+msgid "https://www.activecampaign.com/legal/privacy-policy"
+msgstr ""
+
+#: inc/overrides/pro/presets/ActiveCampaignSiteTrackingPreset.php:1
+msgid "You can find your ActiveCampaign Account ID in the Site Tracking Code. To do so, go to your ActiveCampaign Dashboard under Settings (gear) > Tracking > Install Whitelists and Code > Tracking Code."
+msgstr ""
+
+#: inc/overrides/pro/presets/AddThisPreset.php:1
+msgid "AddThis allows providing links and buttons for sharing content on a variety of social networks and other communication tools on the internet. Cookie are used to enable the core functionality of AddThis, to enable AddThis Publishers and Oracle Marketing & Data Cloud customers and partners to market products and services to you,  to provide personalized recommendations and messages,  to link browsers and apps across devices, to sync unique identifiers; and, to analyze, develop, and improve the AddThis Tools and Oracle products and services and to manage the security of our sites, networks, and systems."
+msgstr ""
+
+#: inc/overrides/pro/presets/AddThisPreset.php:1
+msgid "https://www.oracle.com/legal/privacy/addthis-privacy-policy.html"
+msgstr ""
+
+#: inc/overrides/pro/presets/AddThisPreset.php:1
+msgid "Please note that you should disable the \"Share Counters\" feature in your AddThis dashboard. This feature includes scripts of the embedded services (e.g. Facebook, Twitter, Pinterest) and transfers data without consent."
+msgstr ""
+
+#: inc/overrides/pro/presets/AddToAnyPreset.php:1
+msgid "AddToAny allows providing links and buttons for sharing content on a variety of social networks and other communication tools on the internet. The cookies are used to uniquely identify the user and classify him or her as a potential attacker and to determine the fastest available server."
+msgstr ""
+
+#: inc/overrides/pro/presets/AddToAnyPreset.php:1
+msgid "This template assumes that you use the <a href=\"https://wordpress.org/plugins/add-to-any/\" target=\"_blank\">AddToAny WordPress plugin</a>. The template is not suitable to add Facebook Like, Twitter Tweet or Pinterest Pin button in AddToAny. If you want to use any of these buttons, please use it without AddToAny and additionally create the cookies and content blockers for the respective service."
+msgstr ""
+
+#: inc/overrides/pro/presets/AdobeTypekitPreset.php:1
+#: inc/overrides/pro/presets/AnchorFmPreset.php:1
+#: inc/overrides/pro/presets/AppleMusicPreset.php:1
+#: inc/overrides/pro/presets/BingMapsPreset.php:1
+#: inc/overrides/pro/presets/CustomFacebookFeedPreset.php:1
+#: inc/overrides/pro/presets/DiscordWidgetPreset.php:1
+#: inc/overrides/pro/presets/FacebookPostPreset.php:1
+#: inc/overrides/pro/presets/FlickrPreset.php:1
+#: inc/overrides/pro/presets/GoogleMapsPreset.php:1
+#: inc/overrides/pro/presets/GoogleRecaptchaPreset.php:1
+#: inc/overrides/pro/presets/GoogleTranslatePreset.php:1
+#: inc/overrides/pro/presets/GoogleTrendsPreset.php:1
+#: inc/overrides/pro/presets/GtmPreset.php:1
+#: inc/overrides/pro/presets/ImgurPreset.php:1
+#: inc/overrides/pro/presets/InstagramPostPreset.php:1
+#: inc/overrides/pro/presets/MtmPreset.php:1
+#: inc/overrides/pro/presets/MyFontsPreset.php:1
+#: inc/overrides/pro/presets/PinterestPreset.php:1
+#: inc/overrides/pro/presets/ProvenExpertWidgetPreset.php:1
+#: inc/overrides/pro/presets/RedditPreset.php:1
+#: inc/overrides/pro/presets/SpotifyPreset.php:1
+#: inc/overrides/pro/presets/TikTokPreset.php:1
+#: inc/overrides/pro/presets/TwitterTweetPreset.php:1
+#: inc/overrides/pro/presets/UserlikePreset.php:1
+#: inc/overrides/pro/presets/ZohoBookingsPreset.php:1
+#: inc/overrides/pro/presets/ZohoFormsPreset.php:1
+#: inc/presets/free/FontAwesomePreset.php:1
+#: inc/presets/free/GoogleFontsPreset.php:1
+#: inc/presets/free/GravatarPreset.php:1
+#: inc/presets/free/JetPackCommentsPreset.php:1
+#: inc/presets/free/SoundCloudPreset.php:1
+#: inc/presets/free/VimeoPreset.php:1
+#: inc/presets/free/WordPressCommentsPreset.php:1
+#: inc/presets/free/WordPressEmojisPreset.php:1
+#: inc/presets/free/YoutubePreset.php:1
+#: inc/settings/CookieGroup.php:1
+msgid "Functional"
+msgstr ""
+
+#: inc/overrides/pro/presets/AdobeTypekitPreset.php:1
+msgid "Adobe Fonts (Typekit) is a service that downloads fonts that are not installed on the client device of the user and embeds them into the website. No cookies in the technical sense are set on the client of the user, but technical and personal data such as the IP address will be transmitted from the client to the server of the service provider to make the use of the service possible."
+msgstr ""
+
+#: inc/overrides/pro/presets/AdobeTypekitPreset.php:1
+msgid "There is no need for an opt-in script, because this service is probably already injected via e.g. your theme. In addition to this cookie, please create a content blocker that automatically blocks the Adobe Fonts (Typekit) injection of e. g. your theme before you have the consent of your user."
+msgstr ""
+
+#: inc/overrides/pro/presets/AmazonAssociatesWidgetPreset.php:1
+msgid "Amazon Associates offers widgets that show relevant articles that users can buy on Amazon or search for articles on Amazon. The cookies are used to collect statistics of user behavior, link data from registered users on the Amazon website to their account and to display personalized recommendations for each individual user."
+msgstr ""
+
+#: inc/overrides/pro/presets/AmazonAssociatesWidgetPreset.php:1
+msgid "The following opt-in code is only an example and is therefore disabled (HTML comment). Please follow these steps to correctly add ONE Amazon Associates widget on your website:"
+msgstr ""
+
+#: inc/overrides/pro/presets/AmazonAssociatesWidgetPreset.php:1
+msgid "Go to Amazon Associates > Widgets and create your own custom widget code (similar to them below)."
+msgstr ""
+
+#: inc/overrides/pro/presets/AmazonAssociatesWidgetPreset.php:1
+msgid "Enter the widget code in the \"Code executed on opt-in\" field of this cookie."
+msgstr ""
+
+#: inc/overrides/pro/presets/AmazonAssociatesWidgetPreset.php:1
+msgid "Define an unique ID for the HTML element where the Amazon Associates Widget will be placed in the field \"Amazon widget HTML ID\" (e. g. <code>amzn-widget</code>)."
+msgstr ""
+
+#: inc/overrides/pro/presets/AmazonAssociatesWidgetPreset.php:1
+msgid "Insert an empty div element with the defined HTML ID somewhere in your website, where the widget should appear after user consent (e. g. <code>&lt;div id=\"amzn-widget\">&lt;/div></code> in the sidebar of your blog)."
+msgstr ""
+
+#: inc/overrides/pro/presets/AmazonAssociatesWidgetPreset.php:1
+msgid "Do NOT REMOVE this line!"
+msgstr ""
+
+#: inc/overrides/pro/presets/AmazonAssociatesWidgetPreset.php:1
+msgid "This is just an example, replace with your script!"
+msgstr ""
+
+#. translators:
+#: inc/overrides/pro/presets/AnalytifyPreset.php:1
+msgid "Please do not forget to activate the option <a href=\"%s\" target=\"_blank\">Anonymize IP Addresses</a> in Analytify to comply with the GDPR. If you enable the \"Setup Cross-domain Tracking\" feature, you must also set the corresponding additional cookies here."
+msgstr ""
+
+#: inc/overrides/pro/presets/AnchorFmPreset.php:1
+msgid "Anchor allows embedding content posted on anchor.fm directly into websites. No cookies in the technical sense are set on the client of the user, but technical and personal data such as the IP address will be transmitted from the client to the server of the service provider to make the use of the service possible."
+msgstr ""
+
+#: inc/overrides/pro/presets/AppleMusicPreset.php:1
+msgid "Apple Music allows to embed music from music.apple.com directly into websites. The cookies are used to give an ID to the showed player based on a UNIX timestamp and to collect visited web pages and detailed statistics about user behavior. This data can be linked to the data of users registered on apple.com or a natively installed Apple Music applications."
+msgstr ""
+
+#: inc/overrides/pro/presets/AppleMusicPreset.php:1
+msgid "https://www.apple.com/legal/privacy/en-ww/"
+msgstr ""
+
+#: inc/overrides/pro/presets/BingMapsPreset.php:1
+msgid "Bing Maps displays maps on the website as iframe or via JavaScript directly embedded as part of the website. Cookies are used to temporarily store the current state of the map. In addition, an advertising ID is assigned with which the client can be identified. It will collect visited websites and detailed statistics about the user behavior."
+msgstr ""
+
+#: inc/overrides/pro/presets/BingMapsPreset.php:1
+msgid "https://privacy.microsoft.com/en-us/privacystatement"
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/ActiveCampaignFormPreset.php:1
+msgid "ActiveCampaign Form with Google reCAPTCHA"
+msgstr ""
+
+#. translators:
+#: inc/overrides/pro/presets/blocker/ActiveCampaignFormPreset.php:1
+#: inc/overrides/pro/presets/blocker/CalderaFormsPreset.php:1
+#: inc/overrides/pro/presets/blocker/CleverReachRecaptchaPreset.php:1
+#: inc/overrides/pro/presets/blocker/ContactForm7RecaptchaPreset.php:1
+#: inc/overrides/pro/presets/blocker/FormidablePreset.php:1
+#: inc/overrides/pro/presets/blocker/FormMakerRecaptchaPreset.php:1
+#: inc/overrides/pro/presets/blocker/NinjaFormsPreset.php:1
+#: inc/overrides/pro/presets/blocker/WPFormsPreset.php:1
+msgid "We use Google reCAPTCHA to protect our forms from spam. You must accept to load Google reCAPTCHA to send us a message via the form. Alternatively, you can email us from your own email client to %s."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/AddToAnyPreset.php:1
+msgid "Links to share the content on various social networks has been blocked because you do not allow loading."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/AnchorFmPreset.php:1
+msgid "Audio from Anchor has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/AppleMusicPreset.php:1
+msgid "Music from Apple Music has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/BingMapsPreset.php:1
+msgid "A map from Bing Maps has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/CalderaFormsPreset.php:1
+msgid "Caldera Forms with Google reCAPTCHA"
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/CleverReachRecaptchaPreset.php:1
+msgid "CleverReach with Google reCAPTCHA"
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/ContactForm7RecaptchaPreset.php:1
+msgid "Contact Form 7 with Google reCAPTCHA"
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/CustomFacebookFeedPreset.php:1
+msgid "A feed from facebook.com has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/CustomTwitterFeedPreset.php:1
+msgid "A tweet feed from Twitter has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/DiscordWidgetPreset.php:1
+msgid "Widget from Discord has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/FacebookLikePreset.php:1
+msgid "Facebook Like Button has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/FacebookPagePluginPreset.php:1
+msgid "Information about a Facebook Page has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/FacebookPostPreset.php:1
+msgid "An embedded post from facebook.com has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/FacebookSharePreset.php:1
+msgid "Facebook Share Button has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/FlickrPreset.php:1
+msgid "An image from Flickr has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/FormidablePreset.php:1
+msgid "Formidable with Google reCAPTCHA"
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/FormMakerRecaptchaPreset.php:1
+msgid "Form Maker with Google reCAPTCHA"
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/GoogleMapsPreset.php:1
+msgid "A map from Google Maps has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/GoogleTrendsPreset.php:1
+msgid "Search trends chart from Google Trends has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/ImgurPreset.php:1
+msgid "Content from Imgur has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/InstagramPostPreset.php:1
+msgid "An image or video from Instagram has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/MailerLitePreset.php:1
+msgid "The email newsletter subscription form is blocked because you have not allowed our email marketing provider MailerLite to load."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/NinjaFormsPreset.php:1
+msgid "Ninja Forms with Google reCAPTCHA"
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/PinterestPreset.php:1
+msgid "Content from Pinterest has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/ProvenExpertWidgetPreset.php:1
+msgid "Widget that shows ratings on Proven Expert has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/RedditPreset.php:1
+msgid "An embedded post from reddit.com has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/SpotifyPreset.php:1
+msgid "Music from Spotify has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/TikTokPreset.php:1
+msgid "Video from TikTok has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/TwitterTweetPreset.php:1
+msgid "A tweet from Twitter has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/WPFormsPreset.php:1
+msgid "WPForms with Google reCAPTCHA"
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/ZohoBookingsPreset.php:1
+msgid "We use Zoho Bookings to enable you to book appointments online on our website. In order to use the form, you must allow this service to load."
+msgstr ""
+
+#: inc/overrides/pro/presets/blocker/ZohoFormsPreset.php:1
+msgid "We use the Zoho Forms service to insert forms on our websites. In order to use the form, you must allow this service to load."
+msgstr ""
+
+#: inc/overrides/pro/presets/CleanTalkSpamProtectPreset.php:1
+#: inc/overrides/pro/presets/CloudflarePreset.php:1
+#: inc/overrides/pro/presets/PaddleComPreset.php:1
+#: inc/overrides/pro/presets/PolyLangPreset.php:1
+#: inc/overrides/pro/presets/StripePreset.php:1
+#: inc/overrides/pro/presets/UltimateMemberPreset.php:1
+#: inc/overrides/pro/presets/WooCommercePreset.php:1
+#: inc/overrides/pro/presets/WordfencePreset.php:1
+#: inc/overrides/pro/presets/WPMLPreset.php:1
+#: inc/presets/free/ElementorPreset.php:1
+#: inc/presets/free/RealCookieBannerPreset.php:1
+#: inc/presets/free/WordPressUserLoginPreset.php:1
+#: inc/settings/CookieGroup.php:1
+msgid "Essential"
+msgstr ""
+
+#: inc/overrides/pro/presets/CleanTalkSpamProtectPreset.php:1
+msgid "CleanTalk is supposed to prevent access by attackers through a firewall and filters input in forms, e.g. comments, to prevent spam. Cookies are used to test whether cookies may be set, to collect information about the behavior of the visitor, e.g. from which website he was referred, number of page views, time of the first visit or time of the last visit, information about the device used by the user, e.g. whether JavaScript is allowed in the browser or the time zone of the user, and to assign a unique user ID to be able to recognize him in the firewall."
+msgstr ""
+
+#: inc/overrides/pro/presets/CloudflarePreset.php:1
+msgid "Cloudflare protects websites from malicious traffic and stores parts of the website in the cache for faster delivery. Cloudflare can also deliver a cached version of the website if the server of the website is unavailable. The cookies are used to uniquely identify the user and classify him or her as a potential attacker and to determine the fastest available server."
+msgstr ""
+
+#: inc/overrides/pro/presets/CustomFacebookFeedPreset.php:1
+msgid "Our Facebook feeds use Facebook CDN (Content Delivery Network). The CDN refers to a geographically distributed group of servers to provide fast delivery of content like images and videos. No cookies in the technical sense are set on the client of the user, but technical and personal data such as the IP address will be transmitted from the client to the server of the service provider to make the use of the service possible."
+msgstr ""
+
+#: inc/overrides/pro/presets/CustomFacebookFeedPreset.php:1
+msgid "There is no need for an opt-in script. In addition to this cookie, please create a content blocker that automatically blocks content from Facebook CDN."
+msgstr ""
+
+#: inc/overrides/pro/presets/CustomTwitterFeedPreset.php:1
+msgid "There is no need for an opt-in script. In addition to this cookie, please create a content blocker that automatically blocks content from Twitter."
+msgstr ""
+
+#: inc/overrides/pro/presets/DiscordWidgetPreset.php:1
+msgid "Discord widgets allow us to show information about Discord servers like members that are currently online. Cookies are used to uniquely identify the user and classify him or her as a potential attacker and to determine the fastest available server."
+msgstr ""
+
+#. translators:
+#: inc/overrides/pro/presets/ExactMetricsPreset.php:1
+msgid "Please do not forget to activate the option <a href=\"%s\" target=\"_blank\">Anonymize IP Addresses</a> in ExactMetrics to comply with the GDPR. If you enable the \"Cross Domain Tracking\" feature, you must also set the corresponding additional cookies here."
+msgstr ""
+
+#: inc/overrides/pro/presets/FacebookLikePreset.php:1
+msgid "Facebook Like button allows users to show their support for specific blog articles, pictures, wall posts, fan pages or similar content on Facebook. The cookies are used to collect likes content as well as to collect visited websites. This data can be linked to the data of users registered on facebook.com with their Facebook accounts."
+msgstr ""
+
+#: inc/overrides/pro/presets/FacebookLikePreset.php:1
+msgid "The default opt-in script is optimized for the use of the Facebook Like button via the Facebook JavaScript SDK in the opt-in script. If you use the Facebook Like button as an iframe or have already injected the Facebook SDK somewhere else (e. g. via a plugin), you must create a content blocker to block it before you have the consent of the user and delete the default opt-in script below."
+msgstr ""
+
+#: inc/overrides/pro/presets/FacebookPagePluginPreset.php:1
+msgid "Facebook Page Plugin shows information about a specific Facebook fan page that the visitor of this website may like. The cookies are used to collect likes content as well as to collect visited websites. This data can be linked to the data of users registered on facebook.com with their Facebook accounts."
+msgstr ""
+
+#: inc/overrides/pro/presets/FacebookPagePluginPreset.php:1
+msgid "The default opt-in script is optimized for the use of the Facebook Page Plugin via the Facebook JavaScript SDK in the opt-in script. If you use the Facebook Page Plugin as an iframe or have already injected the Facebook SDK somewhere else (e. g. via a plugin), you must create a content blocker to block it before you have the consent of the user and delete the default opt-in script below."
+msgstr ""
+
+#: inc/overrides/pro/presets/FacebookPixelPreset.php:1
+msgid "Facebook Pixel helps to determine whether you are the target audience for presenting ads within the Facebook advertising network. The Facebook Pixel also allows to track the effectiveness of Facebook Ads. With the additional \"extended comparison\" feature, information stored in your Facebook account, such as email addresses or Facebook IDs of users, is used in encrypted form to target audiences. Cookies are used to differentiate users and to record their behavior on the website in detail and to link this data with advertising data from the Facebook advertising network. This data can be linked to the data of users registered on facebook.com with their Facebook accounts."
+msgstr ""
+
+#: inc/overrides/pro/presets/FacebookPostPreset.php:1
+msgid "Facebook allows embedding content posted on facebook.com directly into websites. The cookies are used to collect visited websites and detailed statistics about the user behaviour. This data can be linked to the data of users registered on facebook.com."
+msgstr ""
+
+#: inc/overrides/pro/presets/FacebookPostPreset.php:1
+msgid "You can use Facebook's <a href=\"https://developers.facebook.com/docs/plugins/embedded-posts/\" target=\"_blank\">embedded post generator</a> to generate a HTML code to embed post with the Facebook JavaScript SDK. Loading the JavaScript SDK is part of the opt-in code. All you need to do is place the HTML div and blockqoute elements where you want the embedded post to be visible on your site. If you use Facebook post as Iframe embeeds, please create in addition a content blocker for Facebook Posts to block loading of the content before you have the consent of the user."
+msgstr ""
+
+#: inc/overrides/pro/presets/FacebookSharePreset.php:1
+msgid "Facebook Share button allows users to share a link directly on Facebook. The cookies are used to collect shared links as well as to collect visited websites. This data can be linked to the data of users registered on facebook.com with their Facebook accounts."
+msgstr ""
+
+#: inc/overrides/pro/presets/FacebookSharePreset.php:1
+msgid "The default opt-in script is optimized for the use of the Facebook Share button via the Facebook JavaScript SDK in the opt-in script. If you use the Facebook Share button as an iframe or have already injected the Facebook SDK somewhere else (e. g. via a plugin), you must create a content blocker to block it before you have the consent of the user and delete the default opt-in script below."
+msgstr ""
+
+#: inc/overrides/pro/presets/FlickrPreset.php:1
+msgid "Flickr is an image hosting service and you can view the images shared on the platform. No cookies in the technical sense are set on the client of the user, but technical and personal data such as the IP address will be transmitted from the client to the server of the service provider to make the use of the service possible."
+msgstr ""
+
+#: inc/overrides/pro/presets/FlickrPreset.php:1
+msgid "Please create a content blocker in addition to this cookie to block images embedded by Flickr before the user has given their consent."
+msgstr ""
+
+#: inc/overrides/pro/presets/FreshchatPreset.php:1
+msgid "Freshchat is a customer service tool that provides live chat for websites. The cookies are used to identify the user, associate previous messages with their chat history and collect detailed statistics on his/her behavior."
+msgstr ""
+
+#: inc/overrides/pro/presets/FreshchatPreset.php:1
+msgid "You can find the host and token for the Freshchat widget in your Freshchat backend under Settings > Web Messenger. The information is included in the JavaScript code. Please note that the original code from Freshdesk will not work because it can only be loaded without a consent tool like Real Cookie Banner. The following opt-in code is therefore slightly modified."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleAds.php:1
+msgid "Google Ads Conversation Tracking tracks the conversion rate and success of Google Ads campaigns. Cookies are used to differentiate users and track their behavior on the site in detail, and to associate this data with advertising data from the Google Ads advertising network. This data may be linked to data about users who have signed in to their Google accounts on google.com or a localised version of Google."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleAds.php:1
+msgid "If you have already used Google Ads before creating this cookie, please deactivate the script/plugin with which the service was loaded so far. The opt-in script will now take care of the correct integration."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleAdSensePreset.php:1
+msgid "Google AdSense allows websites to place ads from the Google Ads advertising network on their website and be paid for it. Cookies are used to distinguish users and track their behavior on the website in detail and to associate this data with advertising data from the Google Ads advertising network. The data will be evaluated for the targeted placement of ads and to measure the success of the advertising. This data may be linked to data about users who have signed in to their Google accounts on google.com or a localised version of Google."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleAdSensePreset.php:1
+msgid "Please create your ad HTML codes in Google AdSense under Menu > Ads > Overview > By ad unit. You do NOT need to include the &lt;script> tags of the generated ad unit, but only the &lt;ins> tags in the position where you want the ad to appear, so that the ads work after the consent of the user.<br /><br />If you have already used Google AdSense before creating this cookie, please deactivate the script/plugin with which the service was loaded so far. The opt-in script will now take care of the correct integration."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleAnalytics4Preset.php:1
+#: inc/overrides/pro/presets/GoogleAnalyticsPreset.php:1
+#: inc/overrides/pro/presets/MatomoPreset.php:1
+#: inc/presets/free/JetpackSiteStatsPreset.php:1
+#: inc/settings/CookieGroup.php:1
+msgid "Statistic"
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleAnalytics4Preset.php:1
+msgid "Google Analytics is a service for creating detailed statistics of user behavior on the website. The cookies are used to differentiate users, store campaign related information for and from the user and to link data from multiple page views."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleAnalytics4Preset.php:1
+#: inc/overrides/pro/presets/GoogleAnalyticsPreset.php:1
+msgid "If you have already used Google Analytics before creating this cookie, please deactivate the script/plugin with which the service was loaded so far. The opt-in script will now take care of the correct integration."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleAnalytics4Preset.php:1
+msgid "You can only use this template with a Google Analytics 4 property with a Google Analytics measure ID (avaible since from October 2020). If you have a Google Analytics tracking ID such as <code>GA-123456789-0</code>, please use the Google Analytics Universal Analytics template."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleAnalyticsPreset.php:1
+msgid "Deprecated"
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleAnalyticsPreset.php:1
+msgid "This cookie works if you have a Google Analytics Universal Analytics property. This property must been created on Google Analytics before October 14, 2020. All Google Analytics properties created after that date are normal Google Analytics 4 properties."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleAnalyticsPreset.php:1
+msgid "Google Analytics is a service for creating detailed statistics of user behavior on the website. The cookies are used to differentiate users, throttle the request rate, link the client ID to the AMP client ID of the user, store campaign related information for and from the user and to link data from multiple page views."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleMapsPreset.php:1
+msgid "Google Maps displays maps on the website as iframe or via JavaScript directly embedded as part of the website. No cookies in the technical sense are set on the client of the user, but technical and personal data such as the IP address will be transmitted from the client to the server of the service provider to make the use of the service possible."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleMapsPreset.php:1
+msgid "Please use only Google Maps v3 or later to be GDPR compliant. In addition, you must create a content blocker that will block Google Maps until the user gives consent to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleRecaptchaPreset.php:1
+msgid "Google reCAPTCHA is a solution for detecting bots, e. g. when entering data into online forms, and preventing spam. The cookies are used to identify the user as a user within the data known to Google and to estimate the malignancy of the user."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleRecaptchaPreset.php:1
+msgid "Please make sure that e. g. your contact form does not load Google reCAPTCHA before approval. In many cases, but not all, you can create a content blocker for this purpose (templates for common contact form WordPress plugins are available)."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleTranslatePreset.php:1
+msgid "Google Translate is a service that can automatically translate websites into another language. Cookies are used to store the language into which the website should be translated and to track the user behavior on the website. This data can be linked to the data of users signed-in on google.com with their Google accounts or a localised version of Google."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleTranslatePreset.php:1
+msgid "There is no need for an opt-in script, because this service should already be injected via a plugin like GTranslate. In addition to the cookie, you must create a content blocker that will block Google Translate until the user gives consent to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/GoogleTrendsPreset.php:1
+msgid "Google Trends allows embedding aggregated search data and trends directly into websites. The cookies are used to collect visited websites and detailed statistics about the user behavior. This data can be linked to the data of users registered on google.com or localized versions of these services."
+msgstr ""
+
+#: inc/overrides/pro/presets/GtmPreset.php:1
+#: inc/overrides/pro/presets/MtmPreset.php:1
+msgid "Disabled"
+msgstr ""
+
+#. translators:
+#: inc/overrides/pro/presets/GtmPreset.php:1
+#: inc/overrides/pro/presets/MtmPreset.php:1
+msgid "Please activate %s in settings to use this template."
+msgstr ""
+
+#. translators:
+#: inc/overrides/pro/presets/GtmPreset.php:1
+msgid "Google Tag Manager"
+msgstr ""
+
+#: inc/overrides/pro/presets/GtmPreset.php:1
+msgid "Google Tag Manager is a service for managing tags triggered by a specific event that injects a third script or sends data to a third service. No cookies in the technical sense are set on the client of the user, but technical and personal data such as the IP address will be transmitted from the client to the server of the service provider to make the use of the service possible."
+msgstr ""
+
+#: inc/overrides/pro/presets/GtmPreset.php:1
+msgid "If you have already used Google Tag Manager before creating this cookie, please deactivate the script/plugin with which the service was loaded so far. The opt-in script will now take care of the correct integration."
+msgstr ""
+
+#: inc/overrides/pro/presets/HelpCrunchChatPreset.php:1
+msgid "HelpCrunch is a customer service tool that provides live chat for websites. The cookies are used to identify the user, associate previous messages with their chat history and collect detailed statistics on his/her behavior."
+msgstr ""
+
+#: inc/overrides/pro/presets/HelpCrunchChatPreset.php:1
+msgid "You can find all HelpCrunch variables in your HelpCrunch backend under Settings > Website Widgets > [widget name] > CMS Plugin Code. Please note that you need to use GTM Code if you want to use JavaScript code directly from your HelpCrunch backend (even if you do not use Google Tag Manager, since Real Cookie Banner works in a similar way and HelpCrunch's default JavaScript code does not work with this method).<br /><br />If you have already used HelpCrunch before creating this cookie, please deactivate the script/plugin with which the service was loaded so far. The opt-in script will now take care of the correct integration."
+msgstr ""
+
+#: inc/overrides/pro/presets/HelpScoutChatPreset.php:1
+msgid "Help Scout is a customer service tool that provides live chat for websites. The cookies are used to identify the user, associate previous messages with their chat history and collect detailed statistics on his/her behavior."
+msgstr ""
+
+#: inc/overrides/pro/presets/HelpScoutChatPreset.php:1
+msgid "You have to create a so-called Beacon on <a href=\"https://secure.helpscout.net\" target=\"_blank\">secure.helpscout.net</a> > Manager > Beacon > New Beacon. After creating in the Beacon Customizer, the URL looks like <code>https://secure.helpscout.net/settings/beacons/c676047b-c2e8-45b1-8319-344f4e7e2431/customize</code>. This means that the HelpScout Beacon ID is <code>c676047b-c2e8-45b1-8319-344f4e7e2431</code>.<br /><br />If you have already used Help Scout before creating this cookie, please deactivate the script/plugin with which the service was loaded so far. The opt-in script will now take care of the correct integration."
+msgstr ""
+
+#: inc/overrides/pro/presets/HotjarPreset.php:1
+msgid "Hotjar is a service for behavior analysis and collecting user feedback. It creates heat maps and session records of the website user and plays out surveys. The cookies are used to identify the user across multiple sub-pages, to store the status of surveys, to control the play of displays and to link data collected during session recordings."
+msgstr ""
+
+#: inc/overrides/pro/presets/HotjarPreset.php:1
+msgid "If you have already used Hotjar before creating this cookie, please deactivate the script/plugin with which the service was loaded so far. The opt-in script will now take care of the correct integration."
+msgstr ""
+
+#: inc/overrides/pro/presets/ImgurPreset.php:1
+msgid "Imgur allows embedding content posted on imgur.com directly into websites."
+msgstr ""
+
+#: inc/overrides/pro/presets/ImgurPreset.php:1
+msgid "There is no need for an opt-in script, because the Imgur content is normally loaded in an iframe. You must create a content blocker that will block Imagur until the user gives consent to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/InstagramPostPreset.php:1
+msgid "Instagram allows embedding content posted on instagram.com directly into websites. The cookies are used to collect visited websites and detailed statistics about the user behaviour. This data can be linked to the data of users registered on instagram.com and facebook.com."
+msgstr ""
+
+#: inc/overrides/pro/presets/InstagramPostPreset.php:1
+msgid "There is no need for an opt-in script, because the Instagram content is normally loaded by a code in a post or page. You must create a content blocker that will block Instagram until the user gives consent to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/IntercomChatPreset.php:1
+msgid "Intercom is a customer service tool that provides live chat for websites. The cookies are used to identify the user, associate previous messages with their chat history and collect detailed statistics on his/her behavior."
+msgstr ""
+
+#: inc/overrides/pro/presets/IntercomChatPreset.php:1
+msgid "Go to \"Message Settings\" in the Intercom backend. You should have a URL like <code>https://app.intercom.com/a/apps/idx85jlx/messenger</code> in your address bar. In this case <code>idx85jlx</code> is your Intercom App ID.<br /><br />If you have already used Intercom before creating this cookie, please deactivate the script/plugin with which the service was loaded so far. The opt-in script will now take care of the correct integration."
+msgstr ""
+
+#: inc/overrides/pro/presets/LuckyOrangePreset.php:1
+msgid "Lucky Orange is a service for behavior analysis, collecting user feedback, showing polls and a chat. It creates heat maps and session records of user's behavior on the website and plays out polls based on the user interaction. The cookies are used to identify the user across multiple sub-pages, check if the user is banned from tracking, to store the total number of visits, to store the landing page and referrer of the user interaction, flag the user behavior to assign it to predefined funnels and collect the idle time of user interactions."
+msgstr ""
+
+#: inc/overrides/pro/presets/LuckyOrangePreset.php:1
+msgid "You find your Lucky Orange Site ID in the home tab of Lucky Orange (overview of all sites)."
+msgstr ""
+
+#: inc/overrides/pro/presets/LuckyOrangePreset.php:1
+msgid "To use Lucky Orange in accordance with the GDPR, you need to enable Extreme Privacy Mode in its web interface under Settings (gear) > Privacy > Enable Extreme Privacy Mode. This way IP addresses will be shortened."
+msgstr ""
+
+#: inc/overrides/pro/presets/MailchimpForWooCommercePreset.php:1
+msgid "Mailchimp is a marketing platform that allows us to differentiate audiences and send marketing messages via email. Cookies are used to store on which page the user joined the user journey and the explicit opt-in of the user to collect this email address for email marketing."
+msgstr ""
+
+#: inc/overrides/pro/presets/MailerLitePreset.php:1
+msgid "MailerLite is a marketing platform that allows us to differentiate audiences and send marketing messages via email. No cookies in the technical sense are set on the client of the user, but technical and personal data such as the IP address will be transmitted from the client to the server of the service provider to make the use of the service possible."
+msgstr ""
+
+#: inc/overrides/pro/presets/MatomoPreset.php:1
+msgid "Matomo is a service to create detailed statistics about the user behavior on the website. Cookies are used to differentiate users and to link data from multiple page views."
+msgstr ""
+
+#: inc/overrides/pro/presets/MatomoPreset.php:1
+msgid "If you have already used Matomo before creating this cookie, please deactivate the script/plugin with which the service was loaded so far. The opt-in script will now take care of the correct integration."
+msgstr ""
+
+#. translators:
+#: inc/overrides/pro/presets/MatomoPreset.php:1
+msgid "You have installed the official Matomo WordPress plugin, which installs Matomo directly into your WordPress. <strong>This template is only suitable for externally hosted Matomo instances.</strong> Use the <a href=\"%s\" target=\"_blank\">Matomo (WordPress Plugin)</a> cookie template to use Matomo correctly via the Matomo WordPress plugin."
+msgstr ""
+
+#: inc/overrides/pro/presets/MicrosoftClarityPreset.php:1
+msgid "Microsoft Clarity is a service for behavior analysis. It creates heat maps and session records of the website user. The cookies are used to identify the user across multiple sub-pages and to link the data collected during session recordings."
+msgstr ""
+
+#: inc/overrides/pro/presets/MicrosoftClarityPreset.php:1
+msgid "You can find your Microsoft Clarity Project ID in the tracking code or in the URL of your Clarity. For example, if the URL is <code>https://clarity.microsoft.com/projects/view/12cggd77jl/</code>, your project ID is <code>12cggd77jl</code>."
+msgstr ""
+
+#. translators:
+#: inc/overrides/pro/presets/MonsterInsightsPreset.php:1
+msgid "Please do not forget to activate the option <a href=\"%s\" target=\"_blank\">Anonymize IP Addresses</a> in MonsterInsights to comply with the GDPR. If you enable the \"Cross Domain Tracking\" feature, you must also set the corresponding additional cookies here."
+msgstr ""
+
+#: inc/overrides/pro/presets/MouseflowPreset.php:1
+msgid "Mouseflow is a service for behavior analysis. It creates heat maps and session records of the website user. The cookies are used to identify the user across multiple sub-pages and to link the data collected during session recordings."
+msgstr ""
+
+#: inc/overrides/pro/presets/MouseflowPreset.php:1
+msgid "You can find your Mouseflow website ID by hovering over the appropriate website at <a href=\"http://eu.mouseflow.com/websites\" target=\"_blank\">eu.mouseflow.com/websites</a>. You will then see a gear icon that you can click on. In the settings that appear, you should find a <code>Website ID</code> field."
+msgstr ""
+
+#. translators:
+#: inc/overrides/pro/presets/MtmPreset.php:1
+msgid "Matomo Tag Manager"
+msgstr ""
+
+#: inc/overrides/pro/presets/MtmPreset.php:1
+msgid "Matomo Tag Manager is a service for managing tags triggered by a specific event that injects a third script or sends data to a third service. No cookies in the technical sense are set on the client of the user, but technical and personal data such as the IP address will be transmitted from the client to the server of the service provider to make the use of the service possible."
+msgstr ""
+
+#: inc/overrides/pro/presets/MtmPreset.php:1
+msgid "If you have already used Matomo Tag Manager before creating this cookie, please deactivate the script/plugin with which the service was loaded so far. The opt-in script will now take care of the correct integration."
+msgstr ""
+
+#: inc/overrides/pro/presets/MyFontsPreset.php:1
+msgid "MyFonts is a service that downloads fonts that are not installed on the client device of the user and embeds them into the website. No cookies in the technical sense are set on the client of the user, but technical and personal data such as the IP address will be transmitted from the client to the server of the service provider to make the use of the service possible."
+msgstr ""
+
+#: inc/overrides/pro/presets/PaddleComPreset.php:1
+msgid "Paddle.com is an e-commerce system that allows you to buy products on this website. The provider collects all payment details and forwards them to the preferred payment provider, e.g. Adyen or PayPal. Cookies are used to collect items and settings in a shopping cart, determine the variant of the displayed checkout process and link your way to the checkout with an affiliate partner account."
+msgstr ""
+
+#: inc/overrides/pro/presets/PaddleComPreset.php:1
+msgid "The cookie duration of the cookies \"paddlejs_affiliate_analytics\" and \"paddlejs_campaign_affiliate\" depends on how you have defined the \"Attribution Window\" on vendors.paddle.com under Affiliates > Settings. Please adjust the cookie specification according to the settings.<br /><br />Please include the Paddle.com JS SDK outside the cookie banner (if you consider it an essential cookie) or in the \"Code executed on page load\" field, but not in the \"Code executed on opt-in\" field, because otherwise affiliate tracking errors may occur."
+msgstr ""
+
+#: inc/overrides/pro/presets/PinterestPreset.php:1
+msgid "Pinterest allows embedding content posted on pinterest.com directly into websites. The cookies are used to collect visited websites and detailed statistics about the user behavior. This data can be linked to the data of users registered on pinterest.com."
+msgstr ""
+
+#: inc/overrides/pro/presets/PinterestPreset.php:1
+msgid "There is no need for an opt-in script because the Pinterest content is usually loaded in an iframe. You must create a content blocker that will block Pinterest until the user gives consent to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/PolyLangPreset.php:1
+msgid "Polylang is a multilingual system for WordPress websites. The cookies store the language of the user and can redirect the user to the version of the website that matches with the language of the browser of the user."
+msgstr ""
+
+#: inc/overrides/pro/presets/PolyLangPreset.php:1
+msgid "Please make sure you have not renamed the Polylang cookie name or change it in the same way in the technical definitions above. Learn more about how to change the Polylang cookie name <a href=\"https://polylang.pro/doc/is-polylang-compatible-with-the-eu-cookie-law/\" target=\"_blank\">in their documentation</a>."
+msgstr ""
+
+#: inc/overrides/pro/presets/ProvenExpertWidgetPreset.php:1
+msgid "Proven Expert is a platform for customer reviews. The Proven Expert widget shows how the provider of this website has been rated by customers on Proven Expert. No cookies in the technical sense are set on the client device of the user, but technical and personal data such as the IP address are transferred from the client to the server of the service provider to enable the use of the service."
+msgstr ""
+
+#: inc/overrides/pro/presets/ProvenExpertWidgetPreset.php:1
+msgid "https://www.provenexpert.com/en-us/privacy-policy/"
+msgstr ""
+
+#: inc/overrides/pro/presets/ReamazeChatPreset.php:1
+msgid "Reamaze is a customer service tool that provides live chat for websites. The cookies are used to identify the user, associate previous messages with their chat history, show them proactive hints and collect detailed statistics on his/her behavior."
+msgstr ""
+
+#: inc/overrides/pro/presets/ReamazeChatPreset.php:1
+msgid "You can create your own custom chat (called embeddable) and proactive notices (called cues) in your Reamaze admin area > Settings > Embeddables/Cues. The embedding in the opt-in code is just the default example.<br /><br />If you have already used Reamaze before creating this cookie, please deactivate the script/plugin with which the service was loaded so far. The opt-in script will now take care of the correct integration."
+msgstr ""
+
+#: inc/overrides/pro/presets/RedditPreset.php:1
+msgid "Reddit allows embedding content posted on reddit.com directly into websites. The cookies are used to collect visited websites and detailed statistics about the user behaviour. This data can be linked to the data of users registered on reddit.com."
+msgstr ""
+
+#: inc/overrides/pro/presets/SpotifyPreset.php:1
+msgid "Spotify allows embedding music from spotify.com directly into websites. The cookies are used to define the viewport of the music player and to collect visited websites and detailed statistics about the user behavior. This data can be linked to the data of users registered on spotify.com or a native installed Spotify application."
+msgstr ""
+
+#: inc/overrides/pro/presets/SpotifyPreset.php:1
+msgid "https://www.spotify.com/uk/legal/privacy-policy/"
+msgstr ""
+
+#: inc/overrides/pro/presets/StripePreset.php:1
+msgid "Stripe is an online payment service with which payments can be made in this online store, e.g. by credit card. Payment data is collected directly by or transmitted to Stripe, but never stored by the operator of the online store itself. Customer data is shared with Stripe for the purpose of processing orders. Cookies are used for fraud prevention and detection."
+msgstr ""
+
+#: inc/overrides/pro/presets/TawkToChatPreset.php:1
+msgid "tawk.to is a customer service tool that provides live chat for websites. The cookies are used to identify the user, associate previous messages with their chat history and collect detailed statistics on his/her behavior."
+msgstr ""
+
+#: inc/overrides/pro/presets/TawkToChatPreset.php:1
+msgid "You can create your own custom chat widget at <a href=\"https://dashboard.tawk.to\" target=\"_blank\">dashboard.tawk.to</a> > Settings > Chat Widget. The chat widget in the opt-in code is just the default example.<br /><br />If you have already used tawk.to before creating this cookie, please deactivate the script/plugin with which the service was loaded so far. The opt-in script will now take care of the correct integration."
+msgstr ""
+
+#: inc/overrides/pro/presets/TidioChatPreset.php:1
+msgid "Tidio is a customer service tool that provides live chat for websites. The cookies are used to identify the user, associate previous messages with their chat history and collect detailed statistics on his/her behavior."
+msgstr ""
+
+#: inc/overrides/pro/presets/TidioChatPreset.php:1
+msgid "You get your Tidio JS ID on <a href=\"https://tidio.com\" target=\"_blank\">tidio.com</a> under Settings > Live Chat > Integration > JavaScript in the given JavaScript snipped. You can adjust the appearance of the chat at tidio.com under Settings > Live Chat > Appearance.<br /><br />If you have already used Tidio before creating this cookie, please deactivate the script/plugin with which the service was loaded so far. The opt-in script will now take care of the correct integration."
+msgstr ""
+
+#: inc/overrides/pro/presets/TikTokPreset.php:1
+msgid "TikTok allows embedding content posted on tiktok.com directly into websites. The cookies are used to collect visited websites and detailed statistics about the user behaviour. This data can be linked to the data of users registered on tiktok.com."
+msgstr ""
+
+#: inc/overrides/pro/presets/TikTokPreset.php:1
+msgid "https://www.tiktok.com/legal/privacy-policy?lang=en-GB"
+msgstr ""
+
+#: inc/overrides/pro/presets/TwitterTweetPreset.php:1
+msgid "Twitter allows embedding content posted on twitter.com directly into websites. The cookies are used to collect visited websites and detailed statistics about the user behaviour. This data can be linked to the data of users registered on twitter.com."
+msgstr ""
+
+#: inc/overrides/pro/presets/TwitterTweetPreset.php:1
+msgid "There is no need for an opt-in script because the Twitter content is usually loaded in an iframe. You must create a content blocker that will block Twitter until the user gives consent to load it."
+msgstr ""
+
+#: inc/overrides/pro/presets/UltimateMemberPreset.php:1
+msgid "Ultimate Member allows users to log in to the website with their credentials. The cookies store the credentials of the logged-in user as hash, login status and user ID."
+msgstr ""
+
+#: inc/overrides/pro/presets/UserlikePreset.php:1
+msgid "Userlike is a customer service tool that provides live chat for websites. The cookies are used to identify the user, associate previous messages with their chat history, show them proactive hints and collect detailed statistics on his/her behavior."
+msgstr ""
+
+#: inc/overrides/pro/presets/UserlikePreset.php:1
+msgid "https://www.userlike.com/en/terms#privacy-policy"
+msgstr ""
+
+#: inc/overrides/pro/presets/UserlikePreset.php:1
+msgid "Please insert the JavaScript code of your Userlike widget as opt-in code. You can find it at <a href=\"https://userlike.com/en/dashboard/um/config/um_widget/overview\" target=\"_blank\">userlike.com/en/dashboard/um/config/um_widget/overview</a> > Name of the widget > Install > JavaScript Widget code."
+msgstr ""
+
+#: inc/overrides/pro/presets/UserlikePreset.php:1
+msgid "Example opt-in code"
+msgstr ""
+
+#: inc/overrides/pro/presets/VGWortPreset.php:1
+msgid "The VG WORT sets a tracking pixel to measure accesses to texts to determine the copy probability of the text. In this way, the authors of this website participate in the payouts of VG WORT, which ensure the legal compensation for the use of copyrighted works in accordance with § 53 UrhG in Germany. Cookies are used to identify the user and, if necessary, to be able to link data from several visits of the texts."
+msgstr ""
+
+#. translators:
+#: inc/overrides/pro/presets/VGWortPreset.php:1
+msgid "Which group the VG WORT cookie should belong to is controversial. Therefore you have to make a decision yourself.<br /><br />According to the purpose defined below, the VG WORT cookie is a service that is used for tracking and should therefore be assigned to the group \"Statistics\". According to the Cookie Directive 2002/58/EC, the economic interest of authors to participate in the payouts of VG WORT does not entitle them to set the cookie without the user's consent (essential cookie). Further information on this legal opinion can be found on the Website of %1$sIT-Recht Kanzlei (German)%2$s.<br /><br />This is countered by the claim arising from %3$s§ 53 UrhG (German law)%4$s in Germany for compensation for the use of works protected by copyright. Without a counter for all users of a website, this entitlement cannot be enforced or can only be enforced incompletely, since without a counter it is not possible to determine how many users visit a text and thus the copying probability for the use of copyrighted works cannot be determined. Therefore, VG WORT should be classified as an essential cookie.<br /><br />In order to act legally, we recommend classifying the cookie as a “Statistics\" cookie and blocking it by using a content blocker for users without consent. Pragmatically, however, this will significantly reduce or completely prevent your income from VG WORT payouts. Only by classifying the cookie as an \"essential cookie\" and no content blocker will you be able to receive the full VG WORT payouts to which you are entitled."
+msgstr ""
+
+#: inc/overrides/pro/presets/VGWortPreset.php:1
+msgid "If you have been assigned a pixel-code server other than \"vg01.met.vgwort.de\" by VG WORT, please replace the cookie host."
+msgstr ""
+
+#: inc/overrides/pro/presets/WooCommercePreset.php:1
+msgid "WooCommerce is an e-commerce shop system that allows you to buy products on this website. Cookies are used to collect items in a shopping cart, to store the shopping cart of the user in the database of the website, to store recently viewed products to show them again and to allow users to dismiss notices in the online shop."
+msgstr ""
+
+#: inc/overrides/pro/presets/WooCommercePreset.php:1
+msgid "The defined cookies are only cookies from WooCommerce itself. If you use plugins to extend your WooCommerce shop, they can set additional cookies. Make sure that you also mention these in the technical definitions above or in an additional cookie entry."
+msgstr ""
+
+#: inc/overrides/pro/presets/WordfencePreset.php:1
+msgid "Wordfence secures this website from attacks of various kinds. Cookies are used to check the permissions of the user before accessing WordPress, to notify administrators when a user signs in with a new device or location, and to bypass defined country restrictions through specially prepared links."
+msgstr ""
+
+#: inc/overrides/pro/presets/WPMLPreset.php:1
+msgid "WPML is a multilingual system for WordPress websites. The cookies store the language of the user and can redirect the user to the version of the website that matches with the language of the browser of the user."
+msgstr ""
+
+#: inc/overrides/pro/presets/ZendeskChatPreset.php:1
+msgid "Zendesk Chat is a customer service tool that provides live chat for websites. The cookies are used to identify the user, associate previous messages with their chat history and collect detailed statistics on his/her behavior."
+msgstr ""
+
+#: inc/overrides/pro/presets/ZendeskChatPreset.php:1
+msgid "You can find the Zendesk Widget Key in the Zendesk backend in Settings > Widget > Embed Web Widget as part of the JavaScript Code.<br /><br />If you have already used Zendesk Chat before creating this cookie, please deactivate the script/plugin with which the service was loaded so far. The opt-in script will now take care of the correct integration."
+msgstr ""
+
+#: inc/overrides/pro/presets/ZohoBookingsPreset.php:1
+msgid "Zoho Bookings is a planning software the allows you to book book appointments on our website. The cookies are used for visitor security by preventing the faking of cross-site requests."
+msgstr ""
+
+#: inc/overrides/pro/presets/ZohoBookingsPreset.php:1
+#: inc/overrides/pro/presets/ZohoFormsPreset.php:1
+msgid "https://www.zoho.com/privacy.html"
+msgstr ""
+
+#: inc/overrides/pro/presets/ZohoBookingsPreset.php:1
+msgid "The technical host of the cookie <code>zccpn</code> must be adjusted manually. It has to be the full domain of your Zoho Workspace."
+msgstr ""
+
+#: inc/overrides/pro/presets/ZohoBookingsPreset.php:1
+msgid "Expample embed code for your widget:"
+msgstr ""
+
+#: inc/overrides/pro/presets/ZohoBookingsPreset.php:1
+msgid "In this case, <code>zoho-devowl</code> is the Zoho Workspace name and the technical host of the cookie is <code>devowl.zohobookings.eu</code>."
+msgstr ""
+
+#: inc/overrides/pro/presets/ZohoFormsPreset.php:1
+msgid "Zoho Forms is a form system that allows us to add contact, newsletter, survey and other forms to the website. The cookies are used for visitor security by preventing the faking of cross-site requests."
+msgstr ""
+
+#: inc/overrides/pro/rest/Forwarding.php:1
+msgid "Consent Forwarding is not active."
+msgstr ""
+
+#: inc/overrides/pro/settings/Affiliate.php:1
+msgid "The link to Real Cookie Banner is an affiliate link. If you buy the product, we may receive a commission, but the price of the product will not change for you."
+msgstr ""
+
+#: inc/overrides/pro/Stats.php:1
+msgid "deleted"
+msgstr ""
+
+#: inc/overrides/pro/Stats.php:1
+msgid "Shortcode revoke"
+msgstr ""
+
+#: inc/overrides/pro/Stats.php:1
+msgid "Button in Content Blocker"
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Light Dialog"
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Standard design for the cookie consent as a dialog."
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Light Banner"
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Standard design for the cookie consent as a banner."
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Dark Dialog"
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Standard design for the cookie consent as a dialog in dark mode."
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Dark Banner"
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Standard design for the cookie consent as a banner in dark mode."
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Divi Dialog"
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Optimized design for the standard Divi theme as a consent dialog."
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Divi Banner"
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Optimized design for the standard Divi theme as a consent banner."
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Astra Dialog"
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Optimized design for the standard Astra theme as a consent dialog."
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Astra Banner"
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Optimized design for the standard Astra theme as a consent banner."
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Avada Dialog"
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Optimized design for the standard Avada theme as a consent dialog."
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Avada Banner"
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Optimized design for the standard Avada theme as a consent banner."
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Clean Dialog"
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Clean design which suits perfect to themes without many colors."
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Dark console"
+msgstr ""
+
+#: inc/presets/BannerPresets.php:1
+msgid "Design that is oriented towards technical interfaces."
+msgstr ""
+
+#: inc/presets/free/blocker/JetPackCommentsPreset.php:1
+msgid "We use the Jetpack Comments service to give you the opportunity to leave a comment. In order to be able to write your own comment, you must allow this service to load."
+msgstr ""
+
+#: inc/presets/free/blocker/SoundCloudPreset.php:1
+msgid "Audio from SoundCloud has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/presets/free/blocker/VimeoPreset.php:1
+msgid "Video from Vimeo has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/presets/free/blocker/YoutubePreset.php:1
+msgid "Video from YouTube has been blocked because you did not allow to load it."
+msgstr ""
+
+#: inc/presets/free/ElementorPreset.php:1
+msgid "Elementor is a software used to create the layout of this website. Cookies are used to store the number of page views and active sessions of the user. The collected data is not used for analysis purposes, but only to ensure that, for example, hidden elements are not displayed again during multiple active sessions."
+msgstr ""
+
+#: inc/presets/free/FontAwesomePreset.php:1
+msgid "Font Awesome is a service that downloads a custom icon font that are not installed on the client device of the user and embeds them into the website. No cookies in the technical sense are set on the client of the user, but technical and personal data such as the IP address will be transmitted from the client to the server of the service provider to make the use of the service possible."
+msgstr ""
+
+#: inc/presets/free/FontAwesomePreset.php:1
+msgid "There is no need for an opt-in script, because Font Awesome is loaded by some plugin or theme without JavaScript. In addition to this cookie, please create a content blocker that automatically blocks Font Awesome."
+msgstr ""
+
+#: inc/presets/free/GoogleFontsPreset.php:1
+msgid "Google Fonts is a service that downloads fonts that are not installed on the client device of the user and embeds them into the website. No cookies in the technical sense are set on the client of the user, but technical and personal data such as the IP address will be transmitted from the client to the server of the service provider to make the use of the service possible."
+msgstr ""
+
+#: inc/presets/free/GoogleFontsPreset.php:1
+msgid "There is no need for an opt-in script, because this service is probably already injected via e.g. your theme. In addition to this cookie, please create a content blocker that automatically blocks the Google Font injection of e. g. your theme before you have the consent of your user."
+msgstr ""
+
+#: inc/presets/free/GravatarPreset.php:1
+msgid "Gravatar is a service where people can associate their email address with an avatar image that is for example loaded in the comment area. No cookies in the technical sense are set on the client of the user, but technical and personal data such as the IP address will be transmitted from the client to the server of the service provider to make the use of the service possible."
+msgstr ""
+
+#: inc/presets/free/GravatarPreset.php:1
+msgid "There is no need for an opt-in script, because Gravatar images are loaded by WordPress or some plugin without JavaScript. In addition to this cookie, please create a content blocker that automatically blocks images from Gravatar e. g. in the comment section."
+msgstr ""
+
+#: inc/presets/free/JetPackCommentsPreset.php:1
+#: inc/presets/free/JetPackCommentsPreset.php:1
+msgid "Jetpack Comments"
+msgstr ""
+
+#: inc/presets/free/JetPackCommentsPreset.php:1
+msgid "Jetpack Comments is a comment system for WordPress sites that allows you to post comments using your email, wordpress.com, google.com, twitter.com or facebook.com account. The cookies are used to display the comment form and add integrations from wordpress.com, google.com, twitter.com or facebook.com. The data of the visited website may be shared with the above mentioned third party providers."
+msgstr ""
+
+#: inc/presets/free/JetPackCommentsPreset.php:1
+msgid "There is no need for an opt-in script because the comment feature is loaded by the Jetpack WordPress plugin. In addition to the cookie, you must create a content blocker that will block Jetpack Comments until the user gives consent to load it."
+msgstr ""
+
+#: inc/presets/free/JetpackSiteStatsPreset.php:1
+msgid "Jetpack Site Stats is a service to create detailed statistics about the user behavior on the website. No cookies in the technical sense are set on the client of the user, but technical and personal data such as the IP address will be transmitted from the client to the server of the service provider to make the use of the service possible. This information can be used to track the user on this website and to connect collected data of several page views on this website. the client of the user in the technical sense, but technical data is transferred from the client to the server of the service provider in order to track the user on this website and to connect collected data of several page views on this website."
+msgstr ""
+
+#: inc/presets/free/JetpackSiteStatsPreset.php:1
+msgid "There is no need for an opt-in script because the site stats feature is loaded by the Jetpack WordPress plugin. In addition to the cookie, you must create a content blocker that will block Jetpack Site Stats until the user gives consent to load it."
+msgstr ""
+
+#: inc/presets/free/RealCookieBannerPreset.php:1
+msgid "Real Cookie Banner asks the user to consent to the cookies used on this website. The cookies store the UUID (pseudonym identification of the user) and the selection of the agreed cookie groups and cookies."
+msgstr ""
+
+#: inc/presets/free/SoundCloudPreset.php:1
+msgid "SoundCloud allows embedding content posted on soundcloud.com directly into websites. The cookies are used to collect visited websites and detailed statistics about the user behaviour. This data can be linked to the data of users registered on soundcloud.com."
+msgstr ""
+
+#: inc/presets/free/SoundCloudPreset.php:1
+msgid "There is no need for an opt-in script because the SoundCloud content is usually loaded in an iframe. You must create a content blocker that will block SoundCloud until the user gives consent to load it."
+msgstr ""
+
+#: inc/presets/free/VimeoPreset.php:1
+msgid "Vimeo allows embedding content posted on vimeo.com directly into websites. The cookies are used to collect visited websites and detailed statistics about the user behaviour. This data can be linked to the data of users registered on vimeo.com."
+msgstr ""
+
+#: inc/presets/free/VimeoPreset.php:1
+msgid "There is no need for an opt-in script because the Vimeo content is usually loaded in an iframe. You must create a content blocker that will block Vimeo until the user gives consent to load it."
+msgstr ""
+
+#: inc/presets/free/WordPressCommentsPreset.php:1
+msgid "WordPress Comments"
+msgstr ""
+
+#: inc/presets/free/WordPressCommentsPreset.php:1
+msgid "Comments"
+msgstr ""
+
+#: inc/presets/free/WordPressCommentsPreset.php:1
+msgid "WordPress as a content management system offers the possibility to write comments under blog posts and similar content. The cookie stores the name, e-mail address and website of a commentator to display it again if the commentator wants to write another comment on this website."
+msgstr ""
+
+#: inc/presets/free/WordPressCommentsPreset.php:1
+msgid "Please note that if this cookie is enabled, the \"Save my name, email, and website in this browser for the next time I comment.\" checkbox in the comment form will disappear. Real Cookie Banner handels the consent to set the cokies as part of the overall cookie consent. The commentary system uses the Gravatar service to display avatars of commentators. You must also create a cookie for this service as well."
+msgstr ""
+
+#: inc/presets/free/WordPressEmojisPreset.php:1
+msgid "WordPress Emoji is an emoji set that is loaded from wordpress.org. No cookies in the technical sense are set on the client of the user, but technical and personal data such as the IP address will be transmitted from the client to the server of the service provider to make the use of the service possible."
+msgstr ""
+
+#: inc/presets/free/WordPressEmojisPreset.php:1
+msgid "https://wordpress.org/about/privacy/"
+msgstr ""
+
+#: inc/presets/free/WordPressUserLoginPreset.php:1
+msgid "User Login"
+msgstr ""
+
+#: inc/presets/free/WordPressUserLoginPreset.php:1
+msgid "WordPress User Login"
+msgstr ""
+
+#: inc/presets/free/WordPressUserLoginPreset.php:1
+msgid "WordPress is the content management system for this website and allows registered users to log in to the system. The cookies store the credentials of a logged-in user as hash, login status and user ID as well as user-related settings for the WordPress backend."
+msgstr ""
+
+#: inc/presets/free/YoutubePreset.php:1
+msgid "YouTube allows embedding content posted on youtube.com directly into websites. The cookies are used to collect visited websites and detailed statistics about the user behaviour. This data can be linked to the data of users registered on youtube.com and google.com or localized versions of these services."
+msgstr ""
+
+#: inc/presets/free/YoutubePreset.php:1
+msgid "There is no need for an opt-in script because the YouTube content is usually loaded in an iframe. You must create a content blocker that will block YouTube until the user gives consent to load it."
+msgstr ""
+
+#: inc/presets/middleware/BlockerExistsMiddleware.php:1
+#: inc/presets/middleware/CookieBlockerPresetIdsMiddleware.php:1
+#: inc/presets/middleware/CookieExistsMiddleware.php:1
+msgid "Already exists"
+msgstr ""
+
+#: inc/presets/middleware/BlockerExistsMiddleware.php:1
+msgid "You have already created a Content Blocker with this template."
+msgstr ""
+
+#: inc/presets/middleware/CookieBlockerPresetIdsMiddleware.php:1
+msgid "Create also a content blocker for this service (after creating this cookie)."
+msgstr ""
+
+#: inc/presets/middleware/CookieExistsMiddleware.php:1
+msgid "You have already created a cookie with this template."
+msgstr ""
+
+#. translators:
+#: inc/presets/middleware/CookieManagerMiddleware.php:1
+#: inc/presets/middleware/CookieManagerMiddleware.php:1
+msgid "This cookie template is optimized to work with %s."
+msgstr ""
+
+#. translators:
+#: inc/presets/middleware/DisableTechnicalHandlingThroughPluginMiddleware.php:1
+msgid "You don't have to define a technical handling here, because this is done by the plugin <strong>%s</strong>."
+msgstr ""
+
+#: inc/presets/pro/blocker/ActiveCampaignFormPreset.php:1
+msgid "ActiveCampaign Form"
+msgstr ""
+
+#: inc/presets/pro/blocker/ActiveCampaignFormPreset.php:1
+#: inc/presets/pro/blocker/CalderaFormsPreset.php:1
+#: inc/presets/pro/blocker/CleverReachRecaptchaPreset.php:1
+#: inc/presets/pro/blocker/ContactForm7RecaptchaPreset.php:1
+#: inc/presets/pro/blocker/FormidablePreset.php:1
+#: inc/presets/pro/blocker/FormMakerRecaptchaPreset.php:1
+#: inc/presets/pro/blocker/NinjaFormsPreset.php:1
+#: inc/presets/pro/blocker/WPFormsPreset.php:1
+msgid "with Google reCAPTCHA"
+msgstr ""
+
+#: inc/presets/pro/blocker/CalderaFormsPreset.php:1
+msgid "Caldera Forms"
+msgstr ""
+
+#: inc/presets/pro/blocker/CleverReachRecaptchaPreset.php:1
+msgid "CleverReach"
+msgstr ""
+
+#: inc/presets/pro/blocker/ContactForm7RecaptchaPreset.php:1
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/presets/pro/blocker/FormidablePreset.php:1
+msgid "Formidable"
+msgstr ""
+
+#: inc/presets/pro/blocker/FormMakerRecaptchaPreset.php:1
+msgid "Form Maker"
+msgstr ""
+
+#: inc/presets/pro/blocker/NinjaFormsPreset.php:1
+msgid "Ninja Forms"
+msgstr ""
+
+#: inc/presets/pro/blocker/WPFormsPreset.php:1
+msgid "WPForms"
+msgstr ""
+
+#: inc/presets/UpdateNotice.php:1
+msgid "It seems that since the last update of <strong>Real Cookies Banner</strong> some templates have been updated. Please check your following cookies to make sure they are up to date:"
+msgstr ""
+
+#: inc/presets/UpdateNotice.php:1
+msgid "Edit"
+msgstr ""
+
+#: inc/presets/UpdateNotice.php:1
+msgid "Create new from template"
+msgstr ""
+
+#: inc/presets/UpdateNotice.php:1
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/settings/Blocker.php:1
+msgid "Content Blockers"
+msgstr ""
+
+#: inc/settings/Cookie.php:1
+#: inc/view/ConfigPage.php:1
+msgid "Cookies"
+msgstr ""
+
+#: inc/settings/CookieGroup.php:1
+msgid "Cookie Groups"
+msgstr ""
+
+#: inc/settings/CookieGroup.php:1
+msgid "Essential cookies are required for the basic functionality of the website. They only contain technically necessary cookies."
+msgstr ""
+
+#: inc/settings/CookieGroup.php:1
+msgid "Functional cookies are necessary to provide features beyond the essential functionality such as prettier fonts, video playback or interactive Web 2.0 features. Content from e. g. video platforms and social media platforms is blocked by default, and you can agree to the individual services. If you agree to these cookies, this content will be loaded automatically without further manual consent."
+msgstr ""
+
+#: inc/settings/CookieGroup.php:1
+msgid "Statistic cookies are needed to collect pseudonymous data about the visitors of the website. The data enables us to understand visitors better and to optimize the website."
+msgstr ""
+
+#: inc/settings/CookieGroup.php:1
+msgid "Marketing cookies are used by us and third parties to record the behaviour of individual users, analyse the data collected and, for example, display personalised advertisements. These cookies enable us to track users across multiple websites."
+msgstr ""
+
+#: inc/view/Banner.php:1
+msgid "Show cookie banner again"
+msgstr ""
+
+#: inc/view/Banner.php:1
+msgid "Consent management powered by Real Cookie Banner"
+msgstr ""
+
+#: inc/view/BannerCustomize.php:1
+msgid "Cookie Banner"
+msgstr ""
+
+#: inc/view/BannerCustomize.php:1
+msgid "Design your cookie banner."
+msgstr ""
+
+#: inc/view/checklist/ActivateBanner.php:1
+msgid "Activate Cookie Banner and Content Blocker"
+msgstr ""
+
+#: inc/view/checklist/ActivateBanner.php:1
+msgid "Once everything is set up, you can display the cookie banner to your visitors."
+msgstr ""
+
+#: inc/view/checklist/ActivateBanner.php:1
+msgid "Activate"
+msgstr ""
+
+#: inc/view/checklist/AddBlocker.php:1
+msgid "Create a content blocker"
+msgstr ""
+
+#: inc/view/checklist/AddBlocker.php:1
+msgid "For visitors who do not agree to the cookies from e. g. YouTube, it is not allowed to load YouTube videos on your website. Content Blockers will automatically replace this content and ask again for the visitor's consent."
+msgstr ""
+
+#: inc/view/checklist/AddBlocker.php:1
+msgid "Add content blocker"
+msgstr ""
+
+#: inc/view/checklist/AddCookie.php:1
+msgid "Add all cookies to your website"
+msgstr ""
+
+#: inc/view/checklist/AddCookie.php:1
+msgid "You can manually add all cookies from your website. Use the cookie templates of known services to save time!"
+msgstr ""
+
+#: inc/view/checklist/AddCookie.php:1
+msgid "Add cookie"
+msgstr ""
+
+#: inc/view/checklist/CustomizeBanner.php:1
+msgid "Customize the design of the cookie banner"
+msgstr ""
+
+#: inc/view/checklist/CustomizeBanner.php:1
+msgid "You can control the appearance of the cookie banner. Fit it perfectly into your website!"
+msgstr ""
+
+#: inc/view/checklist/CustomizeBanner.php:1
+msgid "Start customizing"
+msgstr ""
+
+#: inc/view/checklist/GetPro.php:1
+msgid "Buy a license of Real Cookie Banner PRO"
+msgstr ""
+
+#: inc/view/checklist/GetPro.php:1
+msgid "Get a PRO license at devowl.io to get more out of Real Cookie Banner!"
+msgstr ""
+
+#: inc/view/checklist/GetPro.php:1
+msgid "Learn more"
+msgstr ""
+
+#: inc/view/checklist/Install.php:1
+msgid "Install Real Cookie Banner"
+msgstr ""
+
+#: inc/view/checklist/Install.php:1
+msgid "You have to install and activate the plugin in your WordPress to start with the setup."
+msgstr ""
+
+#: inc/view/checklist/License.php:1
+msgid "Activate your license"
+msgstr ""
+
+#: inc/view/checklist/License.php:1
+msgid "Only users with an activated license get updates and are always up-to-date on legal changes."
+msgstr ""
+
+#: inc/view/checklist/License.php:1
+msgid "Activate now"
+msgstr ""
+
+#: inc/view/checklist/PrivacyPolicy.php:1
+#: inc/view/checklist/PrivacyPolicy.php:1
+msgid "Set privacy policy page"
+msgstr ""
+
+#: inc/view/checklist/SaveSettings.php:1
+msgid "Adjust the settings of the cookie banner"
+msgstr ""
+
+#: inc/view/checklist/SaveSettings.php:1
+msgid "Define the behavior of the cookie banner and hide the cookie banner both in the imprint and privacy policy (required by law)."
+msgstr ""
+
+#: inc/view/checklist/SaveSettings.php:1
+msgid "Manage settings"
+msgstr ""
+
+#: inc/view/checklist/Shortcode.php:1
+msgid "Place shortcodes in your privacy policy"
+msgstr ""
+
+#: inc/view/checklist/Shortcode.php:1
+msgid "Your visitors must be able to view, change and revoke their cookie consent at any time. You should add shortcodes to your privacy policy to provide this feature."
+msgstr ""
+
+#: inc/view/checklist/Shortcode.php:1
+msgid "Generate shortcodes"
+msgstr ""
+
+#: inc/view/checklist/ViewStats.php:1
+msgid "Check out statistics about consents"
+msgstr ""
+
+#: inc/view/checklist/ViewStats.php:1
+msgid "All consents in cookies are documented, so that you can prove in doubt who, when and how a consent was given. Statistics about this will help you to e. g. extrapolate Google Analytics data. You can use them to estimate how many visitors have visited your website, even if not all of them have consented to use statistic cookies."
+msgstr ""
+
+#: inc/view/checklist/ViewStats.php:1
+msgid "View stats"
+msgstr ""
+
+#: inc/view/ConfigPage.php:1
+msgid "A cookie banner for your website is installed. With it, you can integrate e.g. <strong>Google Analytics, Google Maps or YouTube videos</strong> legally compliant. You just have to configure it."
+msgstr ""
+
+#: inc/view/ConfigPage.php:1
+msgid "Start now!"
+msgstr ""
+
+#: inc/view/ConfigPage.php:1
+msgid "Settings"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Basic Layout"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+#: inc/view/customize/banner/individual/Layout.php:1
+msgid "Layout"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Dialog"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Banner"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+#: inc/view/customize/banner/individual/Layout.php:1
+#: inc/view/customize/banner/individual/Layout.php:1
+msgid "Maximum width (px)"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Position"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Top left"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Top center"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Top right"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Middle left"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Center"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Middle right"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Bottom left"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Bottom center"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Bottom right"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Margin"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Define outer distance of the dialog."
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Top"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Bottom"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Maximum content width (px)"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Dialog border radius"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Button border radius"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Animation on display"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Duration (milliseconds)"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Animation on hide"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Overlay"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "The overlay prevents clicks outside the cookie box until consent is given."
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Block content until consent"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Overlay background color"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Overlay opacity"
+msgstr ""
+
+#: inc/view/customize/banner/BasicLayout.php:1
+msgid "Blur effect"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Body"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Padding"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Define inner distance of the body."
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Inherit font size for description block"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Description font size"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Inherit font size for dotted groups"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Dotted groups font size"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Bullet color"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Additional teachings"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Texts for US data processing and age notice."
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Inherit text align"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/Design.php:1
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Text align"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Left"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Right"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Justify"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Enable visual separator"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Separator"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/Design.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+msgid "Width (px)"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Height (px)"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/Design.php:1
+#: inc/view/customize/banner/Design.php:1
+#: inc/view/customize/banner/Design.php:1
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Color"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/Design.php:1
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Font"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Inherit font size"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/Design.php:1
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Size"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Inherit font color"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Button: Accept all"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Define inner distance of the button/link."
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/Design.php:1
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Background color"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/Design.php:1
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Font weight"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/Design.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Border"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Border width (px)"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Transition on hover"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "When the user moves the mouse over the button/link, it changes its color."
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Font color"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/BodyDesign.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Border color"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Button: Accept essentials"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Button: Accept individual"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Lighter"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Normal"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Bolder"
+msgstr ""
+
+#: inc/view/customize/banner/BodyDesign.php:1
+msgid "Bold"
+msgstr ""
+
+#: inc/view/customize/banner/CustomCss.php:1
+#: inc/view/customize/banner/CustomCss.php:1
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/view/customize/banner/CustomCss.php:1
+msgid "Anti-Adblocker optimization"
+msgstr ""
+
+#: inc/view/customize/banner/CustomCss.php:1
+msgid "Some adblockers are able to block cookie banners. This means that these users will never see the cookie banner and you cannot get consent from them to set more than the essential cookies. We have implemented several mechanisms that try to remove any technical indicators that adblockers can use to block the cookie banner. This includes CSS selections for styles. As a result, it is not possible to add custom CSS code for the cookie banner. If you disable the Adblocker optimizations, you can add custom CSS code."
+msgstr ""
+
+#: inc/view/customize/banner/CustomCss.php:1
+msgid "Enable"
+msgstr ""
+
+#: inc/view/customize/banner/CustomCss.php:1
+msgid "Disable"
+msgstr ""
+
+#: inc/view/customize/banner/CustomCss.php:1
+msgid "The style will only be applied if you have disabled the anti-blocker optimization."
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+msgid "Please note that from a legal perspective you must give this option to your visitor. With the currently selected setting you take a risk."
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+msgid "Consent options"
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+#: inc/view/customize/banner/Texts.php:1
+msgid "Accept all cookies"
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+msgid "According to the ePrivacy Directive (EU 2016/679), recital 32, you may not pre-select cookies in the form of pre-selected checkboxes for the visitor. However, the ePrivacy Directive does not prohibit the use of a button to agree to all cookies, if there is also a button to agree only to the essential cookies or to make a user-defined selection."
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+#: inc/view/customize/banner/Decision.php:1
+#: inc/view/customize/banner/Decision.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Button"
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+#: inc/view/customize/banner/Decision.php:1
+#: inc/view/customize/banner/Decision.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Link"
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+#: inc/view/customize/banner/Decision.php:1
+#: inc/view/customize/banner/Decision.php:1
+msgid "Hide"
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+#: inc/view/customize/banner/Texts.php:1
+msgid "Accept only essential cookies"
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+msgid "The ePrivacy Directive (EU 2016/679) defines that visitors must be able to easily reject cookies, whereby essential cookies can be set in any case. Therefore, the visitor should be given this option in a similar manner to the \"Accept all cookies\" button/link."
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+#: inc/view/customize/banner/individual/Texts.php:1
+#: inc/view/customize/banner/Texts.php:1
+msgid "Individual privacy preferences"
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+msgid "According to the ePrivacy Directive (EU 2016/679), the user must be free to choose which cookies should be set and be informed about their purpose before giving his consent. Therefore, the user must be given the opportunity to access the individual privacy preferences page."
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+msgid "Custom choice in first view"
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+msgid "Save button"
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+msgid "Show save button always"
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+msgid "Show save button only after a change by the user"
+msgstr ""
+
+#: inc/view/customize/banner/Decision.php:1
+msgid "Text of \"Accept all cookies\" changes, if user change choice"
+msgstr ""
+
+#: inc/view/customize/banner/Design.php:1
+#: inc/view/customize/banner/individual/Texts.php:1
+#: inc/view/customize/banner/Texts.php:1
+msgid "General"
+msgstr ""
+
+#: inc/view/customize/banner/Design.php:1
+msgid "Link text decoration"
+msgstr ""
+
+#: inc/view/customize/banner/Design.php:1
+msgid "Underline"
+msgstr ""
+
+#: inc/view/customize/banner/Design.php:1
+msgid "The font size will be applied to the entire dialog. You can overwrite this setting e.g for headings in the respective section."
+msgstr ""
+
+#: inc/view/customize/banner/Design.php:1
+msgid "Inherit font family from theme"
+msgstr ""
+
+#: inc/view/customize/banner/Design.php:1
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Family"
+msgstr ""
+
+#: inc/view/customize/banner/Design.php:1
+msgid "Box shadow settings"
+msgstr ""
+
+#: inc/view/customize/banner/Design.php:1
+msgid "Enable box shadow"
+msgstr ""
+
+#: inc/view/customize/banner/Design.php:1
+msgid "Horizontal offset"
+msgstr ""
+
+#: inc/view/customize/banner/Design.php:1
+msgid "Vertical offset"
+msgstr ""
+
+#: inc/view/customize/banner/Design.php:1
+msgid "Blur radius"
+msgstr ""
+
+#: inc/view/customize/banner/Design.php:1
+msgid "Spread radius"
+msgstr ""
+
+#: inc/view/customize/banner/FooterDesign.php:1
+msgid "Footer"
+msgstr ""
+
+#: inc/view/customize/banner/FooterDesign.php:1
+msgid "Show \"powered by\" link"
+msgstr ""
+
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+#: inc/view/customize/banner/individual/Group.php:1
+msgid "Inherit background color"
+msgstr ""
+
+#: inc/view/customize/banner/FooterDesign.php:1
+msgid "Link opens in"
+msgstr ""
+
+#: inc/view/customize/banner/FooterDesign.php:1
+msgid "Same tab"
+msgstr ""
+
+#: inc/view/customize/banner/FooterDesign.php:1
+msgid "New tab"
+msgstr ""
+
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Define inner distance of the header."
+msgstr ""
+
+#: inc/view/customize/banner/FooterDesign.php:1
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Inherit font family"
+msgstr ""
+
+#: inc/view/customize/banner/FooterDesign.php:1
+msgid "When the user moves the mouse over the footer links, it changes its color."
+msgstr ""
+
+#: inc/view/customize/banner/FooterDesign.php:1
+msgid "Top border"
+msgstr ""
+
+#: inc/view/customize/banner/FooterDesign.php:1
+msgid "You can define an additional top border to separate the footer from the body."
+msgstr ""
+
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Header"
+msgstr ""
+
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Image"
+msgstr ""
+
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "The recommended minimum height of your logo is <strong>128px</strong>. The width of your logo will be adjusted automatically."
+msgstr ""
+
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Image (x2 for Retina)"
+msgstr ""
+
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Alignment relative to headline"
+msgstr ""
+
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Above"
+msgstr ""
+
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Define the outer distance around the logo."
+msgstr ""
+
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "Bottom border"
+msgstr ""
+
+#: inc/view/customize/banner/HeaderDesign.php:1
+msgid "You can define an additional bottom border to separate the header from the body."
+msgstr ""
+
+#: inc/view/customize/banner/individual/Group.php:1
+msgid "Cookie groups"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Group.php:1
+msgid "Checkbox"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Group.php:1
+msgid "Checked state"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Group.php:1
+msgid "Check icon color"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Group.php:1
+msgid "Group box"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Group.php:1
+msgid "Define the inner distance of the group box."
+msgstr ""
+
+#: inc/view/customize/banner/individual/Group.php:1
+msgid "Spacing between groups (px)"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Group.php:1
+msgid "Border radius"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/Texts.php:1
+#: inc/view/customize/banner/Texts.php:1
+msgid "Headline"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Group.php:1
+#: inc/view/customize/banner/individual/Texts.php:1
+#: inc/view/customize/banner/Texts.php:1
+msgid "Description"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Group.php:1
+msgid "Font color on hover"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Layout.php:1
+#: inc/view/customize/banner/individual/Layout.php:1
+msgid "Inherit maximum width"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Layout.php:1
+msgid "Description text align"
+msgstr ""
+
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "\"Save\" button"
+msgstr ""
+
+#: inc/view/customize/banner/individual/SaveButton.php:1
+msgid "Define the inner distance of the button."
+msgstr ""
+
+#: inc/view/customize/banner/individual/Texts.php:1
+#: inc/view/customize/banner/Texts.php:1
+msgid "Texts"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Texts.php:1
+msgid "\"Save\" button/link"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Texts.php:1
+msgid "\"Show cookie information\" link"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Texts.php:1
+msgid "\"Hide cookie information\" link"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Texts.php:1
+msgid "We use cookies on our website. Some of them are essential, while others help us to improve this website and your experience. You have the right to consent only to technically essential cookies and to revoke your consent to any cookies at a later date. Below, you find an overview of all cookies used by this website and you can agree to whole categories or view detailed information about each cookie and agree to them individually."
+msgstr ""
+
+#: inc/view/customize/banner/individual/Texts.php:1
+msgid "Save custom choices"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Texts.php:1
+msgid "Show cookie information"
+msgstr ""
+
+#: inc/view/customize/banner/individual/Texts.php:1
+msgid "Hide cookie information"
+msgstr ""
+
+#. translators:
+#: inc/view/customize/banner/Legal.php:1
+msgid "This option can not be changed here, please navigate to <a href=\"%s\" target=\"_blank\">Settings</a>."
+msgstr ""
+
+#: inc/view/customize/banner/Legal.php:1
+msgid "Legal (Privacy Policy & Imprint)"
+msgstr ""
+
+#: inc/view/customize/banner/Legal.php:1
+msgid "In order to comply with the ePrivacy Directive, it is important that the cookie banner/dialog contains a direct link to the privacy policy and the imprint (if required in your country)."
+msgstr ""
+
+#: inc/view/customize/banner/Legal.php:1
+#: inc/view/customize/banner/Legal.php:1
+msgid "Privacy policy"
+msgstr ""
+
+#: inc/view/customize/banner/Legal.php:1
+#: inc/view/customize/banner/Legal.php:1
+msgid "Page"
+msgstr ""
+
+#: inc/view/customize/banner/Legal.php:1
+#: inc/view/customize/banner/Legal.php:1
+msgid "Label"
+msgstr ""
+
+#: inc/view/customize/banner/Legal.php:1
+msgid "Show privacy policy without cookie banner"
+msgstr ""
+
+#: inc/view/customize/banner/Legal.php:1
+msgid "According to some data protectors, it must be ensured that the privacy policy can be viewed before accepting cookies."
+msgstr ""
+
+#: inc/view/customize/banner/Legal.php:1
+#: inc/view/customize/banner/Legal.php:1
+msgid "Imprint"
+msgstr ""
+
+#: inc/view/customize/banner/Legal.php:1
+msgid "Show imprint without cookie banner"
+msgstr ""
+
+#: inc/view/customize/banner/Legal.php:1
+msgid "According to some data protectors, it must be ensured that the imprint can be viewed before accepting cookies."
+msgstr ""
+
+#: inc/view/customize/banner/Texts.php:1
+msgid "\"Accept all cookies\" button/link"
+msgstr ""
+
+#: inc/view/customize/banner/Texts.php:1
+msgid "\"Accept only essential cookies\" button/link"
+msgstr ""
+
+#: inc/view/customize/banner/Texts.php:1
+msgid "\"Individual privacy preferences\" button/link"
+msgstr ""
+
+#: inc/view/customize/banner/Texts.php:1
+msgid "Use <code>{{services}}</code> as a placeholder to show all cookies/services that process data in the USA."
+msgstr ""
+
+#: inc/view/customize/banner/Texts.php:1
+msgid "Data processing in the USA"
+msgstr ""
+
+#: inc/view/customize/banner/Texts.php:1
+msgid "Age notice"
+msgstr ""
+
+#: inc/view/customize/banner/Texts.php:1
+msgid "Age notice in cookie banner"
+msgstr ""
+
+#: inc/view/customize/banner/Texts.php:1
+msgid "Age notice in content blocker"
+msgstr ""
+
+#. translators:
+#: inc/view/customize/banner/Texts.php:1
+msgid "Consent for data processing in the USA is currently disabled. Please navigate to %1$sSettings > Consent%2$s to activate it."
+msgstr ""
+
+#. translators:
+#: inc/view/customize/banner/Texts.php:1
+msgid "Age notice is currently disabled. Please navigate to %1$sSettings > Consent%2$s to activate it."
+msgstr ""
+
+#: inc/view/customize/banner/Texts.php:1
+msgid "Privacy preferences"
+msgstr ""
+
+#: inc/view/customize/banner/Texts.php:1
+msgid "We use cookies on our website. Some of them are essential, while others help us to improve this website and your experience. You have the right to consent to only essential cookies and to revoke your consent of any kind at a later date."
+msgstr ""
+
+#: inc/view/customize/banner/Texts.php:1
+msgid "The following services used on this website collect data and process them in the USA: {{services}}. By agreeing to the use of these services, you also consent to your data being processed in the USA in accordance with Art. 49 para. 1 sentence 1 lit. a EU GDPR. The USA is considered by the ECJ to be a country with a level of data protection that is inadequate by EU standards. In particular, there is a risk that your data may be processed by US authorities for control and monitoring purposes, possibly without the possibility of legal recourse. This may result in disadvantages for you such as being refused entry to the USA."
+msgstr ""
+
+#: inc/view/customize/banner/Texts.php:1
+msgid "You are under 16 years old? Then you can only accept essential cookies, or you can ask your parents or legal guardian to agree with you to other cookies."
+msgstr ""
+
+#: inc/view/customize/banner/Texts.php:1
+msgid "You are under 16 years old? Unfortunately, you are not allowed to agree to these cookies yourself to view this content. Please ask your parents or legal guardian to agree to the cookies with you."
+msgstr ""
+
+#: inc/view/shortcode/LinkShortcode.php:1
+msgid "Please provide a `text` attribute in your shortcode!"
+msgstr ""
+
+#. translators:
+#: inc/view/shortcode/LinkShortcode.php:1
+msgid "Please provide a `type` attribute in your shortcode. Allowed: %s!"
+msgstr ""

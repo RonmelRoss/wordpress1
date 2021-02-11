@@ -1,0 +1,2928 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: n/a\n"
+"PO-Revision-Date: 2021-01-11 09:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "You successfully saved the cookie."
+msgstr "Du hast das Cookie erfolgreich gespeichert."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Continue with the corresponding Content Blocker!"
+msgstr "Fahre mit dem entsprechenden Content-Blocker fort!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "The cookie could not be saved due to missing/invalid form values."
+msgstr ""
+"Das Cookie konnte aufgrund fehlender/ungültiger Formularwerte nicht "
+"gespeichert werden."
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-blocker.lite.js:1
+#: chunk-config-tab-blocker.pro.js:1 chunk-config-tab-settings.lite.js:1
+#: chunk-config-tab-settings.pro.js:1
+msgid ""
+"You have unsaved changes. If you click on confirm, your changes will be "
+"discarded."
+msgstr ""
+"Du hast ungespeicherte Änderungen. Wenn du auf Bestätigen klickst, werden "
+"deine Änderungen verworfen."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Create content blocker for this service."
+msgstr "Content Blocker für diesen Dienst erstellen."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please select a template for the Content Blocker!"
+msgstr "Bitte wähle eine Vorlage für den Content Blocker!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Select Content Blocker template..."
+msgstr "Content Blocker Vorlage auswählen..."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"Immediately after submitting this form you will be forwarded to another form "
+"that allows you to create the Content Blocker."
+msgstr ""
+"Unmittelbar nach dem Absenden dieses Formulars wirst Du zu einem anderen "
+"Formular weitergeleitet, mit dem Du den Content Blocker erstellen kannst."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please confirm that you have checked the contents of the cookie."
+msgstr "Bitte bestätige, dass du den Inhalt des Cookies überprüft haben."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"I have checked the information in the cookie template myself and added any "
+"missing information or corrected any information that does not fit to my use "
+"case."
+msgstr ""
+"Ich habe die Informationen in der Cookie-Vorlage selbst überprüft und "
+"fehlende Informationen ergänzt oder Informationen korrigiert, die nicht zu "
+"meinem Anwendungsfall passen."
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-blocker.lite.js:1
+#: chunk-config-tab-blocker.pro.js:1 chunk-config-tab-cookies.lite.js:1
+#: chunk-config-tab-cookies.pro.js:1 chunk-config-tab-licensing.lite.js:1
+#: chunk-config-tab-licensing.pro.js:1
+msgid "Save"
+msgstr "Speichern"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please fill in a value!"
+msgstr "Bitte gib einen Wert ein!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "ActiveCampaign Account ID"
+msgstr "ActiveCampaign Account ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please fill in a valid ID!"
+msgstr "Bitte gib eine gültige ID ein!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "e. g."
+msgstr "z. B."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Amazon Associates Widget HTML ID"
+msgstr "Amazon Partnernet Widget HTML ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Facebook Pixel ID"
+msgstr "Facebook-Pixel ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Freshchat host"
+msgstr "Freshchat Host"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please provide a valid hostname!"
+msgstr "Bitte gib einen gültigen Hostnamen an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Freshchat token"
+msgstr "Freshchat Token"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please provide a valid token!"
+msgstr "Bitte gib einen gültigen Token an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Google Ads Conversation Tracking ID"
+msgstr "Google Ads Conversation Tracking ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please fill in a valid tracking ID!"
+msgstr "Bitte gib eine gültige Tracking ID ein!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Google Analytics Measurement ID"
+msgstr "Google Analytics Mess-ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Google Analytics Tracking ID"
+msgstr "Google Analytics Tracking-ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Google Tag Manager Container ID"
+msgstr "Google Tag Manager Container ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please fill in a valid container ID!"
+msgstr "Bitte gib eine gültige Container ID an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "HelpCrunch application ID"
+msgstr "HelpCrunch Anwendungs-ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please provide a valid number!"
+msgstr "Bitte gib eine gültige Nummer an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "HelpCrunch organization"
+msgstr "HelpCrunch Organisation"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please fill in a organization!"
+msgstr "Bitte gib eine Organisation an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "HelpCrunch application secret"
+msgstr "HelpCrunch Application Secret"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please provide a secret!"
+msgstr "Bitte gib ein Secret an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "HelpScout Beacon ID"
+msgstr "HelpScout Beacon ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please provide a valid id!"
+msgstr "Bitte gib eine gültige ID an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Hotjar ID"
+msgstr "Hotjar ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Intercom application ID"
+msgstr "Intercom Application ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Lucky Orange Site ID"
+msgstr "Lucky Orange Site ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Mouseflow Website ID"
+msgstr "Mouseflow Website ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Microsoft Clarity Project ID"
+msgstr "Microsoft Clarity Projekt ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Matomo Host"
+msgstr "Matomo Host"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Matomo Site ID"
+msgstr "Matomo Site ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Matomo Tag Manager URL"
+msgstr "Matomo Tag Manager URL"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please provide a valid URL!"
+msgstr "Bitte gib eine gültige URL an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Reamaze account name"
+msgstr "Reamaze Account Name"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please fill in an account name!"
+msgstr "Bitte gib einen Account Namen ein!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"e. g. example, if your Reamaze account is reachable at example.reamaze.com"
+msgstr ""
+"z. B. example, wenn dein Reamaze-Account unter example.reamaze.com "
+"erreichbar ist"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "tawk.to ID"
+msgstr "tawk.to ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Tidio JS ID"
+msgstr "Tidio JS ID"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Zendesk widget key"
+msgstr "Zendesk Widget Key"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please provide a valid key!"
+msgstr "Bitte gib einen gültigen Key an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "A cookie with the same unique name already exists."
+msgstr "Ein Cookie mit dem gleichen eindeutigen Namen existiert bereits."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "General cookie configuration"
+msgstr "Allgemeine Cookie-Konfiguration"
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-blocker.lite.js:1
+#: chunk-config-tab-blocker.pro.js:1 chunk-config-tab-cookies.lite.js:1
+#: chunk-config-tab-cookies.pro.js:1
+msgid "Name"
+msgstr "Name"
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-blocker.lite.js:1
+#: chunk-config-tab-blocker.pro.js:1
+msgid "Please provide a name!"
+msgstr "Bitte gib einen Namen an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"Each cookie used should have a descriptive name that is understandable to a "
+"normal user, for example \"Google Analytics\"."
+msgstr ""
+"Jedes verwendete Cookie sollte einen beschreibenden Namen haben, der für "
+"einen normalen Nutzer verständlich ist, zum Beispiel “Google Analytics”."
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-blocker.lite.js:1
+#: chunk-config-tab-blocker.pro.js:1
+msgid "Status"
+msgstr "Status"
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-blocker.lite.js:1
+#: chunk-config-tab-blocker.pro.js:1 chunk-config-tab-import.lite.js:1
+#: chunk-config-tab-import.pro.js:1
+msgid "Please choose a status!"
+msgstr "Bitte wähle einen Status aus!"
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-blocker.lite.js:1
+#: chunk-config-tab-blocker.pro.js:1 chunk-config-tab-consent.lite.js:1
+#: chunk-config-tab-consent.pro.js:1 chunk-config-tab-import.lite.js:1
+#: chunk-config-tab-import.pro.js:1 chunk-config-tab-settings.lite.js:1
+#: chunk-config-tab-settings.pro.js:1
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-blocker.lite.js:1
+#: chunk-config-tab-blocker.pro.js:1 chunk-config-tab-consent.lite.js:1
+#: chunk-config-tab-consent.pro.js:1 chunk-config-tab-cookies.lite.js:1
+#: chunk-config-tab-cookies.pro.js:1 chunk-config-tab-import.lite.js:1
+#: chunk-config-tab-import.pro.js:1 chunk-config-tab-settings.lite.js:1
+#: chunk-config-tab-settings.pro.js:1
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-blocker.lite.js:1
+#: chunk-config-tab-blocker.pro.js:1 chunk-config-tab-cookies.lite.js:1
+#: chunk-config-tab-cookies.pro.js:1 chunk-config-tab-import.lite.js:1
+#: chunk-config-tab-import.pro.js:1
+msgid "Draft"
+msgstr "Entwurf"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"Cookies with a \"Draft\" or \"Disabled\" status will not visible to the "
+"public. In addition, a draft will be highlighted in the cookies table so "
+"that you do not forget to configure it."
+msgstr ""
+"Cookies mit dem Status “Entwurf” oder “Deaktiviert” sind für die "
+"Öffentlichkeit nicht sichtbar. Außerdem wird ein Entwurf in der Tabelle der "
+"Cookies hervorgehoben, damit du nicht vergisst fertigzustellen."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Group"
+msgstr "Gruppe"
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-import.lite.js:1
+#: chunk-config-tab-import.pro.js:1
+msgid "Please provide a group!"
+msgstr "Bitte gib eine Gruppe an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"Each cookie (service) must be assigned to a group. All cookies that do not "
+"belong to the group of essential cookies can, but do not have to, be "
+"accepted by visitors. According to the ePrivacy Directive, only cookies "
+"without which the website would not function technically are considered "
+"essential cookies. A possible economic interest of the website operator in "
+"using a tool, e. g. Google Analytics, is irrelevant."
+msgstr ""
+"Jedes Cookie (Dienst) muss einer Gruppe zugeordnet werden. Alle Cookies, die "
+"nicht zu der Gruppe der essenziellen Cookies gehören, können, müssen aber "
+"nicht von Besuchern akzeptiert werden. Gemäss der ePrivacy-Richtlinie gelten "
+"nur Cookies ohne die die Website technisch nicht funktionieren würde, als "
+"essenzielle Cookies. Ein mögliches wirtschaftliches Interesse des Website-"
+"Betreibers an der Nutzung eines Tools, z. B. Google Analytics, ist "
+"unerheblich."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"The cookie group in which this cookie is normally placed (%s) has been "
+"deleted by you. Please group the cookie yourself."
+msgstr ""
+"Die Cookie-Gruppe in der dieses Cookie normalerweise platziert wird (%s), "
+"wurde von dir gelöscht. Bitte gruppiere das Cookie selbst."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Provider"
+msgstr "Anbieter"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please provide a provider!"
+msgstr "Bitte einen Anbieter angeben!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"A cookie (service) always has an \"owner\", who processes data with the "
+"information in the cookie. Please specify which provider creates and "
+"processes this cookie, e. g. \"Google Ireland Limited\". If you are the "
+"provider, please enter your legal (company) name."
+msgstr ""
+"Ein Cookie (Service) hat immer einen “Besitzer”, der mit den im Cookie "
+"enthaltenen Informationen Daten verarbeitet. Bitte gib an, welcher Provider "
+"dieses Cookie erstellt und verarbeitet, z.B. “Google Ireland Limited”. Wenn "
+"du der Provider bist, gib bitte deinen rechtlichen (Firmen-)Namen an."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Purpose"
+msgstr "Zweck"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"The ePrivacy Directive and GDPR require that a normal user understands the "
+"purpose of this service and how cookies are used for it."
+msgstr ""
+"Die ePrivacy-Richtlinie verlangen, dass ein normaler Benutzer den Zweck "
+"dieses Dienstes versteht und erklärt bekommen wie Cookies hierfür verwendet "
+"werden."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Privacy policy of the provider"
+msgstr "Datenschutzerklärung des Anbieters"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"Provide a direct link to the privacy policy of the provider that processes "
+"this cookie (in the language of your website)."
+msgstr ""
+"Gib einen direkten Link zu den Datenschutzerklärung des Anbieters an, der "
+"dieses Cookie verarbeitet (in der Sprache deiner Website)."
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-cookies.lite.js:1
+#: chunk-config-tab-cookies.pro.js:1
+msgid "Consent Forwarding Unique Name"
+msgstr "Eindeutiger Name für Weiterleitung der Einwilligung"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"Consent Forwarding is active. This means that all cookies on all available "
+"instances must be recognized by a unique name in order to set the consent "
+"for a cookie correctly."
+msgstr ""
+"Die Weiterleitung der Einwilligung ist aktiv. Das bedeutet, dass alle "
+"Cookies auf allen vorhandenen Instanzen durch einen eindeutigen Namen "
+"erkannt werden müssen, um die Einwilligung für ein Cookie korrekt zu setzen."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"You can set a unique name, but essential cookies are automatically accepted "
+"when a consent is forwarded."
+msgstr ""
+"Du kannst einen eindeutigen Namen festlegen, aber essentielle Cookies werden "
+"automatisch akzeptiert, wenn eine Einwilligung weitergeleitet wird."
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-cookies.lite.js:1
+#: chunk-config-tab-cookies.pro.js:1
+msgid "US data processing"
+msgstr "US-Datenverarbeitung"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"This service processes data in the USA or transfers data to US companies or "
+"servers"
+msgstr ""
+"Dieser Dienst verarbeitet Daten in den USA oder überträgt Daten an US-Firmen "
+"oder -Server"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"If you use this cookie only as an notice and the corresponding service is "
+"already embedded outside the cookie banner on the first visit to the "
+"website, it is possible that the service used in the USA is already "
+"processing data before the user has agreed to this. From a data protection "
+"perspective, the use of such services should be avoided or the service "
+"should be embedded in the opt-in code (execution after consent), but in "
+"practice this will not always be possible."
+msgstr ""
+"Wenn du dieses Cookie nur als Hinweis verwendest und der entsprechende "
+"Dienst bereits beim ersten Besuch der Website außerhalb des Cookie Banners "
+"eingebettet ist, ist es möglich, dass der in den USA genutzte Dienst bereits "
+"Daten verarbeitet, bevor der Nutzer dem zugestimmt hat. Aus "
+"datenschutzrechtlicher Sicht sollte die Nutzung solcher Dienste vermieden "
+"oder der Dienst in den Opt-in Code eingebettet werden (Ausführung nach "
+"Einwilligung), aber in der Praxis wird dies nicht immer möglich sein."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "No technical definitions"
+msgstr "Keine technischen Definitionen"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"This service does not set any technical cookies on the client of the "
+"visitor, but e. g. integrates a script."
+msgstr ""
+"Dieser Dienst setzt keine technischen Cookies auf dem Client des Besuchers, "
+"aber bindet z. B. ein Script ein."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"Define HTML and JavaScript code that is executed when a visitor decides to "
+"accept or reject a cookie or when a page is loaded. It is important to "
+"define the executed code correctly, as this ensures that scripts are "
+"executed and cookies are set only after the user's consent."
+msgstr ""
+"Definiere HTML- und JavaScript-Code, der ausgeführt wird, wenn ein Besucher "
+"einen Cookie akzeptiert oder ablehnt oder wenn eine Seite geladen wird. Es "
+"ist wichtig den ausgeführten Code korrekt zu definieren, da nur so "
+"sichergestellt werden kann, dass erst nach Einwilligung des Benutzers "
+"Scripts ausgeführt und Cookies gesetzt werden."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"Define the %1$s event that should be thrown in the data layer when a visitor "
+"decides to accept or reject a cookie. The event can be used as a trigger in "
+"%1$s. For users who do not allow to use %1$s a fallback can be defined. You "
+"can define HTML and JavaScript code that is executed when a visitor decides "
+"to accept or reject a cookie, or when a page is loaded. It is important to "
+"define the event names and executed code correctly, as this will ensure that "
+"scripts are executed and cookies are only set with the user's consent."
+msgstr ""
+"Definiere das %1$s Ereignis, das im Data Layer geworfen werden soll, wenn "
+"ein Besucher entscheidet ein Cookie zu akzeptieren oder abzulehnen. Das "
+"Ereignis kann als Trigger im %1$s verwendet werden. Für Nutzer, die die "
+"Verwendung von %1$s nicht erlauben, kann ein Fallback definiert werden. Du "
+"kannst HTML- und JavaScript-Code definieren, der ausgeführt wird, wenn ein "
+"Besucher beschließt, ein Cookie zu akzeptieren oder abzulehnen, oder wenn "
+"eine Seite geladen wird. Es ist wichtig die Ereignisnamen und den "
+"ausgeführten Code korrekt zu definieren, da so sichergestellt wird, dass "
+"Scripte ausgeführt und Cookies nur mit Einwilligung des Nutzers gesetzt "
+"werden."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Technical handling"
+msgstr "Technische Handhabung"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Code executed on opt-in"
+msgstr "Code bei Opt-in ausführen"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Only run this script if the user has {{u}}not{{/u}} allowed to use %s"
+msgstr ""
+"Script nur ausführen, wenn der Nutzer {{u}}nicht{{/u}} in die Verwendung von "
+"%s eingewilligt hat"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Code executed on opt-out"
+msgstr "Code bei Opt-out ausführen"
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-cookies.lite.js:1
+#: chunk-config-tab-cookies.pro.js:1
+msgid ""
+"Delete all first-party cookies after opt-out. First-party cookies are only "
+"cookies that are set by or for this domain."
+msgstr ""
+"Lösche alle First-Party-Cookies nach dem Opt-out. First-Party-Cookies sind "
+"nur Cookies, die von oder für diese Domain gesetzt wurden."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Code executed on page load"
+msgstr "Code beim Laden der Seite ausführen"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "You have already defined a %s cookie."
+msgstr "Du hast bereits einen %s Cookie definiert."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Opt-in script below loads %s"
+msgstr "Opt-in Script unten lädt %s"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"You have defined %1$s in a non-essential cookie group. In our legal opinion, "
+"this is the only way to use %1$s legally. However, please note that if a "
+"user doesn't consent to load %1$s, opt-in and opt-out events will not be "
+"sent to %1$s. Real Cookie Banner offers you the possibility to specify a "
+"fallback HTML/JavaScript for this case."
+msgstr ""
+"Du hast %1$s in einer nicht essentiellen Cookie-Gruppe definiert. Nach "
+"unserer Rechtsauffassung ist dies die einzige Möglichkeit %1$s legal zu "
+"verwenden. Bitte beachte jedoch, dass wenn ein Nutzer nicht zustimmt %1$s zu "
+"laden, werden keine Opt-in- und Opt-out-Events an %1$s gesendet. Real Cookie "
+"Banner bietet dir die Möglichkeit für diesen Fall ein Fallback-HTML/-"
+"JavaScript anzugeben."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Event names for %s"
+msgstr "Ereignis-Namen für %s"
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-cookies.lite.js:1
+#: chunk-config-tab-cookies.pro.js:1
+msgid "Opt-in"
+msgstr "Opt-in"
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-cookies.lite.js:1
+#: chunk-config-tab-cookies.pro.js:1
+msgid "Opt-out"
+msgstr "Opt-out"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"You have not yet defined a %s cookie. To use event names, you must create a "
+"%s cookie."
+msgstr ""
+"Du hast noch keinen %s Cookie definiert. Um Ereignis-Namen zu verwenden, "
+"musst du ein %s Cookie erstellen."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"The code above contains HTML tags that are skipped because the following "
+"plugins are active: {{strong/}}. {{i}}What does this mean for me?{{/i}} In "
+"most cases, another plugin will take over the execution of the technical "
+"code and you have to create an corresponding content blocker."
+msgstr ""
+"Der obige Code enthält HTML-Tags, die übersprungen werden, weil die "
+"folgenden Plugins aktiv sind: {{strong/}}. {{i}}Was bedeutet das für mich?{{/"
+"i}} In den meisten Fällen übernimmt ein anderes Plugin die Ausführung des "
+"technischen Codes und Du musst entsprechend einen Content Blocker erstellen."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"For each service you use, you should specify all cookies that are used by "
+"it. You can find this out in the developer console of your browser. Please "
+"note that there are several types of cookies and that the law requires that "
+"you inform your visitors not only about (HTTP) cookies, but also about "
+"cookie-like information."
+msgstr ""
+"Für jeden Dienst, den du nutzt, solltest du auch alle Cookies angeben, die "
+"von diesem verwendet werden. Du kannst dies in der Entwicklerkonsole deines "
+"Browsers herausfinden. Bitte beachte, dass es mehrere Arten von Cookies gibt "
+"und dass das Gesetz verlangt, dass du deine Besucher nicht nur über "
+"(HTTP-)Cookies, sondern auch über Cookie-ähnliche informierst."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Technical cookie information"
+msgstr "Technische Cookie Informationen"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Cookie type"
+msgstr "Cookie-Typ"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"Every cookie has a technical name, which you must provide. If a cookie name "
+"is dynamically composed, please use an asterisk ({{code}}*{{/code}}) as "
+"wildcard."
+msgstr ""
+"Jedes Cookie hat einen technischen Namen, den du angeben musst. Wenn sich "
+"ein Cookie-Name dynamisch zusammensetzt, verwende bitte ein Sternchen "
+"({{code}}*{{/code}}) als Platzhalter."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Technical cookie name"
+msgstr "Technischer Cookie-Name"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Every cookie is associated to a domain or hostname."
+msgstr "Jedes Cookie ist zu einer Domain oder einem Host zugeordnet."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Technical cookie host"
+msgstr "Technischer Cookie-Host"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"A HTTP cookie is only valid for a certain time, which is defined when the "
+"cookie is set."
+msgstr ""
+"Ein HTTP-Cookie ist nur für eine bestimmte Zeit gültig, die beim Setzen des "
+"Cookies definiert wird."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Cookie duration"
+msgstr "Cookie Gültigkeitsdauer"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please provide a cookie type!"
+msgstr "Bitte gib einen Cookie-Typ an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please provide a technical cookie name!"
+msgstr "Bitte gib einen technischen Cookie-Namen an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"Are you sure this is the name of the cookie? It seems like you are using a "
+"placeholder that is not supported. Please use an asterisk ({{code}}*{{/"
+"code}}) as a placeholder if the cookie name is dynamically composed."
+msgstr ""
+"Bist du sicher, dass dies der Name des Cookies ist? Es scheint, als würdest "
+"du einen Platzhalter verwenden, der nicht unterstützt wird. Bitte benutze "
+"ein Sternchen ({{code}}*{{/code}}) als Platzhalter, wenn der Cookie-Name "
+"dynamisch zusammengestellt wird."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"You are using an invalid wildcard syntax {{code}}*.{{/code}} to match "
+"subdomains. Use {{code}}.%s{{/code}} to include subdomains."
+msgstr ""
+"Du verwendest eine ungültige Platzhaltersyntax {{code}}*.{{/code}}, um "
+"Subdomains zuzuordnen. Verwende {{code}}.%s{{/code}}, um Subdomains "
+"einzuschließen."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "This cookie is active as long as the session is active"
+msgstr "Dieses Cookie ist so lange aktiv, wie die Session aktiv ist"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Session"
+msgstr "Sitzung"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please provide a valid duration!"
+msgstr "Bitte gib eine gültige Gültigkeitsdauer an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Please provide an unit!"
+msgstr "Bitte gib eine Einheit an!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "second(s)"
+msgstr "Sekunde(n)"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "minute(s)"
+msgstr "Minute(n)"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "hour(s)"
+msgstr "Stunde(n)"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "day(s)"
+msgstr "Tag(e)"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "month(s)"
+msgstr "Monat(e)"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "year(s)"
+msgstr "Jahr(e)"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Add another cookie definition"
+msgstr "Weitere Cookie-Definition hinzufügen"
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-consent.lite.js:1
+#: chunk-config-tab-consent.pro.js:1
+msgid "What you should definitely know!"
+msgstr "Was Du unbedingt wissen solltest!"
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-consent.lite.js:1
+#: chunk-config-tab-consent.pro.js:1
+msgid "Okay, I got it"
+msgstr "Okay, verstanden"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Want to use %s template?"
+msgstr "Möchtest du die %s Vorlage verwenden?"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"Only a limited number of templates for cookies and content blockers are "
+"available in the %s version of Real Cookie Banner. Get the PRO version now "
+"and create a cookie or content blocker from this template with just one "
+"click!"
+msgstr ""
+"In der %s Version von Real Cookie Banner steht nur eine begrenzte Anzahl von "
+"Vorlagen für Cookies und Content Blocker zur Verfügung. Hole dir jetzt die "
+"PRO-Version und erstellen ein Cookie oder einen Content-Blocker aus der "
+"Vorlage mit nur einem Klick!"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Demo"
+msgstr "Demo"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Free"
+msgstr "Freien"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"This template is currently disabled because the respective WordPress plugin "
+"is not installed."
+msgstr ""
+"Diese Vorlage ist derzeit deaktiviert, da das entsprechende WordPress-Plugin "
+"nicht installiert ist."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "No description"
+msgstr "Keine Beschreibung"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Create from scratch"
+msgstr "Individuell erstellen"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Configure a new content blocker according to your requirements."
+msgstr "Konfiguriere einen neuen Content Blocker nach deinen Anforderungen."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Configure a new cookie according to your requirements."
+msgstr "Konfiguriere ein neues Cookie nach deinen Anforderungen."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "...or create it from one of our templates"
+msgstr "…oder erstelle es mit einer unserer Vorlagen"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Search template by name..."
+msgstr "Vorlage suchen..."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "Show only free templates"
+msgstr "Nur kostenlose Vorlagen anzeigen"
+
+#: 86.pro.js:1 184.lite.js:1
+msgid ""
+"{{strong}}No template found.{{/strong}} Please try to create it by yourself "
+"or {{a}}contact us{{/a}} and let us know the service for which you need a "
+"template."
+msgstr ""
+"{{strong}}Keine Vorlage gefunden.{{/strong}} Bitte versuchen das es selbst "
+"zu erstellen oder {{a}}kontaktiere uns{{/a}} und teile uns mit für welchen "
+"Dienst du eine Vorlage benötigst."
+
+#: 86.pro.js:1 184.lite.js:1
+msgid "https://devowl.io/support"
+msgstr "https://devowl.io/support"
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-consent.lite.js:1
+#: chunk-config-tab-consent.pro.js:1
+msgid ""
+"What are cookies? Cookies (and similar technologies) are small text files "
+"that are stored on the device of visitors to your website. You can store "
+"information about the visitor in cookies, such as the language in which the "
+"website is to be made available to them, or unique advertising IDs to "
+"display personalized advertising. You, as the site owner, must ensure that "
+"cookies are only placed on your visitors' devices if they have given their "
+"explicit consent. You can define here all the services you use and their "
+"cookies with their legal and technical information."
+msgstr ""
+"Was sind Cookies? Cookies (und ähnliche Technologien) sind kleine "
+"Textdateien, die auf dem Gerät der Besucher deiner Website gespeichert "
+"werden. Du kannst in Cookies Informationen über den Besucher speichern, wie "
+"z.B. die Sprache, in der ihm die Website zur Verfügung gestellt werden soll, "
+"oder eindeutige Werbe-IDs, um personalisierte Werbung anzuzeigen. Du, als "
+"Inhaber der Website, musst sicherstellen, dass Cookies nur dann auf den "
+"Geräten deiner Besucher platziert werden, wenn diese ihre ausdrückliche "
+"Einwilligung gegeben haben. Du kannst hier alle von dir genutzten Dienste "
+"und deren Cookies mit ihren rechtlichen und technischen Informationen "
+"hinterlegen."
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-consent.lite.js:1
+#: chunk-config-tab-consent.pro.js:1
+msgid ""
+"What is a content blocker? Imagine a user of your website does not accept "
+"all cookies. At the same time, you have integrated e. g. a YouTube video "
+"that would set cookies that the visitor has not agreed to. According to the "
+"ePrivacy Directive, this must not happen. Content Blockers automatically "
+"replace iframes, script and link tags like YouTube videos for such users and "
+"offer the user to watch the video if he or she consents to load YouTube "
+"videos."
+msgstr ""
+"Was ist ein Content Blocker? Stelle dir vor, ein Nutzer deiner Website "
+"akzeptiert nicht alle Cookies. Gleichzeitig hast du z. B. ein YouTube-Video "
+"integriert, dass Cookies setzen würde, denen der Besucher nicht zugestimmt "
+"hat. Gemäss der ePrivacy-Richtlinie darf dies nicht passieren. Content "
+"Blocker ersetzen automatisch Iframes, Script und Link-Tags wie YouTube-"
+"Videos für solche Nutzer und bieten dem Nutzer an das Video anzusehen, wenn "
+"er dem Laden von YouTube-Videos zustimmt."
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-consent.lite.js:1
+#: chunk-config-tab-consent.pro.js:1
+msgid ""
+"Consents are automatically documented in order to be able to prove "
+"compliance with the legal requirements according to {{a}}Art. 5 GDPR{{/a}} "
+"and, in case of dispute, to prove how the consent was obtained."
+msgstr ""
+"Einwilligungen werden automatisch dokumentiert, um die Einhaltung der "
+"gesetzlichen Anforderungen nach {{a}}Art. 5 DSGVO{{/a}} nachzuweisen und im "
+"Streitfall zu belegen, wie die Zustimmung erlangt wurde."
+
+#: 86.pro.js:1 184.lite.js:1 chunk-config-tab-consent.lite.js:1
+#: chunk-config-tab-consent.pro.js:1
+msgid ""
+"To comply with the ePrivacy Directive, you must provide links in your "
+"privacy policy to view the history of cookie consent and to change and "
+"revoke the consent."
+msgstr ""
+"Um der ePrivacy-Richtlinie zu entsprechen, musst du in deiner "
+"Datenschutzerklärung Links bereitstellen, über die deine Benutzer die "
+"Historie der Zustimmung zu Cookies einsehen und die Zustimmung ändern und "
+"widerrufen können."
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Cookie Banner/Dialog"
+msgstr "Cookie Banner/Dialog"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid ""
+"You can enable and disable the cookie banner. We recommend to activate the "
+"cookie banner on your website after you have added all cookies."
+msgstr ""
+"Du kannst das Cookie Banner aktivieren und deaktivieren. Wir empfehlen dir "
+"das Cookie Banner auf deiner Website zu aktivieren, nachdem du alle Cookies "
+"eingepflegt hast."
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+#: admin.lite.js:1 admin.pro.js:1 chunk-config-tab-consent.lite.js:1
+#: chunk-config-tab-consent.pro.js:1 chunk-config-tab-import.lite.js:1
+#: chunk-config-tab-import.pro.js:1
+msgid "Content Blocker"
+msgstr "Content Blocker"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid ""
+"This feature allows you to block content that would set cookies, but for "
+"which you do not yet have the visitor's consent."
+msgstr ""
+"Diese Funktion ermöglicht es dir, Inhalte zu blockieren, die Cookies setzen "
+"würden, für die du aber noch nicht die Zustimmung des Besuchers hast."
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Refresh site after consent"
+msgstr "Seite nach Einwilligung neu laden"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Do not refresh"
+msgstr "Nicht neu laden"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Refresh"
+msgstr "Neu laden"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid ""
+"Depending on how cookies are set e. g. by other plugins on your website, it "
+"may be necessary to reload the website after the user has given his consent "
+"to set cookies (only necessary in very rare cases)."
+msgstr ""
+"Je nachdem wie Cookies gesetzt werden, z. B. durch andere Plugins auf deiner "
+"Website, kann es notwendig sein die Website neu zu laden, nachdem der Nutzer "
+"seine Einwilligung zum Setzen von Cookies gegeben hat (nur in sehr seltenen "
+"Fällen notwendig)."
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid "Hide cookie banner on specific pages"
+msgstr "Cookie Banner auf bestimmten Seiten ausblenden"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid ""
+"According to the ePrivacy Directive, legally mandatory pages such as the "
+"privacy policy or the imprint should be accessible without the need for the "
+"user to consent to cookies. Therefore, it is recommended to avoid cookies on "
+"these pages and not to display a cookie banner."
+msgstr ""
+"Gemäß der ePrivacy-Richtlinie sollten gesetzlich vorgeschriebene Seiten wie "
+"die Datenschutzerklärung oder das Impressum zugänglich sein, ohne dass der "
+"Nutzer den Cookies zustimmen muss. Es wird daher empfohlen Cookies auf "
+"diesen Seiten zu vermeiden und keinen Cookie Banner anzuzeigen."
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Imprint page"
+msgstr "Impressum"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Privacy policy page"
+msgstr "Datenschutzerklärung"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Hide on additional pages"
+msgstr "Auf zusätzlichen Seiten ausblenden"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid "Want to hide cookie banner on more pages?"
+msgstr "Möchtest du das Cookie Banner auf mehr Seiten ausblenden?"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid ""
+"Cookie banners are legally necessary, but distract your users from the "
+"essential. For example, on landing pages for advertising campaigns they lead "
+"to poorer conversation rates. On these pages it can be useful to do without "
+"cookies to keep the conversation rate high. You can hide the cookie banner "
+"on these pages."
+msgstr ""
+"Cookie Banner sind rechtlich notwendig, lenken deine Nutzer aber vom "
+"Wesentlichen ab. Zum Beispiel führen sie auf Landing Pages für "
+"Werbekampagnen zu schlechteren Konvertierungsraten. Auf diesen Seiten kann "
+"es sinnvoll sein auf Cookies zu verzichten, um die Konvertierungsraten hoch "
+"zu halten. Du kannst das Cookie Banner auf diesen Seiten ausblenden."
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Set cookies after consent via"
+msgstr "Cookies setzen nach Einwilligung mittels"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid "HTML/JavaScript Snippet"
+msgstr "HTML/JavaScript Snippet"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid "%s Event"
+msgstr "%s Ereignis"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid "Want to use a Tag Manager legally?"
+msgstr "Möchtest einen Tag Manager legal verwenden?"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid "pro-modal/set-cookies-via-manager.png"
+msgstr "pro-modal/de/set-cookies-via-manager.png"
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid ""
+"You can integrate services via Google Tag Manager or Matomo Tag Manager. At "
+"the same time, you can obtain and document consents via Real Cookie Banner "
+"in accordance with data protection regulations."
+msgstr ""
+"Du kannst Dienste über Google Tag Manager oder Matomo Tag Manager "
+"integrieren. Gleichzeitig kannst du über Real Cookie Banner Einwilligungen "
+"gemäß den Datenschutzvorschriften einholen und dokumentieren."
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid ""
+"You only need to change this option if you use Google Tag Manager or Matomo "
+"Tag Manager."
+msgstr ""
+"Du musst diese Option nur ändern, wenn Du Google Tag Manager oder Matomo Tag "
+"Manager verwendest."
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid ""
+"If you opt-in to or opt-out from cookies, you will normally execute "
+"JavaScript code to ensure that scripts are enabled/disabled and cookies are "
+"set/removed on the visitor client. If you are a Google Tag Manager or Matomo "
+"Tag Manager user, you can map this behavior by using tags that are triggered "
+"by an event in the data layer. If you enable this option, the Google Tag "
+"Manager or Matomo Tag Manager should not yet be integrated into your "
+"website. Instead, you must integrate it as an opt-in script of a cookie you "
+"create for the Tag Manager. For each cookie (service) listed in this plugin, "
+"you will receive an additional field where you can specify the name of the "
+"event that is automatically triggered when the user opt-in or opt-out. We "
+"have a full integration for Tag Manager which should allow you to run it "
+"legally compliant in the EU."
+msgstr ""
+"Wenn der Verwendung von Cookies zugestimmt oder diese verweigert werden, "
+"wird normalerweise JavaScript-Code ausführen, um sicherzustellen, dass "
+"Scripts aktiviert/deaktiviert und Cookies auf dem Besucher-Client gesetzt/"
+"entfernt werden. Wenn du ein Nutzer von Google Tag Manager oder Matomo Tag "
+"Manager bist, kannst du dieses Verhalten mit Hilfe von Tags abbilden, die "
+"durch ein Ereignis in dem Datalayer ausgelöst werden. Wenn du diese Option "
+"aktivierst, sollte der Google Tag Manager oder Matomo Tag Manager noch nicht "
+"in deine Webseite integriert sein. Stattdessen musst du ihn als Opt-in "
+"Script eines Cookies integrieren, dass du für den Tag Manager erstellst. Für "
+"jedes Cookie (Service), dass in diesem Plugin aufgeführt wird, erhältst du "
+"ein zusätzliches Feld, in dem du den Namen des Events angeben kannst, "
+"welches automatisch ausgelöst wird, wenn der Nutzer dem Cookie zustimmt oder "
+"seine Einwilligung widerruft. Wir haben eine vollständige Integration für "
+"den Tag Manager, die es dir ermöglichen sollte, diese gesetzeskonform in der "
+"EU einzusetzen."
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+msgid "Search..."
+msgstr "Suche..."
+
+#: 92.pro.js:1 443.pro.js:1 739.pro.js:1 749.lite.js:1 892.lite.js:1
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "— Select —"
+msgstr "— Auswählen —"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid ""
+"How time flies! You have installed Real Cookie Banner some time ago, but you "
+"still haven't finished the configuration."
+msgstr ""
+"Wie die Zeit vergeht! Du hast Real Cookie Banner schon vor einiger Zeit installiert, "
+"aber du hast die Konfiguration immer noch nicht abgeschlossen."
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid ""
+"We have collected all relevant steps for the legally compliant use of Real "
+"Cookie Banner after the first installation. Set up the cookie banner step by "
+"step to provide your website with an opt-in cookie banner in compliance with "
+"the ePrivacy Directive."
+msgstr ""
+"Wir haben alle relevanten Schritte für die rechtskonforme Nutzung von Real "
+"Cookie Banner nach der ersten Installation zusammengestellt. Richte das "
+"Cookie Banner Schritt für Schritt ein, um deine Website mit einem Opt-in "
+"Cookie Banner in Übereinstimmung mit der ePrivacy-Richtlinie auszustatten."
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid "Hide completed steps"
+msgstr "Abgeschlossene Schritte ausblenden"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid "%d / %d steps completed"
+msgstr "%d / %d Schritte abgeschlossen"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid "Needs PRO"
+msgstr "PRO-Version benötigt"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid "Real Cookie Banner is brought to you with {{icon/}} by"
+msgstr "Real Cookie Banner wird mit {{icon/}} entwickelt von"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid "Real Cookie Banner"
+msgstr "Real Cookie Banner"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid "Customize banner"
+msgstr "Cookie Banner anpassen"
+
+#: admin.lite.js:1 admin.pro.js:1 chunk-config-tab-dashboard.lite.js:1
+#: chunk-config-tab-dashboard.pro.js:1
+msgid "Set up the cookie banner"
+msgstr "Cookie Banner einrichten"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid "Close"
+msgstr "Schließen"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid ""
+"Your {{code}}wp-content{{/code}} folder is not writable. Please check your "
+"permissions!"
+msgstr ""
+"Dein {{code}}wp-content{{/code}} ist nicht beschreibbar. Bitte prüfe Deine "
+"Berechtigungen!"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid ""
+"The cookie banner is activated, but unfortunately you have not yet created "
+"or enabled cookies."
+msgstr ""
+"Der Cookie Banner ist aktiviert, aber leider hast du noch keine Cookies "
+"erstellt oder aktiviert."
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid ""
+"You have changed settings that affect the content or behavior of the cookie "
+"banner. You should ask all visitors for their consent again."
+msgstr ""
+"Du hast Einstellungen geändert, die den Inhalt oder das Verhalten des Cookie "
+"Banners beeinflussen. Daher solltest du alle Besucher erneut um ihre "
+"Einwilligung bitten."
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid "Request new consent"
+msgstr "Neue Einwilligung anfordern"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: admin.lite.js:1 admin.pro.js:1 chunk-config-tab-import.lite.js:1
+#: chunk-config-tab-import.pro.js:1
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin.lite.js:1 admin.pro.js:1 chunk-config-tab-import.lite.js:1
+#: chunk-config-tab-import.pro.js:1
+msgid "Cookies"
+msgstr "Cookies"
+
+#: admin.lite.js:1 admin.pro.js:1 chunk-config-tab-settings.lite.js:1
+#: chunk-config-tab-settings.pro.js:1
+msgid "Consent"
+msgstr "Einwilligung"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid "Licensing"
+msgstr "Lizenz"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid "Support"
+msgstr "Support"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid ""
+"Thank you for using the free version of Real Cookie Banner. You might also "
+"be interested in the PRO version, which offers you more features, 10+ design "
+"templates, 40+ cookie templates, 25+ content blocker templates and much more."
+msgstr ""
+"Vielen Dank, dass du die kostenlose Version von Real Cookie Banner "
+"verwendest. Vielleicht interessierst du dich auch für die PRO-Version, die "
+"dir mehr Features, 10+ Designvorlagen, 40+ Cookie-Vorlagen, 25+ Content "
+"Blocker Vorlagen und vieles mehr bietet."
+
+#: admin.lite.js:1 admin.pro.js:1 customize.lite.js:1 customize.pro.js:1
+msgid "No, not interested..."
+msgstr "Nein, nicht interessiert..."
+
+#: admin.lite.js:1 admin.pro.js:1 customize.lite.js:1 customize.pro.js:1
+msgid "I want to learn more!"
+msgstr "Mehr erfahren!"
+
+#: admin.lite.js:1 admin.pro.js:1
+msgid "Get PRO version"
+msgstr "PRO-Version kaufen"
+
+#: admin.lite.js:1 admin.pro.js:1 customize.lite.js:1 customize.pro.js:1
+msgid "Get PRO!"
+msgstr "Hole dir die PRO-Version!"
+
+#: admin.lite.js:1 admin.pro.js:1 customize.lite.js:1 customize.pro.js:1
+msgid ""
+"Check out this feature with a {{a}}free test drive{{/a}} before you buy!"
+msgstr ""
+"Teste diese Funktion mit einer {{a}}kostenlosen Demo Installation{{/a}}, "
+"bevor du kaufst!"
+
+#: admin.lite.js:1 admin.pro.js:1 customize.lite.js:1 customize.pro.js:1
+msgid "Unlock feature"
+msgstr "Feature freischalten"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "You successfully saved the content blocker."
+msgstr "Du hast den Content-Blocker erfolgreich gespeichert."
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"The content blocker could not be saved due to missing/invalid form values."
+msgstr ""
+"Der Content Blocker konnte aufgrund fehlender/ungültiger Formularwerte nicht "
+"gespeichert werden."
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"You have already created a cookie. Are you sure that you won't create the "
+"corresponding content blocker?"
+msgstr ""
+"Du hast bereits ein Cookie angelegt. Bist du sicher, dass du den zugehörigen "
+"Content Blocker nicht erstellen möchtest?"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "General content blocker configuration"
+msgstr "Allgemeine Content Blocker Konfiguration"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"Each content blocker should have a descriptive name that is understandable "
+"to a user, e. g. \"Google Maps\"."
+msgstr ""
+"Jeder Content Blocker sollte einen aussagekräftigen Namen haben, der für "
+"einen Nutzer verständlich ist, z. B. “Google Maps”."
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"Content Blockers with a \"Draft\" or \"Disabled\" status will not visible to "
+"the public. In addition, a draft will be highlighted in the content blocker "
+"table so that you do not forget to configure it."
+msgstr ""
+"Content Blocker mit dem Status “Entwurf” oder “Deaktiviert” sind für die "
+"Öffentlichkeit nicht sichtbar. Außerdem wird ein Entwurf in der Tabelle der "
+"Content Blocker hervorgehoben, damit du nicht vergisst ihn fertigzustellen."
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+#: chunk-config-tab-settings.pro.js:1
+msgid "Description"
+msgstr "Beschreibung"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"You should explain to the visitors of your website which content will be "
+"loaded instead of the content blocker if they agree to the associated "
+"cookies (only shown in visual content blockers)."
+msgstr ""
+"Du solltest den Besuchern deiner Website erklären, welche Inhalte anstelle "
+"des Content Blockers geladen werden, wenn sie in die zugehörigen Cookies "
+"einwilligen (wird nur bei visuellen Content Blockern angezeigt)."
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "Technical Definition"
+msgstr "Technische Definition"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "URLs / Elements to block"
+msgstr "URLs / Zu blockierende Elemente"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "Please provide at least one URL/element!"
+msgstr "Bitte gebe mindestens eine URL/Element an!"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"Enter one URL per line, whose content will be replaced by the content "
+"blocker. You can block all available URLs on your website including Videos, "
+"Iframes, Scripts, Inline Scripts and Stylesheets. Please use an asterisk "
+"({{code}}*{{/code}}) as wildcard."
+msgstr ""
+"Gebe eine URL pro Zeile ein, deren Inhalt durch den Content Blocker ersetzt "
+"wird. Du kannst alle verfügbaren URLs auf deiner Website blockieren, "
+"einschließlich Videos, Iframes, Scripts, Inline-Scripts und Stylesheets. "
+"Bitte verwenden ein Sternchen ({{code}}*{{/code}}) als Wildcard."
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"{{strong}}Pro tip:{{/strong}} Use the following syntax to create the content "
+"blocker on a custom HTML element: {{code}}div[id=\"my-embed\"]{{/code}}. "
+"This also works with a contains-syntax: {{code}}div[class*=\"my-embed\"]{{/"
+"code}}"
+msgstr ""
+"{{strong}}Pro Tipp:{{/strong}} Verwende den folgenden Syntax, um den Content "
+"Blocker auf für benutzerdefinierten HTML-Element zu erstellen: {{code}}"
+"div[id=\"my-embed\"]{{/code}}. Dies funktioniert auch mit den Contains-"
+"Syntax: {{code}}div[class*=\"my-embed\"]{{/code}}"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "Connected cookies"
+msgstr "Verbundene Cookies"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "Please provide at least one cookie!"
+msgstr "Bitte gib mindestens einen Cookie an!"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"A content blocker is displayed until the user has agreed to all necessary "
+"cookies/services that would be set by loading the content. {{strong}}You "
+"must define all cookies that are loaded by these services as soon as the "
+"user wants to see the blocked content.{{/strong}}"
+msgstr ""
+"Ein Content Blocker wird so lange angezeigt, bis der Nutzer in alle "
+"notwendigen Cookies/Dienste eingewilligt hat, die durch das Laden des "
+"Inhalts gesetzt werden würden.. {{strong}}Du musst alle Cookies definieren, "
+"die von diesen Diensten geladen werden, sobald der Benutzer den blockierten "
+"Inhalt sehen möchte.{{/strong}}"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"For each content blocker it can be defined if it should be visually visible. "
+"This means that if the user has not agreed to the respective cookies, a box "
+"with a button is displayed to adjust the privacy settings so that the actual "
+"content can be loaded. The design of the box is inherited from the cookie "
+"banner."
+msgstr ""
+"Für jeden Content Blocker kann definiert werden, ob er visuell sichtbar sein "
+"soll. Das bedeutet, dass, sollte der Nutzer den jeweiligen Cookies nicht "
+"zugestimmt haben, ein Kasten mit einer Schaltfläche angezeigt wird, um die "
+"Datenschutzeinstellungen so anzupassen, dass der eigentliche Inhalt geladen "
+"werden kann. Das Design der Box wird vom Cookie Banner geerbt."
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "Visual"
+msgstr "Visuell"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "Show the visual content blocker, if possible"
+msgstr "Zeigen den visuellen Content Blocker, wenn möglich"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "Force visual content blocker for hidden elements"
+msgstr "Erzwingen visuelle Content Blocker für verborgene Elemente"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"In rare cases, visual content blockers are not displayed because the main "
+"element of the blocked content is not visible either. Enable this option if "
+"this is the case and you want to force to display a content blocker for non-"
+"visible elements."
+msgstr ""
+"In seltenen Fällen werden visuelle Content Blocker nicht angezeigt, weil "
+"auch das Hauptelement des blockierten Inhalts nicht sichtbar ist. Aktivieren "
+"diese Option, wenn dies der Fall ist und die Anzeige eines Content Blockers "
+"für nicht sichtbare Elemente erzwungen werden soll."
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"Please confirm that you have checked the content of the content blocker."
+msgstr ""
+"Bitte bestätige, dass du den Inhalt des Content Blockers überprüft hast."
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"I have checked the information in the content blocker template myself and "
+"added any missing information or corrected any information that does not fit "
+"to my use case."
+msgstr ""
+"Ich habe die Informationen in der Vorlage des Content Blockers selbst "
+"überprüft und fehlende Informationen ergänzt oder Informationen korrigiert, "
+"die nicht zu meinem Anwendungsfall passen."
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "Add content blocker"
+msgstr "Content Blocker hinzufügen"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "Are you sure that you want to delete this content blocker?"
+msgstr "Bist du sicher, dass du diesen Content Blocker löschen möchtest?"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Delete"
+msgstr "Löschen"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "No connected cookies defined"
+msgstr "Keine verbundenen Cookies definiert"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Created from template"
+msgstr "Aus Vorlage erstellt"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "Visual Content Blocker"
+msgstr "Visueller Content Blocker"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "Yes, if possible"
+msgstr "Ja, wenn möglich"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "No"
+msgstr "Nein"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "You have not yet created a content blocker."
+msgstr "Du hast noch keinen Content Blocker erstellt."
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"Because a content blocker must be associated with a cookie, you must create "
+"a cookie first."
+msgstr ""
+"Da ein Content Blocker mit einem Cookie verbunden sein muss, musst du zuerst "
+"einen Cookie erstellen."
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "Create content blocker"
+msgstr "Content Blocker erstellen"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Add cookie"
+msgstr "Cookie hinzufügen"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"Some cookies could not be automatically retrieved from the template. Please "
+"select (or create if not already exist) the following cookies:"
+msgstr ""
+"Einige Cookies konnten nicht automatisch von der Vorlage abgerufen werden. "
+"Bitte wähle die folgenden Cookies aus (oder erstelle sie, falls noch nicht "
+"vorhanden):"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid "Create now"
+msgstr "Erstellen"
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+msgid ""
+"Content Blockers are globally deactivated in the settings and are therefore "
+"not displayed on your website."
+msgstr ""
+"Content Blocker sind in den Einstellungen global deaktiviert und werden "
+"daher nicht auf deiner Website angezeigt."
+
+#: chunk-config-tab-blocker.lite.js:1 chunk-config-tab-blocker.pro.js:1
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Enable now"
+msgstr "Jetzt aktivieren"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Viewport (px)"
+msgstr "Sichtbereich (px)"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Viewed page"
+msgstr "Angezeigte Seite"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Context"
+msgstr "Kontext"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Export consent"
+msgstr "Einwilligung exportieren"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"Use the button below to export all consent information in a machine readable "
+"form."
+msgstr ""
+"Verwende die Schaltfläche unten, um alle Informationen der Einwilligung in "
+"einer maschinenlesbaren Form zu exportieren."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "Successfully copied to the clipboard!"
+msgstr "Erfolgreich in die Zwischenablage kopiert!"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Export to clipboard"
+msgstr "In die Zwischenablage exportieren"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Content Blocker like at the time of consent"
+msgstr "Content Blocker wie zum Zeitpunkt der Einwilligung"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"The consent to the cookies was given via a content blocker. Below you can "
+"see how the content blocker looked like when the user consented."
+msgstr ""
+"Die Einwilligung zu den Cookies wurde über einen Content Blocker erteilt. "
+"Unten kannst du sehen wie der Content Blocker aussah, als der Nutzer seine "
+"Einwilligung gegeben hat."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "You want to see what the visitor has seen?"
+msgstr "Du möchtest sehen, was der Besucher gesehen hat?"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Unlock preview"
+msgstr "Vorschau freischalten"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "pro-modal/consent-preview-blocker.png"
+msgstr "pro-modal/de/consent-preview-blocker.png"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"We generate the content blocker that your visitor has seen from all "
+"settings, design preferences and cookies. You can see exactly how his or her "
+"consent was obtained and track clicks on buttons."
+msgstr ""
+"Wir generieren den Content Blocker, den der Besucher gesehen hat, aus allen "
+"Einstellungen, Designvorgaben und Cookies. Du kannst genau sehen wie seine "
+"Einwilligung eingeholt wurde und Klicks auf Buttons verfolgen."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Forwarded consent"
+msgstr "Weitergeleitete Einwilligung"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"There is no preview for this consent, as it was given implicitly by "
+"forwarding the consent. The user has given his/her consent via {{a}}%s{{/"
+"a}}, and this consent has been forwarded automatically."
+msgstr ""
+"Für diese Einwilligung gibt es keine Vorschau, da sie implizit durch die "
+"Weiterleitung der Einwilligung erteilt wurde. Der Nutzer hat seine "
+"Einwilligung auf {{a}}%s{{/a}} gegeben, und diese Einwilligung wurde "
+"automatisch weitergeleitet."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Cookie banner like at the time of consent"
+msgstr "Cookie Banner wie zum Zeitpunkt der Einwilligung"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"Use the button below to see what the cookie banner looked like at the time "
+"of user consent. The cookies/groups selected there also look like the ones "
+"the user has seen. A red framed button shows the button the user clicked on "
+"at the time of consent."
+msgstr ""
+"Verwende die Schaltfläche unten, um zu sehen, wie das Cookie Banner zum "
+"Zeitpunkt der Einwilligung des Nutzers aussah. Die dort ausgewählten Cookies/"
+"Gruppen sehen auch so aus, wie die, welche der Nutzer gesehen hat. Ein rot "
+"umrahmter Button zeigt den Button, auf den der Nutzer zum Zeitpunkt der "
+"Einwilligung geklickt hat."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Open banner"
+msgstr "Banner öffnen"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "pro-modal/consent-preview-banner.png"
+msgstr "pro-modal/de/consent-preview-banner.png"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"We generate the cookie banner that your visitor has seen from all settings, "
+"design preferences and cookies. You can see exactly how his or her consent "
+"was obtained and track clicks on buttons."
+msgstr ""
+"Wir generieren den Cookie Banner aus allen Einstellungen, Design-"
+"Einstellungen und Cookies, den der Besucher gesehen hat. Du kannst genau "
+"sehen, wie seine Einwilligung eingeholt wurde und Klicks auf Buttons "
+"verfolgen."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Settings at the time of consent"
+msgstr "Einstellungen zum Zeitpunkt der Einwilligung"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Active"
+msgstr "Aktiv"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Deactivated"
+msgstr "Deaktiviert"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Opened site"
+msgstr "Geöffnete Seite"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Not defined"
+msgstr "Nicht definiert"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "Automatically accept all cookies for bots"
+msgstr "Automatisch alle Cookies für Bots akzeptieren"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "Respect \"Do Not Track\""
+msgstr "Respektiere “Do Not Track”"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Show cookie banner"
+msgstr "Cookie Banner anzeigen"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Only to visitors from the EU"
+msgstr "Nur für Besucher aus der EU"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "All visitors"
+msgstr "Alle Besucher"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "Duration of cookie consent"
+msgstr "Gültigkeitsdauer der Cookie Einwilligung"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "days"
+msgstr "Tage"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "Save IP address on consent"
+msgstr "IP-Adresse bei Einwilligung speichern"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "Consent for data processing in the USA"
+msgstr "Einwilligung zur Datenverarbeitung in den USA"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "Age notice for consent"
+msgstr "Altershinweis zur Einwilligung"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "Consent Forwarding"
+msgstr "Weiterleitung der Einwilligung"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Forward To"
+msgstr "Weiterleiten an"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Open endpoint"
+msgstr "Endpunkt öffnen"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Additional cross domain endpoints"
+msgstr "Zusätzliche cross domain Endpunkte"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Search"
+msgstr "Suche"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "No data"
+msgstr "Keine Daten"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Less"
+msgstr "Weniger"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "More"
+msgstr "Mehr"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"Are you sure you want to delete all consents? You should only do this if it "
+"is absolutely necessary. If you really want to continue, make sure you have "
+"{{a}}exported{{/a}} all the consents before for legal reasons."
+msgstr ""
+"Bist du sicher, dass du alle Einwilligungen löschen willst? Du solltest dies "
+"nur tun, wenn es absolut notwendig ist. Wenn du wirklich fortfahren "
+"möchtest, stelle aus rechtlichen Gründen sicher, dass du alle Einwilligungen "
+"vorher {{a}}exportiert{{/a}} hast."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "I am sure!"
+msgstr "Ich bin mir sicher!"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Just to be safe, do you really want to delete all consents?"
+msgstr ""
+"Nur um sicher zu gehen, willst du wirklich alle Einwilligungen löschen?"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Delete all consents"
+msgstr "Alle Einwilligungen löschen"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Time of consent"
+msgstr "Zeitpunkt der Einwilligung"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"This consent was given automatically because the browser sent a 'Do Not "
+"Track' header. Accordingly, only essential cookies have been consented to."
+msgstr ""
+"Diese Einwilligung wurde automatisch erteilt, weil der Browser einen ‘Do Not "
+"Track’-Header gesendet hat. Dementsprechend wurde nur den essentiellen "
+"Cookies zugestimmt."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Do Not Track"
+msgstr "Do Not Track"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "This consent has been given in a content blocker."
+msgstr "Diese Einwilligung ist in einem Content Blocker erteilt worden."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "This consent was implicitly given by Consent Forwarding."
+msgstr ""
+"Diese Einwilligung wurde durch eine Weiterleitung der Einwilligung implizit "
+"erteilt."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Forwarded through Content Blocker"
+msgstr "Weitergeleitet durch Content Blocker"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Forwarded"
+msgstr "Weitergeleitet"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Pseudonymous unique user identification (truncated)"
+msgstr "Pseudonymisierte eindeutige Benutzerkennung (abgeschnitten)"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "UUID"
+msgstr "UUID"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"If you have allowed to log IP addresses, you can view them here. Otherwise "
+"you will see a salted hash of the IP address (truncated)."
+msgstr ""
+"Wenn du erlaubt hast IP-Adressen zu protokollieren, kannst du sie hier "
+"einsehen. Andernfalls siehst du einen gesalzenen Hash der IP-Adresse "
+"(abgeschnitten)."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "IP"
+msgstr "IP"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Accepted cookies"
+msgstr "Akzeptierte Cookies"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Change cookie settings"
+msgstr "Cookie-Einstellungen ändern"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Cookie settings history"
+msgstr "Historie der Cookie-Einstellungen"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Revoke consents"
+msgstr "Einwilligungen widerrufen"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Other useful shortcodes:"
+msgstr "Andere nützliche Shortcodes:"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "No consent given, yet"
+msgstr "Noch keine Einwilligung gegeben"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"Output the unique identification number of the current user. This can be "
+"useful, for example, if you want to offer a form for data deletion."
+msgstr ""
+"Gib die einzigartige Identifikationsnummer des aktuellen Benutzers aus. Dies "
+"kann sinnvoll sein, möchtest Du z. B. ein Formular für Datenlöschung "
+"anbieten."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"You have successfully revoked the cookie consent. The page will be reloaded "
+"now."
+msgstr ""
+"Du hast die Cookie-Einwilligung erfolgreich widerrufen. Die Seite wird nun "
+"neu geladen."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Successfully copied shortcode to clipboard!"
+msgstr "Shortcode erfolgreich in die Zwischenablage kopiert!"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Appearance"
+msgstr "Aussehen"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Link"
+msgstr "Link"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Button"
+msgstr "Button"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"It is recommended to use a simple link in your privacy policy instead of a "
+"button to avoid visual misunderstandings."
+msgstr ""
+"Es wird empfohlen einen einfachen Link in deiner Datenschutzerklärung statt "
+"eines Buttons zu verwenden, um visuelle Missverständnisse zu vermeiden."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "HTML ID"
+msgstr "HTML ID"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"If you want to apply a custom style to the link/button, the shortcode output "
+"should be tagged with an ID attribute."
+msgstr ""
+"Wenn du einen benutzerdefinierten Style auf den Link/Button anwenden "
+"möchtest, sollte die Ausgabe mit einem ID-Attribut versehen werden."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Text"
+msgstr "Text"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"The user must be able to clearly understand the behaviour of the link/button "
+"from the name."
+msgstr ""
+"Der Nutzer muss in der Lage sein das Verhalten des Links/Buttons anhand des "
+"Namens klar zu erkennen."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Success message"
+msgstr "Erfolgsmeldung"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid ""
+"After the consent is revoked, the page will be reloaded. Let the user know "
+"what happened with a success message."
+msgstr ""
+"Nachdem die Einwilligung widerrufen wurde, wird die Seite neu geladen. Lass "
+"den Nutzer mit einer Erfolgsmeldung wissen, was passiert ist."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Result"
+msgstr "Ergebnis"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Copy the generated shortcode and paste it into your privacy policy."
+msgstr ""
+"Kopiere den generierten Shortcode und füge ihn in deine Datenschutzerklärung "
+"ein."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "Copy to clipboard"
+msgstr "In die Zwischenablage kopieren"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Today"
+msgstr "Heute"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "This Year"
+msgstr "Dieses Jahr"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "This Month"
+msgstr "Aktueller Monat"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "This Week"
+msgstr "Diese Woche"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Last 30 days"
+msgstr "Letzte 30 Tage"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Last 90 days"
+msgstr "Letzte 90 Tage"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Period"
+msgstr "Zeitraum"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Consents by clicked button"
+msgstr "Einwilligungen nach angeklicktem Button"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Banner bypass with \"Do Not Track\" header"
+msgstr "Banner-Umgehung mit “Do Not Track”-Header"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Consents by group"
+msgstr "Einwilligungen nach Gruppe"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Please provide a date range!"
+msgstr "Bitte gib einen Datumsbereich an!"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid ""
+"Want to see detailed statistics about the opt-in behavior of your visitors?"
+msgstr ""
+"Möchtest du detaillierte Statistiken über das Opt-in-Verhalten deiner "
+"Besucher sehen?"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid ""
+"You can get several statistics about how your users use the cookie banner. "
+"This helps you to calculate the total number of users who do not want to be "
+"tracked, for example, by extrapolating data from Google Analytics."
+msgstr ""
+"Du kannst verschiedene Statistiken darüber erhalten, wie deine Nutzer das "
+"Cookie Banner verwenden. Dies hilft dir die Gesamtzahl der Nutzer zu "
+"berechnen, die nicht verfolgt werden möchten, z.B. durch Extrapolation von "
+"Daten aus Google Analytics."
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "Statistics"
+msgstr "Statistiken"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "List of consents"
+msgstr "Liste der Einwilligungen"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+msgid "Legal shortcodes"
+msgstr "Rechtliche Shortcodes"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Select date"
+msgstr "Datum wählen"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Start date"
+msgstr "Startdatum"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "End date"
+msgstr "Enddatum"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Now"
+msgstr "Jetzt"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Back to today"
+msgstr "Zurück zu heute"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "OK"
+msgstr "OK"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Clear"
+msgstr "Zurücksetzen"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Month"
+msgstr "Monat"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Year"
+msgstr "Jahr"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Select time"
+msgstr "Uhrzeit auswählen"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Choose a month"
+msgstr "Wähle einen Monat"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Choose a year"
+msgstr "Geschäftsjahr wählen"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Choose a decade"
+msgstr "Wähle ein Jahrzehnt"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Previous month (PageUp)"
+msgstr "Vorheriger Monat (PageUp)"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Next month (PageDown)"
+msgstr "Nächster Monat (PageDown)"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Last year (Control + left)"
+msgstr "Letztes Jahr (STRG + links)"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Next year (Control + right)"
+msgstr "Nächstes Jahr (STRG + rechts)"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Last decade"
+msgstr "Letztes Jahrzehnt"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Next decade"
+msgstr "Nächstes Jahrzehnt"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Last century"
+msgstr "Letztes Jahrhundert"
+
+#: chunk-config-tab-consent.lite.js:1 chunk-config-tab-consent.pro.js:1
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Next century"
+msgstr "Nächstes Jahrhundert"
+
+#: chunk-config-tab-consent.pro.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "No data available for this period."
+msgstr "Für diesen Zeitraum liegen keine Daten vor."
+
+#: chunk-config-tab-consent.pro.js:1
+msgid "Consent by hand"
+msgstr "Einwilligung per Hand"
+
+#: chunk-config-tab-consent.pro.js:1
+msgid "Consent by \"Do Not Track\""
+msgstr "Einwilligung per “Do Not Track”"
+
+#: chunk-config-tab-consent.pro.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "Rejected"
+msgstr "Abgelehnt"
+
+#: chunk-config-tab-consent.pro.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "Some cookies"
+msgstr "Einige Cookies"
+
+#: chunk-config-tab-consent.pro.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "All cookies"
+msgstr "Alle Cookies"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "The cookie group already exists!"
+msgstr "Die Cookie-Gruppe existiert bereits!"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Edit cookie group"
+msgstr "Cookie-Gruppe bearbeiten"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Add new cookie group"
+msgstr "Neue Cookie-Gruppe hinzufügen"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Please enter a name!"
+msgstr "Bitte einen Namen eingeben!"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Please enter a description!"
+msgstr "Bitte gib eine Beschreibung ein!"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "The \"%s\" cookie group cannot be deleted."
+msgstr "Die Cookie-Gruppe “%s” kann nicht gelöscht werden."
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid ""
+"Are you sure you want to delete this cookie group? All cookies within this "
+"group will also be deleted. Consider moving them before you delete the "
+"cookie group."
+msgstr ""
+"Bist du sicher, dass du diese Cookie-Gruppe löschen möchtest? Alle Cookies "
+"innerhalb dieser Gruppe werden ebenfalls gelöscht. Überlege dir die Cookies "
+"zu verschieben, bevor du die Cookie-Gruppe löschst."
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid ""
+"The cookie banner is globally deactivated in the settings and is therefore "
+"not displayed on your website."
+msgstr ""
+"Das Cookie-Banner ist in den Einstellungen global deaktiviert und wird daher "
+"nicht auf deiner Website angezeigt."
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Add group"
+msgstr "Gruppe hinzufügen"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Are you sure you want to delete this cookie?"
+msgstr "Bist du sicher, dass du diesen Cookie löschen möchtest?"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "The \"%s\" cookie cannot be deleted."
+msgstr "Die Cookie-Gruppe “%s” kann nicht gelöscht werden."
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "None"
+msgstr "Nichts"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "No technical cookies"
+msgstr "Keine technischen Cookies"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Executes code on"
+msgstr "Führt Code aus bei"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Only run this script if the user has not consented to use %s"
+msgstr ""
+"Führe dieses Script nur aus, wenn der Nutzer in %s nicht eingewilligt hat"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Display banner"
+msgstr "Banner anzeigen"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Opt-in script loads"
+msgstr "Opt-in Script lädt"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Google Tag Manager"
+msgstr "Google Tag Manager"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Matomo Tag Manager"
+msgstr "Matomo Tag Manager"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Google Tag Manager Events"
+msgstr "Google Tag Manager Events"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Matomo Tag Manager Events"
+msgstr "Matomo Tag Manager Events"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "You have not yet created a cookie in {{strong}}%s{{/strong}}."
+msgstr "Du hast noch kein Cookie in {{strong}}%s{{/strong}} erstellt."
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "Create cookie"
+msgstr "Cookie erstellen"
+
+#: chunk-config-tab-cookies.lite.js:1 chunk-config-tab-cookies.pro.js:1
+msgid "One unassigned cookie"
+msgid_plural "%d unassigned cookies"
+msgstr[0] "Ein nicht zugewiesenes Cookie"
+msgstr[1] "%d nicht zugewiesene Cookies"
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid ""
+"Real Cookie Banner can empty your page cache automatically as soon as a page "
+"cache is detected. This means that you do not have to manually clear your "
+"page cache if you make changes to the cookie banner via the customizer or if "
+"you ask for a new consent."
+msgstr ""
+"Real Cookie Banner kann deinen Page-Cache automatisch leeren, sobald ein "
+"Page-Cache erkannt wird. Das bedeutet, dass du deinen Page-Cache nicht "
+"manuell leeren musst, wenn du Änderungen am Cookie Banner über den "
+"Customizer vornimmst oder wenn du eine neue Einwilligung einholst."
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "We have detected {{strong}}%s{{/strong}} as your page cache."
+msgstr "Wir haben {{strong}}%s{{/strong}} als deinen Page-Cache erkannt."
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "We did {{strong}}not detect{{/strong}} any page cache on your site."
+msgstr ""
+"Wir haben {{strong}}keinen{{/strong}} Page-Cache auf deiner Seite erkannt."
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "General"
+msgstr "Allgemein"
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "I have already done all the steps"
+msgstr "Ich habe bereits alle Schritte erledigt"
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "More statistics"
+msgstr "Mehr Statistiken"
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "Cache"
+msgstr "Cache"
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "Cookie Banner is {{strong}}activated{{/strong}}"
+msgstr "Cookie Banner ist {{strong}}aktiviert{{/strong}}"
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "Cookie Banner is {{strong}}deactivated{{/strong}}"
+msgstr "Cookie Banner ist {{strong}}deaktiviert{{/strong}}"
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid ""
+"You can enable and disable the cookie banner in the {{a}}settings page{{/a}}."
+msgstr ""
+"Du kannst den Cookie Banner in den {{a}}Einstellungen{{/a}} ein- und "
+"ausschalten."
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "Content Blocker is {{strong}}activated{{/strong}}"
+msgstr "Content Blocker ist {{strong}}aktiviert{{/strong}}"
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "Content Blocker is {{strong}}deactivated{{/strong}}"
+msgstr "Content Blocker ist {{strong}}deaktiviert{{/strong}}"
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid ""
+"You can enable and disable the content blocker in the {{a}}settings page{{/"
+"a}}."
+msgstr ""
+"Du kannst den Content Blocker in den {{a}}Einstellungen{{/a}} aktivieren und "
+"deaktivieren."
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "Available cookie groups:"
+msgstr "Verfügbare Cookie-Gruppen:"
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid "Manage"
+msgstr "Verwalten"
+
+#: chunk-config-tab-dashboard.lite.js:1 chunk-config-tab-dashboard.pro.js:1
+msgid ""
+"You have defined {{strong}}%d enabled{{/strong}}, %d disabled and %d draft "
+"cookies."
+msgstr ""
+"Du hast {{strong}}%d aktivierte{{/strong}}, %d deaktivierte und %d als "
+"Entwurf gekennzeichnete Cookies angelegt."
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Import"
+msgstr "Importieren"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Export"
+msgstr "Export"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Export consents"
+msgstr "Einwilligungen exportieren"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Export successfully copied to the clipboard."
+msgstr "Export erfolgreich in die Zwischenablage kopiert."
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Content to export"
+msgstr "Inhalt zum Exportieren"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Cookie Groups"
+msgstr "Cookie Gruppen"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Cookie banner customization"
+msgstr "Cookie Banner anpassen"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Download JSON"
+msgstr "JSON herunterladen"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid ""
+"Copy the exported content and paste it into the \"Import\" textarea of your "
+"target WordPress installation."
+msgstr ""
+"Kopiere den exportierten Inhalt und füge ihn in das “Import”-Textarea in "
+"deiner WordPress-Zielinstallation ein."
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Export by"
+msgstr "Exportieren anhand von"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Please select an option!"
+msgstr "Bitte wähle eine Option aus!"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Date range"
+msgstr "Zeitraum"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Please provide a valid date range!"
+msgstr "Bitte gib einen gültigen Datumsbereich an!"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Please provide a valid UUID!"
+msgstr "Bitte gib eine gültige UUID an!"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Download CSV"
+msgstr "CSV herunterladen"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid ""
+"The CSV file can be very large because data in this format is redundant per "
+"line. In your WordPress database the consents are much smaller."
+msgstr ""
+"Die CSV-Datei kann sehr groß sein, da Daten in diesem Format pro Zeile "
+"redundant sind. In deiner WordPress Datenbank sind die Einwilligungen viel "
+"kleiner."
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Successfully imported!"
+msgstr "Erfolgreich importiert!"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "File could not be read."
+msgstr "Datei konnte nicht gelesen werden."
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Content to import"
+msgstr "Zu importierende Inhalte"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Please provide a value!"
+msgstr "Bitte gib einen Wert an!"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "or select a file to upload:"
+msgstr "oder wähle eine Datei zum Hochladen aus:"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Select File"
+msgstr "Datei auswählen"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Fallback cookie group"
+msgstr "Fallback Cookie-Gruppe"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid ""
+"Select an alternative group to which the cookie should be assigned in case "
+"an imported cookie cannot be assigned to its original group."
+msgstr ""
+"Wähle eine alternative Gruppe, der das Cookie zugeordnet werden soll, falls "
+"ein importiertes Cookie nicht seiner ursprünglichen Gruppe zugeordnet werden "
+"kann."
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Skip already existing cookies"
+msgstr "Überspringen bereits vorhandener Cookies"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Set cookie status"
+msgstr "Cookie-Status setzen"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Keep"
+msgstr "Unverändert belassen"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Skip already existing content blocker"
+msgstr "Überspringen bereits vorhandener Content Blocker"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Set content blocker status"
+msgstr "Content Blocker Status setzen"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Set manually"
+msgstr "Manuell einrichten"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Open original"
+msgstr "Original öffnen"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Open newly created"
+msgstr "Neu erstelltes öffnen"
+
+#: chunk-config-tab-import.lite.js:1 chunk-config-tab-import.pro.js:1
+msgid "Check manually"
+msgstr "Manuell prüfen"
+
+#: chunk-config-tab-licensing.lite.js:1 chunk-config-tab-licensing.pro.js:1
+msgid ""
+"Before we start configuring your cookie banner, you can {{strong}}obtain "
+"your free license to enjoy all the benefits{{/strong}} of the free version "
+"of Real Cookie Banner. The cookies are already waiting for you. Get started "
+"now!"
+msgstr ""
+"Bevor wir mit der Konfiguration deines Cookie-Banners beginnen, {{strong}}"
+"kannst du deine kostenlose Lizenz erhalten{{/strong}}, um alle Vorteile der "
+"kostenlosen Version von Real Cookie Banner zu genießen. Die Cookies warten "
+"bereits auf dich. Fange jetzt an!"
+
+#: chunk-config-tab-licensing.lite.js:1 chunk-config-tab-licensing.pro.js:1
+msgid "License activation"
+msgstr "Lizenzaktivierung"
+
+#: chunk-config-tab-licensing.lite.js:1 chunk-config-tab-licensing.pro.js:1
+msgid "Get your free license"
+msgstr "Hole deine kostenlose Lizenz"
+
+#: chunk-config-tab-licensing.lite.js:1 chunk-config-tab-licensing.pro.js:1
+msgid ""
+"Activate your Real Cookie Banner PRO license to receive regular updates and "
+"support. You find your license key in the customer center of devowl.io."
+msgstr ""
+"Aktiviere deine Real Cookie Banner PRO-Lizenz, um regelmäßige Updates und "
+"Support zu erhalten. Du findest deinen Lizenzschlüssel im Kundencenter von "
+"devowl.io."
+
+#: chunk-config-tab-licensing.lite.js:1 chunk-config-tab-licensing.pro.js:1
+msgid ""
+"To use all advantages of Real Cookie Banner {{strong}}you need a free "
+"license{{/strong}}. After license activation you will receive answers to "
+"support requests and announcements in your plugin (e.g. also notices for "
+"discount actions of the PRO version)."
+msgstr ""
+"Um alle Vorteile von Real Cookie Banner nutzen zu können, {{strong}}"
+"benötigst du eine kostenlose Lizenz{{/strong}}. Nach der Lizenzaktivierung "
+"erhältst du Antworten auf Supportanfragen und Ankündigungen in deinem Plugin "
+"(z.B. auch Hinweise auf Rabattaktionen der PRO-Version)."
+
+#: chunk-config-tab-licensing.lite.js:1 chunk-config-tab-licensing.pro.js:1
+msgid "Activate license & continue"
+msgstr "Lizenz aktivieren & Fortfahren"
+
+#: chunk-config-tab-licensing.lite.js:1 chunk-config-tab-licensing.pro.js:1
+msgid "Activate free license & Continue"
+msgstr "Kostenlose Lizenz aktivieren & Fortfahren"
+
+#: chunk-config-tab-licensing.lite.js:1 chunk-config-tab-licensing.pro.js:1
+msgid "Continue without regular updates and without any support"
+msgstr "Ohne regelmäßige Updates und ohne Support fortfahren"
+
+#: chunk-config-tab-licensing.lite.js:1 chunk-config-tab-licensing.pro.js:1
+msgid "Continue without any support and without e.g. discount announcements"
+msgstr "Ohne Support und ohne z.B. Rabattankündigungen fortfahren"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid ""
+"Bots cannot give consent to the setting of cookies. As a result, they may "
+"consider your site as slow if a cookie banner permanently blocks all other "
+"content. Therefore, you should allow the bots to browse your site without "
+"consent, but still set all cookies."
+msgstr ""
+"Bots können keine Einwilligung zum Setzen von Cookies geben. Infolgedessen "
+"können sie deine Seite als langsam betrachten, wenn ein Cookie Banner alle "
+"anderen Inhalte dauerhaft blockiert. Du solltest den Bots daher erlaube ohne "
+"Einwilligung auf deiner Seite zu surfen, aber trotzdem alle Cookies setzen."
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid ""
+"Users can set the \"Do not track\" HTTP header in their browser to indicate "
+"that they do not want to be tracked. Most cookies are used for tracking. "
+"Therefore, if you enable this option, users with this HTTP header can access "
+"your site without a cookie banner and only the essential cookies will be set."
+msgstr ""
+"Nutzer können den HTTP-Header “Do Not Track” in ihrem Browser setzen, um "
+"anzuzeigen, dass sie nicht von z.B. Analyse-Software verfolgt werden "
+"möchten. Die meisten Cookies werden für das Tracking verwendet. Wenn du also "
+"diese Option aktivierst können Benutzer mit diesem HTTP-Header ohne Cookie "
+"Banner auf deine Seite zugreifen und es werden nur die essenzielle Cookies "
+"gesetzt."
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid ""
+"The consent of a user to set cookies should be limited in time. You can "
+"specify how long the consent is valid. If you change the behaviour or "
+"content of the cookie banner in the meantime, visitors of your website must "
+"give their consent again, even if it has not yet expired."
+msgstr ""
+"Die Einwilligung eines Nutzers zum Setzen von Cookies sollte zeitlich "
+"begrenzt sein. Du kannst angeben wie lange die Einwilligung gültig ist. Wenn "
+"du in der Zwischenzeit das Verhalten oder den Inhalt des Cookie Banners "
+"änderst, müssen die Besucher deiner Webseite erneut ihre Einwilligung geben, "
+"auch wenn diese noch nicht abgelaufen ist."
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid ""
+"In accordance with {{a}}Article 8 EU GDPR{{/a}}, consent to cookies and "
+"services that process personal data can only be given from the age of 16 "
+"years (varying in some EU countries) or together with an legal guardian. If "
+"your website does not clearly and exclusively address adults (e.g. dating or "
+"porn sites), you as the website operator must inform children under the "
+"minimum age in simple language that they are not allowed to consent to non-"
+"essential cookies without the consent of their legal guardian."
+msgstr ""
+"Gemäß {{a}}Artikel 8 EU DSGVO{{/a}} kann die Einwilligung in Cookies und "
+"Diensten, die personenbezogene Daten verarbeiten, erst ab einem Alter von 16 "
+"Jahren (in einigen EU-Ländern unterschiedlich) oder zusammen mit einem "
+"Erziehungsberechtigten erteilt werden. Wenn sich deine Website nicht "
+"eindeutig und ausschließlich an Erwachsene richtet (z.B. Dating- oder "
+"Pornoseiten), musst du als Betreiber der Website Kinder unter dem "
+"Mindestalter in einfacher Sprache darüber informieren, dass sie keine "
+"Einwilligung zu nicht essenzielle Cookies ohne die Zustimmung ihres "
+"Erziehungsberechtigten geben dürfen."
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "https://gdpr-info.eu/art-8-gdpr/"
+msgstr "https://dejure.org/gesetze/DSGVO/8.html"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "Do you need consent for US data processing?"
+msgstr "Brauchst du eine Einwilligung zur Datenverarbeitung in den USA?"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "pro-modal/eprivacy-usa.png"
+msgstr "pro-modal/de/eprivacy-usa.png"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid ""
+"The Privacy Shield should ensure that data processed in the US are treated "
+"at the same level of data protection as in the EU. However, the ECJ has "
+"declared the Privacy Shield to be illegal (ECJ, 16.7.2020 - C-311/18). In "
+"our opinion, the only way to legally use US services like Google Analytics "
+"or YouTube is to obtain a consent to do so."
+msgstr ""
+"Das Privacy Shield soll sicherstellen, dass in den USA verarbeitete Daten "
+"auf dem gleichen Datenschutzniveau behandelt werden wie in der EU. Der EuGH "
+"hat den Privacy Shield jedoch für illegal erklärt (EuGH, 16.7.2020 - "
+"C-311/18). Unserer Meinung nach besteht die einzige Möglichkeit US-Dienste "
+"wie Google Analytics oder YouTube legal zu nutzen darin, eine Einwilligung "
+"dazu einzuholen."
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid ""
+"The Privacy Shield should ensure that data processed in the US are treated "
+"at the same level of data protection as in the EU. However, the ECJ has "
+"declared the Privacy Shield to be illegal (ECJ, 16.7.2020 - C-311/18), as "
+"the level of data protection in the US does not match the level of data "
+"protection in the EU and violates fundamental rights of EU citizens. This "
+"means that you are no longer allowed to use services that process data in "
+"the USA or pass on data to affiliated companies from that country (e. g. "
+"Google). In practice, however, exclusion from US services is often not "
+"possible. {{a}}Lawyer Dr. Schwenke suggests as a possible solution the "
+"consent to process data in the coookie banner.{{/a}} Activate this option to "
+"be able to mark cookies in its definition that they process data in the USA "
+"and obtain the consent of their users for this in your cookie banner."
+msgstr ""
+"Das Privacy Shield sollte sicherstellen, dass in den USA verarbeitete Daten "
+"auf dem gleichen Datenschutzniveau wie in der EU behandelt werden. Der EuGH "
+"hat den Privacy Shield jedoch für illegal erklärt (EuGH, 16.7.2020 - "
+"C-311/18), da das Datenschutzniveau in den USA nicht dem Datenschutzniveau "
+"in der EU entspricht und gegen die Grundrechte der EU-Bürger verstößt. Das "
+"bedeutet, dass du keine Dienste mehr nutzen darfst, die Daten in den USA "
+"verarbeiten oder Daten an verbundene Unternehmen aus diesem Land weitergeben "
+"(z. B. Google). In der Praxis ist ein Ausschluss von US-Diensten jedoch oft "
+"nicht möglich. {{a}}Rechtsanwalt Dr. Schwenke schlägt als mögliche Lösung "
+"die Einwilligung zur Verarbeitung von Daten im Cookie Banner vor.{{/a}} "
+"Aktiviere diese Option, um Cookies in dessen Definition so kennzeichnen zu "
+"können, dass sie Daten in den USA verarbeiten und dafür die Einwilligung der "
+"Nutzer in deinem Cookie Banner eingeholt werden kann."
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid ""
+"https://datenschutz-generator.de/eugh-privacy-shield-unwirksam/"
+"#Einwilligung_im_CookieBanner_als_Loesung"
+msgstr ""
+"https://datenschutz-generator.de/eugh-privacy-shield-unwirksam/"
+"#Einwilligung_im_CookieBanner_als_Loesung"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid ""
+"Depending on your country of origin, it may make legal sense to store the IP "
+"address of the user who consents to cookies. But on the other hand, you must "
+"inform the user in your privacy policy that you are saving this IP address "
+"together with the consent, as from a legal point of view this is a personal "
+"date."
+msgstr ""
+"Je nach Herkunftsland kann es rechtlich sinnvoll sein die IP-Adresse des "
+"Nutzers zu speichern, der den Cookies zustimmt. Andererseits musst du den "
+"Nutzer in deiner Datenschutzerklärung darauf hinweisen, dass du die IP-"
+"Adresse zusammen mit der Einwilligung speicherst, da es sich aus rechtlicher "
+"Sicht um ein persönliches Datum handelt. In Deutschland und Österreich raten "
+"wir von einer Speicherung ab."
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "Successfully updated settings!"
+msgstr "Einstellungen erfolgreich aktualisiert!"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "Save settings"
+msgstr "Einstellungen speichern"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "Multisite / Consent Forwarding"
+msgstr "Multisite / Weiterleitung der Einwilligung"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "No additional sites endpoints found."
+msgstr "Keine zusätzlichen Endpunkte gefunden."
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid ""
+"https://devowl.io/knowledge-base/cookie-banner-consent-forwarding-setup/"
+msgstr ""
+"https://devowl.io/de/knowledge-base/cookie-banner-weiterleitung-der-"
+"einwilligung/"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "One consent for all your websites?"
+msgstr "Eine Einwilligung für alle deine Websites?"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "pro-modal/consent-forwarding.png"
+msgstr "pro-modal/de/consent-forwarding.png"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid ""
+"In WordPress multisites or multiple instances of WordPress running for one "
+"organization, you only need to obtain cookie consent once. Consents are "
+"automatically forwarded, so your visitor only needs to accept cookies once, "
+"instead of on each site again."
+msgstr ""
+"Bei WordPress Multisites oder mehreren Instanzen von WordPress, die für eine "
+"Organisation laufen, muss nur einmal die Einwilligung für Cookies eingeholt "
+"werden. Einwilligungen werden automatisch weitergeleitet, sodass dein "
+"Besucher Cookies nur einmal akzeptieren muss, anstatt auf jeder Seite erneut."
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid ""
+"You can ask the user for consent on one site, and the consent applies to "
+"other sites in a WordPress multisite installation or other standalone "
+"WordPress installations. This is useful if you run multiple WordPress sites "
+"for one organization. For example, you have a company page, landing page, "
+"and blog, and you want to show the user as few cookie banners as possible. "
+"{{a}}Learn more about how to configure the forwarding of consents.{{/a}}"
+msgstr ""
+"Du kannst den Nutzer auf einer Site um Einwilligung bitten, und die "
+"Einwilligung gilt für andere Sites in einer WordPress Multisite oder anderen "
+"eigenständigen WordPress-Installationen. Dies ist sinnvoll, wenn du mehrere "
+"WordPress Sites für eine Organisation betreibst. Du hast z.B. eine "
+"Unternehmensseite, eine Landingpage und einen Blog und möchten dem Nutzer so "
+"wenig Cookie Banner wie möglich zeigen. {{a}}Lernen Sie mehr darüber, wie "
+"die Weiterleitung von Einwilligungen konfiguriert werden kann (Englisch).{{/"
+"a}}"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid ""
+"One of your configured endpoints is using an insecure protocol (not HTTPS). "
+"For security reasons, most modern browsers reject and block the use of cross-"
+"domain cookies on unsecured pages. {{a}}Learn more.{{/a}}"
+msgstr ""
+"Einer deiner konfigurierten Endpunkte verwendet ein unsicheres Protokoll "
+"(nicht HTTPS). Aus Sicherheitsgründen lehnen die meisten modernen Browser "
+"die Verwendung von cross-domain Cookies auf ungesicherten Seiten ab und "
+"blockieren sie. {{a}}Mehr erfahren.{{/a}}"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "Forward to"
+msgstr "Weiterleiten an"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid ""
+"Select all sites to which the consent of the user on the current site should "
+"be forwarded."
+msgstr ""
+"Wähle alle Sites aus, an welche die Einwilligung des Nutzers der aktuellen "
+"Site weitergeleitet werden soll."
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid "External 'Forward To' endpoints"
+msgstr "Externe 'Weiterleiten an'-Endpunkte"
+
+#: chunk-config-tab-settings.lite.js:1 chunk-config-tab-settings.pro.js:1
+msgid ""
+"This option is only required if you want to forward consent to another "
+"WordPress installation. Please enter one URL endpoint of the Real Cookie "
+"Banner WP REST API per line. Below you find a list of all available "
+"endpoints of this WordPress installation."
+msgstr ""
+"Diese Option ist nur erforderlich, wenn du die Einwilligung an eine andere "
+"WordPress-Installation weiterleiten möchten. Bitte gebe pro Zeile einen URL-"
+"Endpunkt des Real Cookie Banner WP REST API ein. Nachfolgend findest du eine "
+"Liste aller verfügbaren Endpunkte dieser WordPress-Installation."
+
+#: chunk-config-tab-settings.pro.js:1
+msgid "Affiliate link as \"powered by\" link"
+msgstr "Affiliate-Link als \"powered by\"-Link"
+
+#: chunk-config-tab-settings.pro.js:1
+msgid "Please provide a valid url!"
+msgstr "Bitte gib eine gültige URL an!"
+
+#: chunk-config-tab-settings.pro.js:1
+msgid ""
+"You can replace the \"powered by\" link in the cookie banner with your "
+"affiliate link. This allows you to earn affiliate commissions if interested "
+"users find Real Cookie Banner when they visit your website."
+msgstr ""
+"Du kannst den \"powered by\"-Link im Cookie-Banner durch Deinen Affiliate-"
+"Link ersetzen. So kannst Du Affiliate-Provisionen verdienen, wenn "
+"interessierte Nutzer Real Cookie Banner finden, wenn sie Deine Webseite "
+"besuchen."
+
+#: chunk-config-tab-settings.pro.js:1
+msgid "Label behind the link"
+msgstr "Label hinter dem Link"
+
+#: chunk-config-tab-settings.pro.js:1
+msgid ""
+"Depending on which country you are from, you may have to label affiliate "
+"links as advertising. You can place e.g. a text or an asterisk behind the "
+"link."
+msgstr ""
+"Je nachdem, aus welchem Land Du kommst, musst du Affiliate-Links als Werbung "
+"kennzeichnen. Du kannst z.B. einen Text oder ein Sternchen hinter den Link "
+"setzen."
+
+#: chunk-config-tab-settings.pro.js:1
+msgid "Affiliate"
+msgstr "Affiliate"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "Want to have a choice in the first view?"
+msgstr "Möchten du auf der ersten Seite eine Auswahl haben?"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "pro-modal/groups-first-view.png"
+msgstr "pro-modal/de/groups-first-view.png"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid ""
+"Visitors of your website can choose which cookies they want to accept "
+"immediately after loading the cookie banner, without the need to go into the "
+"individual privacy settings."
+msgstr ""
+"Besucher deiner Website können wählen, welche Cookies sie sofort nach dem "
+"Laden des Cookie Banners akzeptieren wollen, ohne dass sie in die "
+"individuellen Privatsphäre-Einstellungen gehen müssen."
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid ""
+"Allow to choose cookie groups directly in the first view of the cookie banner"
+msgstr ""
+"Erlauben Cookie-Gruppen direkt in der ersten Ansicht des Cookie Banners "
+"auszuwählen"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "You want to hide the \"Powered by\" link?"
+msgstr "“Consent Management mit Real Cookie Banner”-Link ausblenden?"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid ""
+"Hide the \"Powered by\" link in the cookie banner and use the cookie banner "
+"white labeled for the visitors of your website."
+msgstr ""
+"Blende den “Consent Management mit Real Cookie Banner”-Link im Cookie Banner "
+"aus und verwende den Cookie Banner White Labeled für Besucher deiner Website."
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "Want to use %s preset?"
+msgstr "Möchten du das %s Design verwenden?"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid ""
+"Only a limited number of presets are available for the free version of Real "
+"Cookie Banner. Start now with the PRO version and create a design from a "
+"preset with just one click."
+msgstr ""
+"Für die kostenlose Version von Real Cookie Banner steht nur eine begrenzte "
+"Anzahl von Designvorlagen zur Verfügung. Hole dir jetzt die PRO-Version und "
+"erstellen ein Design aus einer Vorlage mit nur einem Klick."
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "Applied!"
+msgstr "Übernommen!"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "Apply"
+msgstr "Übernehmen"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "Presets"
+msgstr "Vorlagen"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid ""
+"You can choose between different presets. Presets only change the style, but "
+"no texts or content. Tip: Hover the mouse over a preset to see a real-time "
+"preview. Wait %d seconds and you will see a preview of the individual "
+"privacy screen."
+msgstr ""
+"Du kannst zwischen verschiedenen Vorlagen wählen. Vorlagen ändern nur das "
+"Aussehen, aber keine Texte oder Inhalte. Tipp: Fahre mit der Maus über eine "
+"Vorlage, um eine Echtzeit-Vorschau zu sehen. Warte %d Sekunden und du siehst "
+"eine Vorschau der Individuellen Datenschutz-Einstellungen."
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "Cookie banner/dialog design"
+msgstr "Cookie Banner/Dialog Design"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "Miscellaneous"
+msgstr "Sonstiges"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "Individual privacy settings"
+msgstr "Individuelle Datenschutz-Einstellungen"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "Want to stand out from the crowd?"
+msgstr "Möchten du dich von der Masse abheben?"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "pro-modal/blur.png"
+msgstr "pro-modal/de/blur.png"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid ""
+"Blur the background and set the focus on the cookie banner so that your "
+"visitors agree to as many cookies as possible."
+msgstr ""
+"Zeichne den Hintergrund weich und setzen den Fokus auf das Cookie Banner, "
+"damit deine Besucher so viele Cookies wie möglich akzeptieren."
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "Want to have cool animations?"
+msgstr "Möchtest du coole Animationen haben?"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "pro-modal/animations-in.png"
+msgstr "pro-modal/de/animations-in.png"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid ""
+"The cookie banner can be displayed with an animation. Choose from over 40 "
+"animations the most suitable!"
+msgstr ""
+"Das Cookie Banner kann mit einer Animation eingeblendet werden. Wähle aus "
+"über 40 Animationen die am besten geeignete aus!"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid "Unlock animations"
+msgstr "Animationen freischalten"
+
+#: customize.lite.js:1 customize.pro.js:1
+msgid ""
+"The cookie banner can be hidden with an animation. Choose from over 40 "
+"animations the most suitable!"
+msgstr ""
+"Das Cookie Banner kann mit einer Animation ausgeblendet werden. Wähle aus "
+"über 40 Animationen die am besten geeignete aus!"
+
+#: customize_banner.lite.js:1 customize_banner.pro.js:1
+msgid ""
+"Due to the settings in the \"Legal\" section, the cookie banner is hidden on "
+"this page. Please visit another page."
+msgstr ""
+"Aufgrund der Einstellungen in der Sektion “Rechtliches” ist der Cookie "
+"Banner auf dieser Seite ausgeblendet. Bitte besuche eine andere Seite."
+
+#: customize_banner.lite.js:1 customize_banner.pro.js:1
+msgid ""
+"To customize please select an option from \"Individual privacy settings\"."
+msgstr ""
+"Zum Anpassen wähle bitte eine Option unter “Individuelle Datenschutz-"
+"Einstellungen”."
+
+#: customize_banner.lite.js:1 customize_banner.pro.js:1
+msgid "Consent management powered by Real Cookie Banner"
+msgstr "Consent Management mit Real Cookie Banner"

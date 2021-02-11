@@ -1,0 +1,2 @@
+var devowlWp_multilingual;devowlWp_multilingual=function(){var r={435:function(){}},t={};return function n(u){if(t[u])return t[u].exports;var e=t[u]={exports:{}};return r[u](e,e.exports,n),e.exports}(435)}();
+//# sourceMappingURL=index.js.map

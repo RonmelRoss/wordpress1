@@ -1,0 +1,691 @@
+{
+    "packages": [
+        {
+            "name": "devowl-wp\/cache-invalidate",
+            "version": "dev-develop",
+            "version_normalized": "dev-develop",
+            "dist": {
+                "type": "path",
+                "url": "..\/..\/..\/..\/packages\/cache-invalidate",
+                "reference": "0dd7f8d00e2a8c208db5f50097dfe88645e1c464"
+            },
+            "archive": {
+                "exclude": [
+                    "lib",
+                    "tests"
+                ]
+            },
+            "require-dev": {
+                "10up\/wp_mock": "^0.4.2",
+                "antecedent\/patchwork": "^2.1.12",
+                "comcast\/php-legal-licenses": "^1.1.2",
+                "dealerdirect\/phpcodesniffer-composer-installer": "^0.5.0",
+                "metasyntactical\/composer-plugin-license-check": "^0.5.0",
+                "php-stubs\/wordpress-stubs": "^5.3.2",
+                "phpcompatibility\/php-compatibility": "^9.3",
+                "phpunit\/phpunit": "^7",
+                "rregeer\/phpunit-coverage-check": "^0.3.1",
+                "slevomat\/coding-standard": "^6.0@dev",
+                "squizlabs\/php_codesniffer": "^3.5",
+                "wp-coding-standards\/wpcs": "^2.2"
+            },
+            "type": "library",
+            "extra": {
+                "clean-all-except": [
+                    "src",
+                    "dist",
+                    "dev",
+                    "languages"
+                ],
+                "metasyntactical\/composer-plugin-license-check": {
+                    "whitelist": [
+                        "MIT",
+                        "ISC",
+                        "BSD-2-Clause",
+                        "BSD-3-Clause",
+                        "BSD",
+                        "Apache-2.0",
+                        "Apache2",
+                        "Artistic-2.0",
+                        "WTFPL",
+                        "CC-0",
+                        "CC0-1.0",
+                        "MPL-2.0",
+                        "ZLib",
+                        "Unlicense",
+                        "GPL-2.0",
+                        "GPL-2.0-or-later",
+                        "GPL-3",
+                        "GPL-3.0-or-later",
+                        "LGPL-3.0-or-later"
+                    ],
+                    "blacklist": [
+                        "*"
+                    ],
+                    "packages": [
+                        "ignore-packages-here@1.0.0"
+                    ]
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\DevOwl\\CacheInvalidate\\": "src\/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\DevOwl\\CacheInvalidate\\Test\\": "test\/phpunit\/"
+                }
+            },
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "DevOwl"
+                }
+            ],
+            "description": "Provide a single entry point to trigger cache invalidation of known caching plugins",
+            "transport-options": {
+                "symlink": false
+            },
+            "install-path": "..\/devowl-wp\/cache-invalidate"
+        },
+        {
+            "name": "devowl-wp\/customize",
+            "version": "dev-plugin\/rcb",
+            "version_normalized": "dev-plugin\/rcb",
+            "dist": {
+                "type": "path",
+                "url": "..\/..\/..\/..\/packages\/customize",
+                "reference": "b48407281b17a4a56db7afbc91361c2ce39f6b73"
+            },
+            "archive": {
+                "exclude": [
+                    "lib",
+                    "tests"
+                ]
+            },
+            "require-dev": {
+                "10up\/wp_mock": "^0.4.2",
+                "antecedent\/patchwork": "^2.1.12",
+                "comcast\/php-legal-licenses": "^1.1.2",
+                "dealerdirect\/phpcodesniffer-composer-installer": "^0.5.0",
+                "metasyntactical\/composer-plugin-license-check": "^0.5.0",
+                "php-stubs\/wordpress-stubs": "^5.3.2",
+                "phpcompatibility\/php-compatibility": "^9.3",
+                "phpunit\/phpunit": "^7",
+                "rregeer\/phpunit-coverage-check": "^0.3.1",
+                "slevomat\/coding-standard": "^6.0@dev",
+                "squizlabs\/php_codesniffer": "^3.5",
+                "wp-coding-standards\/wpcs": "^2.2"
+            },
+            "type": "library",
+            "extra": {
+                "clean-all-except": [
+                    "src",
+                    "dist",
+                    "dev",
+                    "languages"
+                ],
+                "metasyntactical\/composer-plugin-license-check": {
+                    "whitelist": [
+                        "MIT",
+                        "ISC",
+                        "BSD-2-Clause",
+                        "BSD-3-Clause",
+                        "BSD",
+                        "Apache-2.0",
+                        "Apache2",
+                        "Artistic-2.0",
+                        "WTFPL",
+                        "CC-0",
+                        "CC0-1.0",
+                        "MPL-2.0",
+                        "ZLib",
+                        "Unlicense",
+                        "GPL-2.0",
+                        "GPL-2.0-or-later",
+                        "GPL-3",
+                        "GPL-3.0-or-later",
+                        "LGPL-3.0-or-later"
+                    ],
+                    "blacklist": [
+                        "*"
+                    ],
+                    "packages": [
+                        "ignore-packages-here@1.0.0"
+                    ]
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\DevOwl\\Customize\\": "src\/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\DevOwl\\Customize\\Test\\": "test\/phpunit\/"
+                }
+            },
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Matthias G\u00fcnter"
+                }
+            ],
+            "description": "Abstract utility for live preview (customize)",
+            "transport-options": {
+                "symlink": false
+            },
+            "install-path": "..\/devowl-wp\/customize"
+        },
+        {
+            "name": "devowl-wp\/deliver-anonymous-asset",
+            "version": "dev-chore\/review-rtg",
+            "version_normalized": "dev-chore\/review-rtg",
+            "dist": {
+                "type": "path",
+                "url": "..\/..\/..\/..\/packages\/deliver-anonymous-asset",
+                "reference": "a96bf0be335c78ed488393c6e84ee5a95fb113cc"
+            },
+            "archive": {
+                "exclude": [
+                    "lib",
+                    "tests"
+                ]
+            },
+            "require-dev": {
+                "10up\/wp_mock": "^0.4.2",
+                "antecedent\/patchwork": "^2.1.12",
+                "comcast\/php-legal-licenses": "^1.1.2",
+                "dealerdirect\/phpcodesniffer-composer-installer": "^0.7.0",
+                "metasyntactical\/composer-plugin-license-check": "^1.1.0",
+                "php-stubs\/wordpress-stubs": "^5.3.2",
+                "phpcompatibility\/php-compatibility": "^9.3",
+                "phpunit\/phpunit": "^7",
+                "rregeer\/phpunit-coverage-check": "^0.3.1",
+                "slevomat\/coding-standard": "^6.0@dev",
+                "squizlabs\/php_codesniffer": "^3.5",
+                "wp-coding-standards\/wpcs": "^2.2"
+            },
+            "type": "library",
+            "extra": {
+                "clean-all-except": [
+                    "src",
+                    "dist",
+                    "dev",
+                    "languages"
+                ],
+                "metasyntactical\/composer-plugin-license-check": {
+                    "whitelist": [
+                        "MIT",
+                        "ISC",
+                        "BSD-2-Clause",
+                        "BSD-3-Clause",
+                        "BSD",
+                        "Apache-2.0",
+                        "Apache2",
+                        "Artistic-2.0",
+                        "WTFPL",
+                        "CC-0",
+                        "CC0-1.0",
+                        "MPL-2.0",
+                        "ZLib",
+                        "Unlicense",
+                        "GPL-2.0",
+                        "GPL-2.0-or-later",
+                        "GPL-3",
+                        "GPL-3.0-or-later",
+                        "LGPL-3.0-or-later"
+                    ],
+                    "blacklist": [
+                        "*"
+                    ],
+                    "packages": [
+                        "ignore-packages-here@1.0.0"
+                    ]
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\DevOwl\\DeliverAnonymousAsset\\": "src\/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\DevOwl\\DeliverAnonymousAsset\\Test\\": "test\/phpunit\/"
+                }
+            },
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "DevOwl"
+                }
+            ],
+            "description": "Provide a functionality to deliver assets anonymous",
+            "transport-options": {
+                "symlink": false,
+                "relative": true
+            },
+            "install-path": "..\/devowl-wp\/deliver-anonymous-asset"
+        },
+        {
+            "name": "devowl-wp\/freemium",
+            "version": "dev-plugin\/rcb",
+            "version_normalized": "dev-plugin\/rcb",
+            "dist": {
+                "type": "path",
+                "url": "..\/..\/..\/..\/packages\/freemium",
+                "reference": "a9ac47c0e76a664ed8f39c61bcc1aae8567f1697"
+            },
+            "archive": {
+                "exclude": [
+                    "lib",
+                    "tests"
+                ]
+            },
+            "require-dev": {
+                "10up\/wp_mock": "^0.4.2",
+                "antecedent\/patchwork": "^2.1.12",
+                "comcast\/php-legal-licenses": "^1.1.2",
+                "dealerdirect\/phpcodesniffer-composer-installer": "^0.5.0",
+                "metasyntactical\/composer-plugin-license-check": "^0.5.0",
+                "php-stubs\/wordpress-stubs": "^5.3.2",
+                "phpcompatibility\/php-compatibility": "^9.3",
+                "phpunit\/phpunit": "^7",
+                "rregeer\/phpunit-coverage-check": "^0.3.1",
+                "slevomat\/coding-standard": "^6.0@dev",
+                "squizlabs\/php_codesniffer": "^3.5",
+                "wp-coding-standards\/wpcs": "^2.2"
+            },
+            "type": "library",
+            "extra": {
+                "clean-all-except": [
+                    "src",
+                    "dist",
+                    "dev",
+                    "languages"
+                ],
+                "metasyntactical\/composer-plugin-license-check": {
+                    "whitelist": [
+                        "MIT",
+                        "ISC",
+                        "BSD-2-Clause",
+                        "BSD-3-Clause",
+                        "BSD",
+                        "Apache-2.0",
+                        "Apache2",
+                        "Artistic-2.0",
+                        "WTFPL",
+                        "CC-0",
+                        "CC0-1.0",
+                        "MPL-2.0",
+                        "ZLib",
+                        "Unlicense",
+                        "GPL-2.0",
+                        "GPL-2.0-or-later",
+                        "GPL-3",
+                        "GPL-3.0-or-later",
+                        "LGPL-3.0-or-later",
+                        "MIT*",
+                        "BSD*"
+                    ],
+                    "blacklist": [
+                        "*"
+                    ],
+                    "packages": [
+                        "ignore-packages-here@1.0.0"
+                    ]
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\DevOwl\\Freemium\\": "src\/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\DevOwl\\Freemium\\Test\\": "test\/phpunit\/"
+                }
+            },
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "devowl"
+                }
+            ],
+            "description": "Make your plugin to a freemium plugin with predefined Envato support",
+            "transport-options": {
+                "symlink": false
+            },
+            "install-path": "..\/devowl-wp\/freemium"
+        },
+        {
+            "name": "devowl-wp\/multilingual",
+            "version": "dev-feat\/4wqqym\/rcb\/wpml",
+            "version_normalized": "dev-feat\/4wqqym\/rcb\/wpml",
+            "dist": {
+                "type": "path",
+                "url": "..\/..\/..\/..\/packages\/multilingual",
+                "reference": "8eb23fa20dc0945d21529803ac83fc08b2f29357"
+            },
+            "archive": {
+                "exclude": [
+                    "lib",
+                    "tests"
+                ]
+            },
+            "require-dev": {
+                "10up\/wp_mock": "^0.4.2",
+                "antecedent\/patchwork": "^2.1.12",
+                "comcast\/php-legal-licenses": "^1.1.2",
+                "dealerdirect\/phpcodesniffer-composer-installer": "^0.5.0",
+                "metasyntactical\/composer-plugin-license-check": "^0.5.0",
+                "php-stubs\/wordpress-stubs": "^5.3.2",
+                "phpcompatibility\/php-compatibility": "^9.3",
+                "phpunit\/phpunit": "^7",
+                "rregeer\/phpunit-coverage-check": "^0.3.1",
+                "slevomat\/coding-standard": "^6.0@dev",
+                "squizlabs\/php_codesniffer": "^3.5",
+                "wp-coding-standards\/wpcs": "^2.2"
+            },
+            "type": "library",
+            "extra": {
+                "clean-all-except": [
+                    "src",
+                    "dist",
+                    "dev",
+                    "languages"
+                ],
+                "metasyntactical\/composer-plugin-license-check": {
+                    "whitelist": [
+                        "MIT",
+                        "ISC",
+                        "BSD-2-Clause",
+                        "BSD-3-Clause",
+                        "BSD",
+                        "Apache-2.0",
+                        "Apache2",
+                        "Artistic-2.0",
+                        "WTFPL",
+                        "CC-0",
+                        "CC0-1.0",
+                        "MPL-2.0",
+                        "ZLib",
+                        "Unlicense",
+                        "GPL-2.0",
+                        "GPL-2.0-or-later",
+                        "GPL-3",
+                        "GPL-3.0-or-later",
+                        "LGPL-3.0-or-later"
+                    ],
+                    "blacklist": [
+                        "*"
+                    ],
+                    "packages": [
+                        "ignore-packages-here@1.0.0"
+                    ]
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\DevOwl\\Multilingual\\": "src\/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\DevOwl\\Multilingual\\Test\\": "test\/phpunit\/"
+                }
+            },
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "DevOwl"
+                }
+            ],
+            "description": "Provide helper functionality for multilingual plugins like WPML and PolyLang",
+            "transport-options": {
+                "symlink": false
+            },
+            "install-path": "..\/devowl-wp\/multilingual"
+        },
+        {
+            "name": "devowl-wp\/real-product-manager-wp-client",
+            "version": "dev-develop",
+            "version_normalized": "dev-develop",
+            "dist": {
+                "type": "path",
+                "url": "..\/..\/..\/..\/packages\/real-product-manager-wp-client",
+                "reference": "f1e9f300f8b4194fca019f60c970ab11283bfbc7"
+            },
+            "archive": {
+                "exclude": [
+                    "lib",
+                    "tests"
+                ]
+            },
+            "require-dev": {
+                "10up\/wp_mock": "^0.4.2",
+                "antecedent\/patchwork": "^2.1.12",
+                "comcast\/php-legal-licenses": "^1.1.2",
+                "dealerdirect\/phpcodesniffer-composer-installer": "^0.5.0",
+                "metasyntactical\/composer-plugin-license-check": "^0.5.0",
+                "php-stubs\/wordpress-stubs": "^5.3.2",
+                "phpcompatibility\/php-compatibility": "^9.3",
+                "phpunit\/phpunit": "^7",
+                "rregeer\/phpunit-coverage-check": "^0.3.1",
+                "slevomat\/coding-standard": "^6.0@dev",
+                "squizlabs\/php_codesniffer": "^3.5",
+                "wp-coding-standards\/wpcs": "^2.2"
+            },
+            "type": "library",
+            "extra": {
+                "clean-all-except": [
+                    "src",
+                    "dist",
+                    "dev",
+                    "languages"
+                ],
+                "metasyntactical\/composer-plugin-license-check": {
+                    "whitelist": [
+                        "MIT",
+                        "ISC",
+                        "BSD-2-Clause",
+                        "BSD-3-Clause",
+                        "BSD",
+                        "Apache-2.0",
+                        "Apache2",
+                        "Artistic-2.0",
+                        "WTFPL",
+                        "CC-0",
+                        "CC0-1.0",
+                        "MPL-2.0",
+                        "ZLib",
+                        "Unlicense",
+                        "GPL-2.0",
+                        "GPL-2.0-or-later",
+                        "GPL-3",
+                        "GPL-3.0-or-later",
+                        "LGPL-3.0-or-later"
+                    ],
+                    "blacklist": [
+                        "*"
+                    ],
+                    "packages": [
+                        "ignore-packages-here@1.0.0"
+                    ]
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\DevOwl\\RealProductManagerWpClient\\": "src\/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\DevOwl\\RealProductManagerWpClient\\Test\\": "test\/phpunit\/"
+                }
+            },
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "DevOwl"
+                }
+            ],
+            "description": "A WordPress client for Real Product Manager",
+            "transport-options": {
+                "symlink": false
+            },
+            "install-path": "..\/devowl-wp\/real-product-manager-wp-client"
+        },
+        {
+            "name": "devowl-wp\/real-utils",
+            "version": "dev-plugin\/rcb",
+            "version_normalized": "dev-plugin\/rcb",
+            "dist": {
+                "type": "path",
+                "url": "..\/..\/..\/..\/packages\/real-utils",
+                "reference": "6322766f54f2ed70dc6865b75001fc3befb422d2"
+            },
+            "archive": {
+                "exclude": [
+                    "lib",
+                    "tests"
+                ]
+            },
+            "require-dev": {
+                "10up\/wp_mock": "^0.4.2",
+                "antecedent\/patchwork": "^2.1.12",
+                "comcast\/php-legal-licenses": "^1.1.2",
+                "dealerdirect\/phpcodesniffer-composer-installer": "^0.5.0",
+                "metasyntactical\/composer-plugin-license-check": "^0.5.0",
+                "php-stubs\/wordpress-stubs": "^5.3.2",
+                "phpcompatibility\/php-compatibility": "^9.3",
+                "phpunit\/phpunit": "^7",
+                "rregeer\/phpunit-coverage-check": "^0.3.1",
+                "slevomat\/coding-standard": "^6.0@dev",
+                "squizlabs\/php_codesniffer": "^3.5",
+                "wp-coding-standards\/wpcs": "^2.2"
+            },
+            "type": "library",
+            "extra": {
+                "clean-all-except": [
+                    "src",
+                    "dist",
+                    "dev",
+                    "languages"
+                ],
+                "metasyntactical\/composer-plugin-license-check": {
+                    "whitelist": [
+                        "MIT",
+                        "ISC",
+                        "BSD-2-Clause",
+                        "BSD-3-Clause",
+                        "BSD",
+                        "Apache-2.0",
+                        "Apache2",
+                        "Artistic-2.0",
+                        "WTFPL",
+                        "CC-0",
+                        "CC0-1.0",
+                        "MPL-2.0",
+                        "ZLib",
+                        "Unlicense",
+                        "GPL-2.0",
+                        "GPL-2.0-or-later",
+                        "GPL-3",
+                        "GPL-3.0-or-later",
+                        "LGPL-3.0-or-later",
+                        "MIT*",
+                        "BSD*"
+                    ],
+                    "blacklist": [
+                        "*"
+                    ],
+                    "packages": [
+                        "ignore-packages-here@1.0.0"
+                    ]
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\DevOwl\\RealUtils\\": "src\/"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\DevOwl\\RealUtils\\Test\\": "test\/phpunit\/"
+                }
+            },
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "devowlio"
+                }
+            ],
+            "description": "Create cross-selling ads, about page, rating and newsletter input for WP Real plugins.",
+            "transport-options": {
+                "symlink": false
+            },
+            "install-path": "..\/devowl-wp\/real-utils"
+        },
+        {
+            "name": "devowl-wp\/utils",
+            "version": "dev-feat\/multipackage",
+            "version_normalized": "dev-feat\/multipackage",
+            "dist": {
+                "type": "path",
+                "url": "..\/..\/..\/..\/packages\/utils",
+                "reference": "bb1d92ba33ae3925685c4cc5701938b71e37627b"
+            },
+            "archive": {
+                "exclude": [
+                    "lib"
+                ]
+            },
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "DevOwl\\RealCookieBanner\\Vendor\\MatthiasWeb\\Utils\\": "src\/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Matthias G\u00fcnter",
+                    "email": "support@matthias-web.com"
+                }
+            ],
+            "description": "Utility functionality for all your WordPress plugins",
+            "transport-options": {
+                "symlink": false
+            },
+            "install-path": "..\/devowl-wp\/utils"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}
